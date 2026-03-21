@@ -171,7 +171,6 @@ const DatePickerRange = React.forwardRef<HTMLDivElement, DatePickerRangeProps>(
       };
       document.addEventListener("keydown", handleKeyDown);
       return () => document.removeEventListener("keydown", handleKeyDown);
-      // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [open, value]);
 
     const triggerText = formatTriggerText(value, displayFormat);
@@ -380,7 +379,7 @@ function CustomDayButton(
     modifiers: Record<string, boolean>;
   },
 ) {
-  const { children, day, modifiers, className, ...rest } = props;
+  const { children, day: _day, modifiers, className, ...rest } = props;
   const isToday = modifiers.today;
   const isSelected = modifiers.range_start || modifiers.range_end;
   const isInRange = modifiers.range_middle;

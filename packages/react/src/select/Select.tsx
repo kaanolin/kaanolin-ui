@@ -66,8 +66,7 @@ export interface SelectGroupProps extends React.HTMLAttributes<HTMLDivElement> {
   children: React.ReactNode;
 }
 
-export interface SelectSeparatorProps
-  extends React.HTMLAttributes<HTMLHRElement> {}
+export type SelectSeparatorProps = React.HTMLAttributes<HTMLHRElement>;
 
 /* ========== Context ========== */
 
@@ -487,7 +486,6 @@ const SelectItem = React.forwardRef<HTMLLIElement, SelectItemProps>(
     React.useEffect(() => {
       ctx.registerItem(value, labelText, disabled);
       return () => ctx.unregisterItem(value);
-      // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [value, labelText, disabled]);
 
     const handleClick = () => {
