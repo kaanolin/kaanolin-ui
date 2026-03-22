@@ -1,6 +1,6 @@
 {
   "name": "@kaanolin/react",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "React components for @kaanolin design system",
   "license": "MIT",
   "type": "module",
