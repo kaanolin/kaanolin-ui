@@ -1,5 +1,5 @@
 {
-  "name": "@higgs-ui-kit/root",
+  "name": "@kaanolin/root",
   "private": true,
   "workspaces": [
     "packages/*"

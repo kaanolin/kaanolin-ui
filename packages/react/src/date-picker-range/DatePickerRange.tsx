@@ -2,7 +2,7 @@ import * as React from "react";
 import { DayPicker } from "react-day-picker";
 import type { DateRange, Matcher } from "react-day-picker";
 import { format, parse, isValid } from "date-fns";
-import { cx } from "@higgs-ui-kit/utils";
+import { cx } from "@kaanolin/utils";
 import {
   datePickerTriggerStyles,
   datePickerTriggerIconStyles,

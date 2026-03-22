@@ -5,7 +5,7 @@
     "rootDir": "./src",
     "types": ["jest", "@testing-library/jest-dom"],
     "paths": {
-      "@higgs-ui-kit/utils": ["../utils/src/index.ts"]
+      "@kaanolin/utils": ["../utils/src/index.ts"]
     },
     "baseUrl": "."
   },
