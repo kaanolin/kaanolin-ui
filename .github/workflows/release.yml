@@ -36,11 +36,6 @@ jobs:
 
       - run: npm run build
 
-      - name: Configure git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Bump version
         id: bump
         run: |
@@ -48,6 +43,16 @@ jobs:
           npm version ${{ inputs.version }} --no-git-tag-version
           VERSION=$(node -p "require('./package.json').version")
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Publish to npm
+        run: npm publish --workspace=packages/react --provenance --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit, tag and push
         run: |
@@ -59,11 +64,6 @@ jobs:
           git tag "v${{ steps.bump.outputs.version }}"
           git push
           git push --tags
-
-      - name: Publish to npm
-        run: npm publish --workspace=packages/react --provenance --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Create GitHub Release
         run: gh release create "v${{ steps.bump.outputs.version }}" --generate-notes
