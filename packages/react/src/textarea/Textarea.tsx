@@ -1,6 +1,6 @@
 import * as React from "react";
 import type { VariantProps } from "class-variance-authority";
-import { cx } from "@higgs-ui-kit/utils";
+import { cx } from "@kaanolin/utils";
 import { textareaStyles } from "./Textarea.styles";
 import {
   labelStyles,

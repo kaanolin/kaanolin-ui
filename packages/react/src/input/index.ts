@@ -18,10 +18,10 @@ export {
   helperTextStyles,
 } from "../_shared/form-field.styles";
 
-// Re-export Textarea (backward compatibility — prefer @higgs-ui-kit/react/textarea)
+// Re-export Textarea (backward compatibility — prefer @kaanolin/react/textarea)
 export { Textarea, type TextareaProps, textareaStyles } from "../textarea";
 
-// Re-export InputGroup (backward compatibility — prefer @higgs-ui-kit/react/input-group)
+// Re-export InputGroup (backward compatibility — prefer @kaanolin/react/input-group)
 export {
   InputGroup,
   InputPrefix,

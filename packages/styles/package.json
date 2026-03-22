@@ -1,7 +1,7 @@
 {
-  "name": "@higgs-ui-kit/styles",
+  "name": "@kaanolin/styles",
   "version": "0.1.0",
-  "description": "Design tokens and theme for @higgs-ui-kit (Tailwind CSS v4)",
+  "description": "Design tokens and theme for @kaanolin (Tailwind CSS v4)",
   "private": true,
   "license": "MIT",
   "type": "module",

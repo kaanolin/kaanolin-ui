@@ -1,5 +1,5 @@
 // Utils
-export { cx } from "@higgs-ui-kit/utils";
+export { cx } from "@kaanolin/utils";
 
 // Button
 export {

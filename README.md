@@ -4,24 +4,24 @@ Librería de componentes React basada en el design system Untitled UI. Monorepo 
 
 ## Stack
 
-| Tecnología | Uso |
-| ---------- | --- |
-| React 19 | Componentes con `forwardRef` |
-| Tailwind CSS v4 | Estilos con directiva `@theme` (sin tailwind.config.js) |
-| CVA | Variantes de estilo por componente |
-| tailwind-merge | Resolución de clases conflictivas vía `cx` |
-| Vite 6 | Build de librería (ES + CJS + tipos) |
-| Storybook 8 | Documentación visual e interactiva |
-| Jest + Testing Library | Tests unitarios y de interacción |
-| Nx 22 | Orquestación del monorepo, cache, tasks |
+| Tecnología             | Uso                                                     |
+| ---------------------- | ------------------------------------------------------- |
+| React 19               | Componentes con `forwardRef`                            |
+| Tailwind CSS v4        | Estilos con directiva `@theme` (sin tailwind.config.js) |
+| CVA                    | Variantes de estilo por componente                      |
+| tailwind-merge         | Resolución de clases conflictivas vía `cx`              |
+| Vite 6                 | Build de librería (ES + CJS + tipos)                    |
+| Storybook 8            | Documentación visual e interactiva                      |
+| Jest + Testing Library | Tests unitarios y de interacción                        |
+| Nx 22                  | Orquestación del monorepo, cache, tasks                 |
 
 ## Paquete publicado
 
-| Paquete | Descripción |
-| ------- | ----------- |
-| `@higgs-ui-kit/react` | Componentes React, design tokens CSS y utilidades |
+| Paquete           | Descripción                                       |
+| ----------------- | ------------------------------------------------- |
+| `@kaanolin/react` | Componentes React, design tokens CSS y utilidades |
 
-Los paquetes internos `styles` y `utils` se bundlean dentro de `@higgs-ui-kit/react` y no se publican por separado.
+Los paquetes internos `styles` y `utils` se bundlean dentro de `@kaanolin/react` y no se publican por separado.
 
 ## Arquitectura
 
@@ -79,17 +79,17 @@ component/
 
 ## Componentes disponibles
 
-| Componente | Variantes | Tamaños | Características |
-| ---------- | --------- | ------- | --------------- |
-| **Button** | primary, secondaryGray/Color, tertiaryGray/Color, linkGray/Color | sm, md, lg, xl, 2xl | destructive, loading, leadingIcon, trailingIcon, CloseButton |
-| **Input** | default, error, success | small, medium, large | icon, tooltip, shortcut, isRequired, helperText |
-| **Textarea** | default, error, success | small, medium, large | tooltip, isRequired, helperText, rows |
-| **InputGroup** | - | small, medium, large | prefix, leadingAddon, trailingAddon, label, hint |
-| **Card** | default, elevated, outline, ghost | default, sm | interactive, CardImage, CardHeader action slot |
-| **Modal** | - | sm, md, lg | ModalIcon (5 colores), closeOnOverlayClick, Escape, X button |
-| **Badge** | - | - | - |
-| **DatePickerRange** | - | - | Calendar 2 meses, date inputs, Cancel/Apply, align, minDate/maxDate, i18n |
-| **Select** | default, error, success | small, medium, large | keyboard nav, typeahead, groups, separators, controlled/uncontrolled |
+| Componente          | Variantes                                                        | Tamaños              | Características                                                           |
+| ------------------- | ---------------------------------------------------------------- | -------------------- | ------------------------------------------------------------------------- |
+| **Button**          | primary, secondaryGray/Color, tertiaryGray/Color, linkGray/Color | sm, md, lg, xl, 2xl  | destructive, loading, leadingIcon, trailingIcon, CloseButton              |
+| **Input**           | default, error, success                                          | small, medium, large | icon, tooltip, shortcut, isRequired, helperText                           |
+| **Textarea**        | default, error, success                                          | small, medium, large | tooltip, isRequired, helperText, rows                                     |
+| **InputGroup**      | -                                                                | small, medium, large | prefix, leadingAddon, trailingAddon, label, hint                          |
+| **Card**            | default, elevated, outline, ghost                                | default, sm          | interactive, CardImage, CardHeader action slot                            |
+| **Modal**           | -                                                                | sm, md, lg           | ModalIcon (5 colores), closeOnOverlayClick, Escape, X button              |
+| **Badge**           | -                                                                | -                    | -                                                                         |
+| **DatePickerRange** | -                                                                | -                    | Calendar 2 meses, date inputs, Cancel/Apply, align, minDate/maxDate, i18n |
+| **Select**          | default, error, success                                          | small, medium, large | keyboard nav, typeahead, groups, separators, controlled/uncontrolled      |
 
 ## Setup
 
@@ -111,7 +111,7 @@ Storybook permite navegar, probar y documentar los componentes visualmente.
 
 ```bash
 # Desde la raíz del monorepo
-npx nx run @higgs-ui-kit/react:storybook
+npx nx run @kaanolin/react:storybook
 
 # O desde packages/react
 cd packages/react && npm run storybook
@@ -125,7 +125,7 @@ Abre `http://localhost:6006` en el navegador. Cada componente tiene stories con 
 # Todos los tests (235 tests)
 npm test
 
-# Solo @higgs-ui-kit/react
+# Solo @kaanolin/react
 npx nx test react
 
 # Un componente específico
@@ -153,15 +153,15 @@ Nx ejecuta `nx run-many -t build` que compila los 3 paquetes en orden de depende
 packages/react/dist/
 ├── index.js / index.cjs              # Barrel (todos los componentes + cx)
 ├── index.d.ts                        # Tipos TypeScript
-├── button.js / button.cjs            # Subpath: @higgs-ui-kit/react/button
-├── input.js / input.cjs              # Subpath: @higgs-ui-kit/react/input
-├── textarea.js / textarea.cjs        # Subpath: @higgs-ui-kit/react/textarea
-├── input-group.js / input-group.cjs  # Subpath: @higgs-ui-kit/react/input-group
-├── card.js / card.cjs                # Subpath: @higgs-ui-kit/react/card
-├── modal.js / modal.cjs              # Subpath: @higgs-ui-kit/react/modal
-├── badge.js / badge.cjs              # Subpath: @higgs-ui-kit/react/badge
-├── date-picker-range.js / .cjs       # Subpath: @higgs-ui-kit/react/date-picker-range
-├── select.js / select.cjs            # Subpath: @higgs-ui-kit/react/select
+├── button.js / button.cjs            # Subpath: @kaanolin/react/button
+├── input.js / input.cjs              # Subpath: @kaanolin/react/input
+├── textarea.js / textarea.cjs        # Subpath: @kaanolin/react/textarea
+├── input-group.js / input-group.cjs  # Subpath: @kaanolin/react/input-group
+├── card.js / card.cjs                # Subpath: @kaanolin/react/card
+├── modal.js / modal.cjs              # Subpath: @kaanolin/react/modal
+├── badge.js / badge.cjs              # Subpath: @kaanolin/react/badge
+├── date-picker-range.js / .cjs       # Subpath: @kaanolin/react/date-picker-range
+├── select.js / select.cjs            # Subpath: @kaanolin/react/select
 ├── style.css                         # Estilos compilados de Tailwind
 └── styles/                           # Design tokens CSS
     ├── index.css                     # Todos los tokens concatenados
@@ -176,32 +176,32 @@ packages/react/dist/
 1. Instalar el paquete:
 
 ```bash
-npm install @higgs-ui-kit/react
+npm install @kaanolin/react
 ```
 
 2. Importar los estilos en el CSS raíz del proyecto consumidor:
 
 ```css
 @import "tailwindcss";
-@import "@higgs-ui-kit/react/styles";
+@import "@kaanolin/react/styles";
 ```
 
 3. Usar los componentes:
 
 ```tsx
 // Barrel import (tree-shakeable)
-import { Button, Input, Modal, Select } from "@higgs-ui-kit/react";
+import { Button, Input, Modal, Select } from "@kaanolin/react";
 
 // O subpath import (bundle más pequeño)
-import { Button } from "@higgs-ui-kit/react/button";
-import { Select, SelectItem } from "@higgs-ui-kit/react/select";
-import { DatePickerRange } from "@higgs-ui-kit/react/date-picker-range";
+import { Button } from "@kaanolin/react/button";
+import { Select, SelectItem } from "@kaanolin/react/select";
+import { DatePickerRange } from "@kaanolin/react/date-picker-range";
 ```
 
 4. Usar las utilidades:
 
 ```tsx
-import { cx } from "@higgs-ui-kit/react";
+import { cx } from "@kaanolin/react";
 
 // cx resuelve clases Tailwind conflictivas
 cx("px-4 py-2", "px-6"); // => "px-6 py-2"
@@ -212,8 +212,8 @@ cx("px-4 py-2", "px-6"); // => "px-6 py-2"
 Para recompilar automáticamente al guardar cambios:
 
 ```bash
-npx nx run @higgs-ui-kit/react:dev
-npx nx run @higgs-ui-kit/utils:dev
+npx nx run @kaanolin/react:dev
+npx nx run @kaanolin/utils:dev
 ```
 
 ## Lint y formato

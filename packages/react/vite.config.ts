@@ -7,7 +7,7 @@ import dts from "vite-plugin-dts";
 export default defineConfig({
   resolve: {
     alias: {
-      "@higgs-ui-kit/utils": resolve(__dirname, "../utils/src/index.ts"),
+      "@kaanolin/utils": resolve(__dirname, "../utils/src/index.ts"),
     },
   },
   plugins: [

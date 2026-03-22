@@ -64,4 +64,4 @@ jobs:
       - name: Create GitHub Release
         run: gh release create "v${{ steps.bump.outputs.version }}" --generate-notes
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.PAT }}
