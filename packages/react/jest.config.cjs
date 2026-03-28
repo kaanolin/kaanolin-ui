@@ -4,10 +4,12 @@ module.exports = {
   roots: ["<rootDir>/src"],
   transform: {
     "^.+\\.tsx?$": [
-      "ts-jest",
+      "@swc/jest",
       {
-        tsconfig: "tsconfig.test.json",
-        useESM: false,
+        jsc: {
+          parser: { syntax: "typescript", tsx: true },
+          transform: { react: { runtime: "automatic" } },
+        },
       },
     ],
   },
