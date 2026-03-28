@@ -4,6 +4,7 @@
   "plugins": [
     {
       "plugin": "@nx/storybook/plugin",
+      "exclude": ["package.json"],
       "options": {
         "serveStorybookTargetName": "serve:storybook",
         "buildStorybookTargetName": "build:storybook",
