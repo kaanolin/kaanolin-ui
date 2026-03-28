@@ -45,7 +45,7 @@ jobs:
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 
       - name: Publish to npm
-        run: npm publish --workspace=packages/react --access public
+        run: npm publish --workspace=packages/react --access restricted
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
