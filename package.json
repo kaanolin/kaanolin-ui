@@ -22,6 +22,8 @@
     "@nx/storybook": "22.4.5",
     "@nx/vite": "22.4.5",
     "@nx/web": "22.4.5",
+    "@swc/core": "^1.15.21",
+    "@swc/jest": "^0.2.39",
     "@testing-library/dom": "^10.4.1",
     "@vitest/ui": "^4.0.0",
     "eslint": "^9.39.2",
