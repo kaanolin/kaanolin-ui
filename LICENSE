@@ -1,0 +1,35 @@
+Kaanolin UI — Proprietary License
+
+Copyright (c) 2026 Alberto Moreno. All rights reserved.
+
+1. Grant of License
+   This software and associated documentation ("Software") is licensed, not sold.
+   The copyright holder grants authorized individuals and organizations a
+   non-exclusive, non-transferable, revocable license to use the Software solely
+   for internal purposes within projects approved by the copyright holder.
+
+2. Restrictions
+   You may NOT:
+   a. Redistribute, sublicense, sell, or make the Software publicly available
+      in source or compiled form.
+   b. Use the Software to create a competing component library or design system.
+   c. Remove or alter any copyright notices contained in the Software.
+
+3. Design System Attribution
+   This Software implements components inspired by the Untitled UI design system.
+   Untitled UI assets and design files are not included and remain subject to
+   their own license terms (https://www.untitledui.com/license).
+
+4. Contributions
+   Any contributions submitted to this project are subject to the same license
+   terms unless a separate agreement is established in writing.
+
+5. Warranty Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+6. Termination
+   This license is effective until terminated. The copyright holder may terminate
+   this license at any time. Upon termination, you must destroy all copies of
+   the Software in your possession.

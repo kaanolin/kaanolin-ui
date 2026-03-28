@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Utility functions for @kaanolin (cx, sortCx)",
   "private": true,
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "main": "./dist/utils.cjs",
   "module": "./dist/utils.js",

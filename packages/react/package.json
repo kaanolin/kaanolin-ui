@@ -2,7 +2,7 @@
   "name": "@kaanolin/react",
   "version": "1.2.1",
   "description": "React components for @kaanolin design system",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
