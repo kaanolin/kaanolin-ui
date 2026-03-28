@@ -1,3 +1,14 @@
 {
-  "name": "@kaanolin/root"
+  "name": "@kaanolin/root",
+  "targets": {
+    "build": {
+      "executor": "nx:noop"
+    },
+    "test": {
+      "executor": "nx:noop"
+    },
+    "lint": {
+      "executor": "nx:noop"
+    }
+  }
 }
