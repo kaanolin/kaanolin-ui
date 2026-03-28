@@ -34,8 +34,7 @@ Sidebar.displayName = "Sidebar";
 
 /* ========== SidebarHeader ========== */
 
-export interface SidebarHeaderProps
-  extends React.ComponentPropsWithoutRef<"div"> {}
+export type SidebarHeaderProps = React.ComponentPropsWithoutRef<"div">;
 
 const SidebarHeader = React.forwardRef<HTMLDivElement, SidebarHeaderProps>(
   ({ className, ...props }, ref) => (
@@ -51,8 +50,7 @@ SidebarHeader.displayName = "SidebarHeader";
 
 /* ========== SidebarContent ========== */
 
-export interface SidebarContentProps
-  extends React.ComponentPropsWithoutRef<"div"> {}
+export type SidebarContentProps = React.ComponentPropsWithoutRef<"div">;
 
 const SidebarContent = React.forwardRef<HTMLDivElement, SidebarContentProps>(
   ({ className, ...props }, ref) => (
@@ -68,8 +66,7 @@ SidebarContent.displayName = "SidebarContent";
 
 /* ========== SidebarFooter ========== */
 
-export interface SidebarFooterProps
-  extends React.ComponentPropsWithoutRef<"div"> {}
+export type SidebarFooterProps = React.ComponentPropsWithoutRef<"div">;
 
 const SidebarFooter = React.forwardRef<HTMLDivElement, SidebarFooterProps>(
   ({ className, ...props }, ref) => (
@@ -85,8 +82,7 @@ SidebarFooter.displayName = "SidebarFooter";
 
 /* ========== SidebarGroup ========== */
 
-export interface SidebarGroupProps
-  extends React.ComponentPropsWithoutRef<"div"> {}
+export type SidebarGroupProps = React.ComponentPropsWithoutRef<"div">;
 
 const SidebarGroup = React.forwardRef<HTMLDivElement, SidebarGroupProps>(
   ({ className, ...props }, ref) => (
@@ -102,8 +98,7 @@ SidebarGroup.displayName = "SidebarGroup";
 
 /* ========== SidebarGroupLabel ========== */
 
-export interface SidebarGroupLabelProps
-  extends React.ComponentPropsWithoutRef<"div"> {}
+export type SidebarGroupLabelProps = React.ComponentPropsWithoutRef<"div">;
 
 const SidebarGroupLabel = React.forwardRef<
   HTMLDivElement,

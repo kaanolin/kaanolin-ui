@@ -12,7 +12,7 @@ import {
 
 /* ========== Pagination (nav root) ========== */
 
-export interface PaginationProps extends React.ComponentPropsWithoutRef<"nav"> {}
+export type PaginationProps = React.ComponentPropsWithoutRef<"nav">;
 
 const Pagination = React.forwardRef<HTMLElement, PaginationProps>(
   ({ className, ...props }, ref) => (
@@ -30,8 +30,7 @@ Pagination.displayName = "Pagination";
 
 /* ========== PaginationContent (ul) ========== */
 
-export interface PaginationContentProps
-  extends React.ComponentPropsWithoutRef<"ul"> {}
+export type PaginationContentProps = React.ComponentPropsWithoutRef<"ul">;
 
 const PaginationContent = React.forwardRef<
   HTMLUListElement,
@@ -48,8 +47,7 @@ PaginationContent.displayName = "PaginationContent";
 
 /* ========== PaginationItem (li) ========== */
 
-export interface PaginationItemProps
-  extends React.ComponentPropsWithoutRef<"li"> {}
+export type PaginationItemProps = React.ComponentPropsWithoutRef<"li">;
 
 const PaginationItem = React.forwardRef<HTMLLIElement, PaginationItemProps>(
   ({ className, ...props }, ref) => (
@@ -142,8 +140,7 @@ PaginationNext.displayName = "PaginationNext";
 
 /* ========== PaginationEllipsis ========== */
 
-export interface PaginationEllipsisProps
-  extends React.ComponentPropsWithoutRef<"span"> {}
+export type PaginationEllipsisProps = React.ComponentPropsWithoutRef<"span">;
 
 const PaginationEllipsis = React.forwardRef<
   HTMLSpanElement,

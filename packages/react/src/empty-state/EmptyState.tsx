@@ -10,7 +10,7 @@ import {
 
 /* ========== EmptyState (root) ========== */
 
-export interface EmptyStateProps extends React.HTMLAttributes<HTMLDivElement> {}
+export type EmptyStateProps = React.HTMLAttributes<HTMLDivElement>;
 
 const EmptyState = React.forwardRef<HTMLDivElement, EmptyStateProps>(
   ({ className, children, ...props }, ref) => (
@@ -24,8 +24,7 @@ EmptyState.displayName = "EmptyState";
 
 /* ========== EmptyStateIcon ========== */
 
-export interface EmptyStateIconProps
-  extends React.HTMLAttributes<HTMLDivElement> {}
+export type EmptyStateIconProps = React.HTMLAttributes<HTMLDivElement>;
 
 const EmptyStateIcon = React.forwardRef<HTMLDivElement, EmptyStateIconProps>(
   ({ className, children, ...props }, ref) => (
@@ -39,8 +38,7 @@ EmptyStateIcon.displayName = "EmptyStateIcon";
 
 /* ========== EmptyStateTitle ========== */
 
-export interface EmptyStateTitleProps
-  extends React.HTMLAttributes<HTMLHeadingElement> {}
+export type EmptyStateTitleProps = React.HTMLAttributes<HTMLHeadingElement>;
 
 const EmptyStateTitle = React.forwardRef<
   HTMLHeadingElement,
@@ -55,8 +53,7 @@ EmptyStateTitle.displayName = "EmptyStateTitle";
 
 /* ========== EmptyStateDescription ========== */
 
-export interface EmptyStateDescriptionProps
-  extends React.HTMLAttributes<HTMLParagraphElement> {}
+export type EmptyStateDescriptionProps = React.HTMLAttributes<HTMLParagraphElement>;
 
 const EmptyStateDescription = React.forwardRef<
   HTMLParagraphElement,
@@ -75,8 +72,7 @@ EmptyStateDescription.displayName = "EmptyStateDescription";
 
 /* ========== EmptyStateActions ========== */
 
-export interface EmptyStateActionsProps
-  extends React.HTMLAttributes<HTMLDivElement> {}
+export type EmptyStateActionsProps = React.HTMLAttributes<HTMLDivElement>;
 
 const EmptyStateActions = React.forwardRef<
   HTMLDivElement,

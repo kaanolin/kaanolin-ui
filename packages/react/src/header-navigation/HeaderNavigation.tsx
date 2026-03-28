@@ -10,8 +10,7 @@ import {
 
 /* ========== HeaderNav ========== */
 
-export interface HeaderNavProps
-  extends React.ComponentPropsWithoutRef<"nav"> {}
+export type HeaderNavProps = React.ComponentPropsWithoutRef<"nav">;
 
 const HeaderNav = React.forwardRef<HTMLElement, HeaderNavProps>(
   ({ className, ...props }, ref) => (
@@ -27,8 +26,7 @@ HeaderNav.displayName = "HeaderNav";
 
 /* ========== HeaderNavLogo ========== */
 
-export interface HeaderNavLogoProps
-  extends React.ComponentPropsWithoutRef<"div"> {}
+export type HeaderNavLogoProps = React.ComponentPropsWithoutRef<"div">;
 
 const HeaderNavLogo = React.forwardRef<HTMLDivElement, HeaderNavLogoProps>(
   ({ className, ...props }, ref) => (
@@ -44,8 +42,7 @@ HeaderNavLogo.displayName = "HeaderNavLogo";
 
 /* ========== HeaderNavItems ========== */
 
-export interface HeaderNavItemsProps
-  extends React.ComponentPropsWithoutRef<"div"> {}
+export type HeaderNavItemsProps = React.ComponentPropsWithoutRef<"div">;
 
 const HeaderNavItems = React.forwardRef<HTMLDivElement, HeaderNavItemsProps>(
   ({ className, ...props }, ref) => (
@@ -103,8 +100,7 @@ HeaderNavItem.displayName = "HeaderNavItem";
 
 /* ========== HeaderNavActions ========== */
 
-export interface HeaderNavActionsProps
-  extends React.ComponentPropsWithoutRef<"div"> {}
+export type HeaderNavActionsProps = React.ComponentPropsWithoutRef<"div">;
 
 const HeaderNavActions = React.forwardRef<
   HTMLDivElement,
