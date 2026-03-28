@@ -77,8 +77,7 @@ const Input = React.forwardRef<HTMLInputElement, InputProps>(
               <span
                 className={cx(labelTooltipStyles())}
                 title={tooltip}
-                role="img"
-                aria-label={tooltip}
+                aria-hidden="true"
               >
                 <HelpCircleIcon />
               </span>

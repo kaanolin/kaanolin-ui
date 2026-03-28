@@ -1,1 +1,1 @@
-export { cx, sortCx } from "./cx";
+export { cx } from "./cx";

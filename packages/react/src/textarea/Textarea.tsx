@@ -59,8 +59,7 @@ const Textarea = React.forwardRef<HTMLTextAreaElement, TextareaProps>(
               <span
                 className={cx(labelTooltipStyles())}
                 title={tooltip}
-                role="img"
-                aria-label={tooltip}
+                aria-hidden="true"
               >
                 <HelpCircleIcon />
               </span>

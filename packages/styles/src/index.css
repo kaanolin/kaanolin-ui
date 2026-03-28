@@ -1,4 +1,8 @@
 @import "./colors.css";
-@import "./typography.css";
 @import "./shadows.css";
 @import "./spacing.css";
+@import "./typography.css";
+@import "./components.css";
+
+/* Dark mode variant — enables dark: utility prefix with .dark class */
+@custom-variant dark (&:where(.dark, .dark *));

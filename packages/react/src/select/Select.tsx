@@ -364,8 +364,7 @@ const Select = React.forwardRef<HTMLDivElement, SelectProps>(
               <span
                 className={cx(labelTooltipStyles())}
                 title={tooltip}
-                role="img"
-                aria-label={tooltip}
+                aria-hidden="true"
               >
                 <HelpCircleIcon />
               </span>

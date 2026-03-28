@@ -3,6 +3,7 @@ import type { VariantProps } from "class-variance-authority";
 import { cx } from "@kaanolin/utils";
 import {
   overlayStyles,
+  modalWrapperStyles,
   modalStyles,
   modalHeaderStyles,
   modalIconStyles,
@@ -62,11 +63,17 @@ const Modal: React.FC<ModalProps> = ({
         data-testid="modal-overlay"
       />
       <div
-        role="dialog"
-        aria-modal="true"
-        className={cx(modalStyles({ size }), className)}
+        className={cx(modalWrapperStyles())}
+        onClick={closeOnOverlayClick ? () => onOpenChange(false) : undefined}
       >
-        {children}
+        <div
+          role="dialog"
+          aria-modal="true"
+          className={cx(modalStyles({ size }), className)}
+          onClick={(e) => e.stopPropagation()}
+        >
+          {children}
+        </div>
       </div>
     </>
   );

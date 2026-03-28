@@ -1,31 +1,7 @@
-import { extendTailwindMerge } from "tailwind-merge";
+import { clsx, type ClassValue } from "clsx";
+import { twMerge } from "tailwind-merge";
 
-const twMerge = extendTailwindMerge({
-  extend: {
-    classGroups: {
-      "font-size": [
-        {
-          text: [
-            "display-xs",
-            "display-sm",
-            "display-md",
-            "display-lg",
-            "display-xl",
-            "display-2xl",
-          ],
-        },
-      ],
-    },
-  },
-});
-
-export const cx = twMerge;
-
-export function sortCx<
-  T extends Record<
-    string,
-    string | number | Record<string, string | number | Record<string, string | number>>
-  >,
->(classes: T): T {
-  return classes;
+export function cx(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs));
 }
+
