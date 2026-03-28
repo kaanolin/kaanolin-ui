@@ -1,5 +1,6 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
+import userEvent from "@testing-library/user-event";
 import { Badge } from "./Badge";
 
 describe("Badge", () => {
@@ -8,53 +9,86 @@ describe("Badge", () => {
     expect(screen.getByText("New")).toBeInTheDocument();
   });
 
-  it("applies default intent classes", () => {
+  it("applies default color classes (gray)", () => {
     render(<Badge>Default</Badge>);
     const badge = screen.getByText("Default");
-    expect(badge.className).toContain("bg-primary");
-    expect(badge.className).toContain("text-primary-foreground");
+    expect(badge.className).toContain("bg-utility-neutral-50");
+    expect(badge.className).toContain("text-utility-neutral-700");
   });
 
-  it("applies secondary intent", () => {
-    render(<Badge intent="secondary">Secondary</Badge>);
-    expect(screen.getByText("Secondary").className).toContain("bg-secondary");
+  it("applies brand color", () => {
+    render(<Badge color="brand">Brand</Badge>);
+    expect(screen.getByText("Brand").className).toContain("bg-utility-brand-50");
   });
 
-  it("applies destructive intent", () => {
-    render(<Badge intent="destructive">Error</Badge>);
-    expect(screen.getByText("Error").className).toContain("bg-destructive");
+  it("applies error color", () => {
+    render(<Badge color="error">Error</Badge>);
+    expect(screen.getByText("Error").className).toContain("bg-utility-red-50");
   });
 
-  it("applies outline intent", () => {
-    render(<Badge intent="outline">Outline</Badge>);
-    const badge = screen.getByText("Outline");
-    expect(badge.className).toContain("bg-transparent");
-    expect(badge.className).toContain("border-border");
+  it("applies warning color", () => {
+    render(<Badge color="warning">Pending</Badge>);
+    expect(screen.getByText("Pending").className).toContain("bg-utility-yellow-50");
   });
 
-  it("applies success intent", () => {
-    render(<Badge intent="success">Active</Badge>);
-    expect(screen.getByText("Active").className).toContain("bg-success");
-  });
-
-  it("applies warning intent", () => {
-    render(<Badge intent="warning">Pending</Badge>);
-    expect(screen.getByText("Pending").className).toContain("bg-warning");
+  it("applies success color", () => {
+    render(<Badge color="success">Active</Badge>);
+    expect(screen.getByText("Active").className).toContain("bg-utility-green-50");
   });
 
   it("applies size variants", () => {
-    const { rerender } = render(<Badge size="small">Small</Badge>);
+    const { rerender } = render(<Badge size="sm">Small</Badge>);
     expect(screen.getByText("Small").className).toContain("px-2");
 
-    rerender(<Badge size="large">Large</Badge>);
+    rerender(<Badge size="lg">Large</Badge>);
     expect(screen.getByText("Large").className).toContain("px-3");
+  });
+
+  it("applies pill shape by default", () => {
+    render(<Badge>Pill</Badge>);
+    expect(screen.getByText("Pill").className).toContain("rounded-full");
+  });
+
+  it("applies badge shape", () => {
+    render(<Badge shape="badge">Square</Badge>);
+    expect(screen.getByText("Square").className).toContain("rounded-md");
+  });
+
+  it("renders dot indicator when dot prop is set", () => {
+    const { container } = render(<Badge dot>Status</Badge>);
+    const dot = container.querySelector(".rounded-full.bg-utility-neutral-500");
+    expect(dot).toBeInTheDocument();
+  });
+
+  it("renders icon when provided", () => {
+    const Icon = (props: React.SVGProps<SVGSVGElement>) => (
+      <svg data-testid="badge-icon" {...props} />
+    );
+    render(<Badge icon={Icon}>With Icon</Badge>);
+    expect(screen.getByTestId("badge-icon")).toBeInTheDocument();
+  });
+
+  it("renders dismiss button when dismissible", () => {
+    render(<Badge dismissible>Dismiss</Badge>);
+    expect(screen.getByRole("button", { name: /dismiss/i })).toBeInTheDocument();
+  });
+
+  it("calls onDismiss when dismiss button is clicked", async () => {
+    const user = userEvent.setup();
+    const handleDismiss = jest.fn();
+    render(
+      <Badge dismissible onDismiss={handleDismiss}>
+        Dismiss
+      </Badge>,
+    );
+    await user.click(screen.getByRole("button", { name: /dismiss/i }));
+    expect(handleDismiss).toHaveBeenCalledTimes(1);
   });
 
   it("merges custom className", () => {
     render(<Badge className="ml-2">Custom</Badge>);
     const badge = screen.getByText("Custom");
     expect(badge.className).toContain("ml-2");
-    expect(badge.className).toContain("bg-primary");
   });
 
   it("forwards ref", () => {

@@ -12,10 +12,18 @@ export const overlayStyles = cva([
 
 /* ========== Modal panel ========== */
 
+export const modalWrapperStyles = cva([
+  "fixed",
+  "inset-0",
+  "z-50",
+  "flex",
+  "items-center",
+  "justify-center",
+  "p-4",
+]);
+
 export const modalStyles = cva(
   [
-    "fixed",
-    "z-50",
     "flex",
     "flex-col",
     "bg-bg-primary",
@@ -25,10 +33,6 @@ export const modalStyles = cva(
     "rounded-xl",
     "w-full",
     "max-h-[85vh]",
-    "top-1/2",
-    "left-1/2",
-    "-translate-x-1/2",
-    "-translate-y-1/2",
     "outline-none",
     "overflow-hidden",
   ],

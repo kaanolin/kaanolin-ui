@@ -1,0 +1,63 @@
+/* Component token aliases — bridges shorthand names to the auto-generated
+   utility-* tokens from Figma.  `@theme inline` keeps these out of the
+   generated CSS bundle but still makes them available to Tailwind classes.
+   Dark-mode values are inherited automatically because the source tokens
+   already swap inside `.dark`. */
+
+@theme inline {
+  /* ── Brand (utility-brand) ─────────────────────────────── */
+  --color-brand-50: var(--color-utility-brand-50);
+  --color-brand-100: var(--color-utility-brand-100);
+  --color-brand-200: var(--color-utility-brand-200);
+  --color-brand-300: var(--color-utility-brand-300);
+  --color-brand-400: var(--color-utility-brand-400);
+  --color-brand-500: var(--color-utility-brand-500);
+  --color-brand-600: var(--color-utility-brand-600);
+  --color-brand-700: var(--color-utility-brand-700);
+  --color-brand-800: var(--color-utility-brand-800);
+  --color-brand-900: var(--color-utility-brand-900);
+
+  /* ── Error (utility-red) ───────────────────────────────── */
+  --color-error-50: var(--color-utility-red-50);
+  --color-error-100: var(--color-utility-red-100);
+  --color-error-200: var(--color-utility-red-200);
+  --color-error-300: var(--color-utility-red-300);
+  --color-error-400: var(--color-utility-red-400);
+  --color-error-500: var(--color-utility-red-500);
+  --color-error-600: var(--color-utility-red-600);
+  --color-error-700: var(--color-utility-red-700);
+  --color-error-800: var(--color-utility-red-800, #991b1b);
+
+  /* ── Success (utility-green) ───────────────────────────── */
+  --color-success-50: var(--color-utility-green-50);
+  --color-success-100: var(--color-utility-green-100);
+  --color-success-600: var(--color-utility-green-600);
+  --color-success-700: var(--color-utility-green-700);
+
+  /* ── Warning (utility-yellow) ──────────────────────────── */
+  --color-warning-50: var(--color-utility-yellow-50);
+  --color-warning-100: var(--color-utility-yellow-100);
+  --color-warning-600: var(--color-utility-yellow-600);
+  --color-warning-700: var(--color-utility-yellow-700);
+
+  /* ── Gray (utility-neutral) ────────────────────────────── */
+  --color-gray-50: var(--color-utility-neutral-50);
+  --color-gray-100: var(--color-utility-neutral-100);
+  --color-gray-200: var(--color-utility-neutral-200);
+  --color-gray-300: var(--color-utility-neutral-300);
+  --color-gray-400: var(--color-utility-neutral-400);
+  --color-gray-500: var(--color-utility-neutral-500);
+  --color-gray-600: var(--color-utility-neutral-600);
+  --color-gray-700: var(--color-utility-neutral-700);
+  --color-gray-800: var(--color-utility-neutral-800);
+  --color-gray-900: var(--color-utility-neutral-900);
+
+  /* ── Disabled semantic tokens ──────────────────────────── */
+  --color-bg-disabled: var(--color-bg-tertiary);
+  --color-border-disabled: var(--color-border-secondary);
+  --color-fg-disabled: var(--color-fg-quaternary);
+  --color-text-disabled: var(--color-fg-quaternary);
+
+  /* ── Misc semantic aliases ─────────────────────────────── */
+  --color-bg-secondary_subtle: var(--color-bg-secondary);
+}

@@ -1,8 +1,32 @@
 import { resolve } from "path";
+import { readdirSync, statSync, existsSync } from "fs";
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
 import dts from "vite-plugin-dts";
+
+/**
+ * Auto-discover component entry points from src/{name}/index.ts.
+ * Directories starting with "_" (e.g. _shared) are excluded.
+ */
+function getComponentEntries() {
+  const srcDir = resolve(__dirname, "src");
+  const entries: Record<string, string> = {
+    index: resolve(srcDir, "index.ts"),
+  };
+
+  for (const name of readdirSync(srcDir)) {
+    if (name.startsWith("_") || name.startsWith(".")) continue;
+    const dirPath = resolve(srcDir, name);
+    if (!statSync(dirPath).isDirectory()) continue;
+    const indexPath = resolve(dirPath, "index.ts");
+    if (existsSync(indexPath)) {
+      entries[name] = indexPath;
+    }
+  }
+
+  return entries;
+}
 
 export default defineConfig({
   resolve: {
@@ -25,18 +49,7 @@ export default defineConfig({
   ],
   build: {
     lib: {
-      entry: {
-        index: resolve(__dirname, "src/index.ts"),
-        button: resolve(__dirname, "src/button/index.ts"),
-        input: resolve(__dirname, "src/input/index.ts"),
-        textarea: resolve(__dirname, "src/textarea/index.ts"),
-        "input-group": resolve(__dirname, "src/input-group/index.ts"),
-        card: resolve(__dirname, "src/card/index.ts"),
-        modal: resolve(__dirname, "src/modal/index.ts"),
-        badge: resolve(__dirname, "src/badge/index.ts"),
-        "date-picker-range": resolve(__dirname, "src/date-picker-range/index.ts"),
-        select: resolve(__dirname, "src/select/index.ts"),
-      },
+      entry: getComponentEntries(),
       formats: ["es", "cjs"],
     },
     rollupOptions: {
@@ -45,6 +58,9 @@ export default defineConfig({
         "react-dom",
         "react/jsx-runtime",
         "class-variance-authority",
+        /^@radix-ui\//,
+        /^@tiptap\//,
+        /^prosemirror/,
       ],
       output: {
         globals: {
