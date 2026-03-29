@@ -48,6 +48,11 @@
       "import": "./dist/combobox.js",
       "require": "./dist/combobox.cjs"
     },
+    "./data-source-badge": {
+      "types": "./dist/data-source-badge/index.d.ts",
+      "import": "./dist/data-source-badge.js",
+      "require": "./dist/data-source-badge.cjs"
+    },
     "./date-picker-range": {
       "types": "./dist/date-picker-range/index.d.ts",
       "import": "./dist/date-picker-range.js",
@@ -82,6 +87,11 @@
       "types": "./dist/input-group/index.d.ts",
       "import": "./dist/input-group.js",
       "require": "./dist/input-group.cjs"
+    },
+    "./map-layer-toggle": {
+      "types": "./dist/map-layer-toggle/index.d.ts",
+      "import": "./dist/map-layer-toggle.js",
+      "require": "./dist/map-layer-toggle.cjs"
     },
     "./modal": {
       "types": "./dist/modal/index.d.ts",
@@ -127,6 +137,11 @@
       "types": "./dist/spinner/index.d.ts",
       "import": "./dist/spinner.js",
       "require": "./dist/spinner.cjs"
+    },
+    "./stat-card": {
+      "types": "./dist/stat-card/index.d.ts",
+      "import": "./dist/stat-card.js",
+      "require": "./dist/stat-card.cjs"
     },
     "./table": {
       "types": "./dist/table/index.d.ts",
@@ -198,6 +213,9 @@
       "combobox": [
         "./dist/combobox/index.d.ts"
       ],
+      "data-source-badge": [
+        "./dist/data-source-badge/index.d.ts"
+      ],
       "date-picker-range": [
         "./dist/date-picker-range/index.d.ts"
       ],
@@ -218,6 +236,9 @@
       ],
       "input-group": [
         "./dist/input-group/index.d.ts"
+      ],
+      "map-layer-toggle": [
+        "./dist/map-layer-toggle/index.d.ts"
       ],
       "modal": [
         "./dist/modal/index.d.ts"
@@ -245,6 +266,9 @@
       ],
       "spinner": [
         "./dist/spinner/index.d.ts"
+      ],
+      "stat-card": [
+        "./dist/stat-card/index.d.ts"
       ],
       "table": [
         "./dist/table/index.d.ts"
