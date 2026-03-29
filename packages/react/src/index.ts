@@ -520,3 +520,33 @@ export {
   timeDisplayStyles,
   bufferingOverlayStyles,
 } from "./video-player";
+
+// StatCard
+export { StatCard, type StatCardProps } from "./stat-card";
+export {
+  statCardStyles,
+  statCardLabelStyles,
+  statCardValueStyles,
+  statCardDeltaStyles,
+  statCardDescriptionStyles,
+} from "./stat-card";
+
+// DataSourceBadge
+export { DataSourceBadge, type DataSourceBadgeProps } from "./data-source-badge";
+export {
+  dataSourceBadgeStyles,
+  dataSourceBadgeLinkStyles,
+  dataSourceBadgeDateStyles,
+} from "./data-source-badge";
+
+// MapLayerToggle
+export {
+  MapLayerToggle,
+  type MapLayerToggleProps,
+  type MapLayer,
+} from "./map-layer-toggle";
+export {
+  mapLayerToggleStyles,
+  mapLayerToggleItemStyles,
+} from "./map-layer-toggle";
+
