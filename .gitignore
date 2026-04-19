@@ -12,6 +12,9 @@ build/
 .env.local
 .env.*.local
 
+# npm auth (contains GitHub PAT)
+.npmrc
+
 # MCP config (contains tokens)
 .mcp.json
 

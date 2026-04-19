@@ -299,8 +299,14 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaanolin/kaanolin-ui.git",
+    "directory": "packages/react"
+  },
   "publishConfig": {
-    "access": "public"
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "react",
