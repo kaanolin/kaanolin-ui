@@ -16,13 +16,13 @@ jobs:
   release:
     runs-on: ubuntu-latest
     permissions:
-      actions: write
       contents: write
       packages: write
       pull-requests: write
     steps:
       - uses: actions/checkout@v4
         with:
+          token: ${{ secrets.RELEASE_PAT }}
           fetch-depth: 0
 
       - uses: actions/setup-node@v4
@@ -45,7 +45,7 @@ jobs:
       - name: Create release branch and PR
         id: pr
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.RELEASE_PAT }}
         run: |
           BRANCH="release/v${{ steps.bump.outputs.version }}"
           git config user.name "github-actions[bot]"
@@ -59,30 +59,12 @@ jobs:
             --head "$BRANCH" \
             --title "release: v${{ steps.bump.outputs.version }}" \
             --body "Automated release PR bumping version to ${{ steps.bump.outputs.version }}.")
-          echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
           echo "pr_url=$PR_URL" >> "$GITHUB_OUTPUT"
-
-      - name: Trigger CI on release branch
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh workflow run CI --ref "${{ steps.pr.outputs.branch }}"
 
       - name: Wait for CI to pass
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          for i in $(seq 1 30); do
-            RUN_ID=$(gh run list --workflow=CI --branch "${{ steps.pr.outputs.branch }}" --limit 1 --json databaseId --jq '.[0].databaseId')
-            if [ -n "$RUN_ID" ] && [ "$RUN_ID" != "null" ]; then
-              echo "Found CI run $RUN_ID"
-              gh run watch "$RUN_ID" --exit-status
-              exit 0
-            fi
-            echo "Waiting for CI run to appear..."
-            sleep 2
-          done
-          echo "CI run did not appear within 60s"
-          exit 1
+        run: gh pr checks "${{ steps.pr.outputs.pr_url }}" --watch --fail-fast
 
       - name: Merge PR
         env:
