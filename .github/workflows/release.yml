@@ -18,10 +18,10 @@ jobs:
     permissions:
       contents: write
       packages: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - uses: actions/setup-node@v4
@@ -33,10 +33,6 @@ jobs:
 
       - run: npm ci
 
-      - run: npm test
-
-      - run: npm run build
-
       - name: Bump version
         id: bump
         run: |
@@ -45,28 +41,47 @@ jobs:
           VERSION=$(node -p "require('./package.json').version")
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 
+      - name: Create release branch and PR
+        id: pr
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="release/v${{ steps.bump.outputs.version }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add packages/react/package.json
+          git commit -m "release: v${{ steps.bump.outputs.version }}"
+          git push origin "$BRANCH"
+          PR_URL=$(gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "release: v${{ steps.bump.outputs.version }}" \
+            --body "Automated release PR bumping version to ${{ steps.bump.outputs.version }}.")
+          echo "pr_url=$PR_URL" >> "$GITHUB_OUTPUT"
+
+      - name: Wait for CI to pass
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr checks "${{ steps.pr.outputs.pr_url }}" --watch --fail-fast
+
+      - name: Merge PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge "${{ steps.pr.outputs.pr_url }}" --squash --delete-branch
+
+      - run: npm run build
+
       - name: Publish to GitHub Packages
         run: npm publish --workspace=packages/react
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Configure git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit, tag and push
-        run: |
-          git add packages/react/package.json
-          git commit -m "release: v${{ steps.bump.outputs.version }}"
-          git stash --include-untracked
-          git pull --rebase
-          git stash pop
-          git tag "v${{ steps.bump.outputs.version }}"
-          git push
-          git push --tags
-
-      - name: Create GitHub Release
-        run: gh release create "v${{ steps.bump.outputs.version }}" --generate-notes
+      - name: Create GitHub Release and tag
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "v${{ steps.bump.outputs.version }}" \
+            --target main \
+            --title "v${{ steps.bump.outputs.version }}" \
+            --generate-notes
