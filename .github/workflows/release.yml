@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - uses: actions/setup-node@v4
@@ -69,4 +69,4 @@ jobs:
       - name: Create GitHub Release
         run: gh release create "v${{ steps.bump.outputs.version }}" --generate-notes
         env:
-          GH_TOKEN: ${{ secrets.PAT }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
