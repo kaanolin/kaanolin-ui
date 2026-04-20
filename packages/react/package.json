@@ -1,6 +1,6 @@
 {
   "name": "@kaanolin/react",
-  "version": "1.3.2",
+  "version": "1.5.0",
   "description": "React components for @kaanolin design system",
   "license": "SEE LICENSE IN LICENSE",
   "type": "module",
@@ -33,6 +33,11 @@
       "import": "./dist/button-group.js",
       "require": "./dist/button-group.cjs"
     },
+    "./callout": {
+      "types": "./dist/callout/index.d.ts",
+      "import": "./dist/callout.js",
+      "require": "./dist/callout.cjs"
+    },
     "./card": {
       "types": "./dist/card/index.d.ts",
       "import": "./dist/card.js",
@@ -42,6 +47,11 @@
       "types": "./dist/checkbox/index.d.ts",
       "import": "./dist/checkbox.js",
       "require": "./dist/checkbox.cjs"
+    },
+    "./code-block": {
+      "types": "./dist/code-block/index.d.ts",
+      "import": "./dist/code-block.js",
+      "require": "./dist/code-block.cjs"
     },
     "./combobox": {
       "types": "./dist/combobox/index.d.ts",
@@ -68,6 +78,11 @@
       "import": "./dist/empty-state.js",
       "require": "./dist/empty-state.cjs"
     },
+    "./featured-icon": {
+      "types": "./dist/featured-icon/index.d.ts",
+      "import": "./dist/featured-icon.js",
+      "require": "./dist/featured-icon.cjs"
+    },
     "./file-upload": {
       "types": "./dist/file-upload/index.d.ts",
       "import": "./dist/file-upload.js",
@@ -87,6 +102,11 @@
       "types": "./dist/input-group/index.d.ts",
       "import": "./dist/input-group.js",
       "require": "./dist/input-group.cjs"
+    },
+    "./kbd": {
+      "types": "./dist/kbd/index.d.ts",
+      "import": "./dist/kbd.js",
+      "require": "./dist/kbd.cjs"
     },
     "./map-layer-toggle": {
       "types": "./dist/map-layer-toggle/index.d.ts",
@@ -142,6 +162,11 @@
       "types": "./dist/stat-card/index.d.ts",
       "import": "./dist/stat-card.js",
       "require": "./dist/stat-card.cjs"
+    },
+    "./status-dot": {
+      "types": "./dist/status-dot/index.d.ts",
+      "import": "./dist/status-dot.js",
+      "require": "./dist/status-dot.cjs"
     },
     "./table": {
       "types": "./dist/table/index.d.ts",
@@ -204,11 +229,17 @@
       "button-group": [
         "./dist/button-group/index.d.ts"
       ],
+      "callout": [
+        "./dist/callout/index.d.ts"
+      ],
       "card": [
         "./dist/card/index.d.ts"
       ],
       "checkbox": [
         "./dist/checkbox/index.d.ts"
+      ],
+      "code-block": [
+        "./dist/code-block/index.d.ts"
       ],
       "combobox": [
         "./dist/combobox/index.d.ts"
@@ -225,6 +256,9 @@
       "empty-state": [
         "./dist/empty-state/index.d.ts"
       ],
+      "featured-icon": [
+        "./dist/featured-icon/index.d.ts"
+      ],
       "file-upload": [
         "./dist/file-upload/index.d.ts"
       ],
@@ -236,6 +270,9 @@
       ],
       "input-group": [
         "./dist/input-group/index.d.ts"
+      ],
+      "kbd": [
+        "./dist/kbd/index.d.ts"
       ],
       "map-layer-toggle": [
         "./dist/map-layer-toggle/index.d.ts"
@@ -269,6 +306,9 @@
       ],
       "stat-card": [
         "./dist/stat-card/index.d.ts"
+      ],
+      "status-dot": [
+        "./dist/status-dot/index.d.ts"
       ],
       "table": [
         "./dist/table/index.d.ts"

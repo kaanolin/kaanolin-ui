@@ -550,3 +550,39 @@ export {
   mapLayerToggleItemStyles,
 } from "./map-layer-toggle";
 
+// StatusDot
+export {
+  StatusDot,
+  type StatusDotProps,
+  type StatusDotStatus,
+} from "./status-dot";
+export { statusDotStyles, statusDotHaloStyles } from "./status-dot";
+
+// Kbd
+export { Kbd, type KbdProps } from "./kbd";
+export { kbdStyles } from "./kbd";
+
+// FeaturedIcon
+export { FeaturedIcon, type FeaturedIconProps } from "./featured-icon";
+export { featuredIconStyles, featuredIconSlotStyles } from "./featured-icon";
+
+// CodeBlock
+export { CodeBlock, type CodeBlockProps } from "./code-block";
+export {
+  codeBlockStyles,
+  codeBlockHeaderStyles,
+  codeBlockLanguageStyles,
+  codeBlockCopyButtonStyles,
+  codeBlockPreStyles,
+} from "./code-block";
+
+// Callout
+export { Callout, type CalloutProps } from "./callout";
+export {
+  calloutStyles,
+  calloutIconStyles,
+  calloutBodyStyles,
+  calloutTitleStyles,
+  calloutDescriptionStyles,
+} from "./callout";
+
