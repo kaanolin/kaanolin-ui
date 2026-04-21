@@ -1,0 +1,32 @@
+// [collection] Figma variant — properties:
+//   Type: Default
+//   Size: xs
+//   Color: Brand
+import { forwardRef } from "react";
+import type { IconBaseProps } from "../types";
+
+export const CheckDefaultXsBrand = forwardRef<SVGSVGElement, IconBaseProps>(function CheckDefaultXsBrand(
+  { size = 32, color = "currentColor", title, "aria-label": ariaLabel, ...rest },
+  ref,
+) {
+  return (
+    <svg
+      ref={ref}
+      xmlns="http://www.w3.org/2000/svg"
+      width={size}
+      height={size}
+      viewBox="0 0 20 20"
+      fill="none"
+      color={color}
+      role={title || ariaLabel ? "img" : "presentation"}
+      aria-label={ariaLabel}
+      aria-hidden={title || ariaLabel ? undefined : true}
+      {...rest}
+    >
+      {title ? <title>{title}</title> : null}
+      <path d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z" fill="#F9F5FF"/>
+<path fillRule="evenodd" clipRule="evenodd" d="M14.2471 6.15838L8.28042 11.9167L6.69709 10.2251C6.40542 9.95005 5.94709 9.93338 5.61375 10.1667C5.28875 10.4084 5.19709 10.8334 5.39709 11.1751L7.27209 14.2251C7.45542 14.5084 7.77209 14.6834 8.13042 14.6834C8.47209 14.6834 8.79709 14.5084 8.98042 14.2251C9.28042 13.8334 15.0054 7.00838 15.0054 7.00838C15.7554 6.24172 14.8471 5.56672 14.2471 6.15005V6.15838Z" fill="#7F56D9"/>
+    </svg>
+  );
+});
+CheckDefaultXsBrand.displayName = "CheckDefaultXsBrand";

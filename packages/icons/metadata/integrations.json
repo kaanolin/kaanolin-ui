@@ -1,0 +1,335 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "Integration icon",
+    "description": "Integration / tool brand tiles (Next.js, Vite, …) with Grayscale variant.",
+    "pascalPrefix": "Integration",
+    "orderedProps": [
+      "Integration",
+      "Grayscale"
+    ],
+    "count": 32
+  },
+  "icons": [
+    {
+      "componentName": "IntegrationBoltFalse",
+      "fileSlug": "integration-bolt-false",
+      "displayName": "Integration=Bolt, Grayscale=False",
+      "properties": {
+        "Integration": "Bolt",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationBoltTrue",
+      "fileSlug": "integration-bolt-true",
+      "displayName": "Integration=Bolt, Grayscale=True",
+      "properties": {
+        "Integration": "Bolt",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationChatGPTFalse",
+      "fileSlug": "integration-chatgpt-false",
+      "displayName": "Integration=ChatGPT, Grayscale=False",
+      "properties": {
+        "Integration": "ChatGPT",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationChatGPTTrue",
+      "fileSlug": "integration-chatgpt-true",
+      "displayName": "Integration=ChatGPT, Grayscale=True",
+      "properties": {
+        "Integration": "ChatGPT",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationClaudeFalse",
+      "fileSlug": "integration-claude-false",
+      "displayName": "Integration=Claude, Grayscale=False",
+      "properties": {
+        "Integration": "Claude",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationClaudeTrue",
+      "fileSlug": "integration-claude-true",
+      "displayName": "Integration=Claude, Grayscale=True",
+      "properties": {
+        "Integration": "Claude",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationCursorFalse",
+      "fileSlug": "integration-cursor-false",
+      "displayName": "Integration=Cursor, Grayscale=False",
+      "properties": {
+        "Integration": "Cursor",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationCursorTrue",
+      "fileSlug": "integration-cursor-true",
+      "displayName": "Integration=Cursor, Grayscale=True",
+      "properties": {
+        "Integration": "Cursor",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationFigmaFalse",
+      "fileSlug": "integration-figma-false",
+      "displayName": "Integration=Figma, Grayscale=False",
+      "properties": {
+        "Integration": "Figma",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationFigmaTrue",
+      "fileSlug": "integration-figma-true",
+      "displayName": "Integration=Figma, Grayscale=True",
+      "properties": {
+        "Integration": "Figma",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationGeminiFalse",
+      "fileSlug": "integration-gemini-false",
+      "displayName": "Integration=Gemini, Grayscale=False",
+      "properties": {
+        "Integration": "Gemini",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationGeminiTrue",
+      "fileSlug": "integration-gemini-true",
+      "displayName": "Integration=Gemini, Grayscale=True",
+      "properties": {
+        "Integration": "Gemini",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationGitHubFalse",
+      "fileSlug": "integration-github-false",
+      "displayName": "Integration=GitHub, Grayscale=False",
+      "properties": {
+        "Integration": "GitHub",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationGitHubTrue",
+      "fileSlug": "integration-github-true",
+      "displayName": "Integration=GitHub, Grayscale=True",
+      "properties": {
+        "Integration": "GitHub",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationGrokFalse",
+      "fileSlug": "integration-grok-false",
+      "displayName": "Integration=Grok, Grayscale=False",
+      "properties": {
+        "Integration": "Grok",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationGrokTrue",
+      "fileSlug": "integration-grok-true",
+      "displayName": "Integration=Grok, Grayscale=True",
+      "properties": {
+        "Integration": "Grok",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationLovableFalse",
+      "fileSlug": "integration-lovable-false",
+      "displayName": "Integration=Lovable, Grayscale=False",
+      "properties": {
+        "Integration": "Lovable",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationLovableTrue",
+      "fileSlug": "integration-lovable-true",
+      "displayName": "Integration=Lovable, Grayscale=True",
+      "properties": {
+        "Integration": "Lovable",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationNextJsFalse",
+      "fileSlug": "integration-next-js-false",
+      "displayName": "Integration=Next.js, Grayscale=False",
+      "properties": {
+        "Integration": "Next.js",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationNextJsTrue",
+      "fileSlug": "integration-next-js-true",
+      "displayName": "Integration=Next.js, Grayscale=True",
+      "properties": {
+        "Integration": "Next.js",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationPerplexityFalse",
+      "fileSlug": "integration-perplexity-false",
+      "displayName": "Integration=Perplexity, Grayscale=False",
+      "properties": {
+        "Integration": "Perplexity",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationPerplexityTrue",
+      "fileSlug": "integration-perplexity-true",
+      "displayName": "Integration=Perplexity, Grayscale=True",
+      "properties": {
+        "Integration": "Perplexity",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationReactFalse",
+      "fileSlug": "integration-react-false",
+      "displayName": "Integration=React, Grayscale=False",
+      "properties": {
+        "Integration": "React",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationReactTrue",
+      "fileSlug": "integration-react-true",
+      "displayName": "Integration=React, Grayscale=True",
+      "properties": {
+        "Integration": "React",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationReplitFalse",
+      "fileSlug": "integration-replit-false",
+      "displayName": "Integration=Replit, Grayscale=False",
+      "properties": {
+        "Integration": "Replit",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationReplitTrue",
+      "fileSlug": "integration-replit-true",
+      "displayName": "Integration=Replit, Grayscale=True",
+      "properties": {
+        "Integration": "Replit",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationTailwindCSSFalse",
+      "fileSlug": "integration-tailwind-css-false",
+      "displayName": "Integration=Tailwind CSS, Grayscale=False",
+      "properties": {
+        "Integration": "Tailwind CSS",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationTailwindCSSTrue",
+      "fileSlug": "integration-tailwind-css-true",
+      "displayName": "Integration=Tailwind CSS, Grayscale=True",
+      "properties": {
+        "Integration": "Tailwind CSS",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationV0False",
+      "fileSlug": "integration-v0-false",
+      "displayName": "Integration=v0, Grayscale=False",
+      "properties": {
+        "Integration": "v0",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationV0True",
+      "fileSlug": "integration-v0-true",
+      "displayName": "Integration=v0, Grayscale=True",
+      "properties": {
+        "Integration": "v0",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationViteFalse",
+      "fileSlug": "integration-vite-false",
+      "displayName": "Integration=Vite, Grayscale=False",
+      "properties": {
+        "Integration": "Vite",
+        "Grayscale": "False"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "IntegrationViteTrue",
+      "fileSlug": "integration-vite-true",
+      "displayName": "Integration=Vite, Grayscale=True",
+      "properties": {
+        "Integration": "Vite",
+        "Grayscale": "True"
+      },
+      "viewBox": "0 0 20 20"
+    }
+  ]
+}

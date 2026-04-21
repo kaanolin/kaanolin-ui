@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@source "../../src/**/*.ts";
+@source "../../src/**/*.tsx";
+@source "../../../packages/react/src/**/*.ts";
+@source "../../../packages/react/src/**/*.tsx";
+@source "../../../packages/icons/src/**/*.tsx";
+
+@import "../../../packages/styles/src/colors.css";
+@import "../../../packages/styles/src/typography.css";
+@import "../../../packages/styles/src/shadows.css";
+@import "../../../packages/styles/src/spacing.css";
+@import "../../../packages/styles/src/components.css";
+
+html,
+body {
+  background: var(--color-bg-secondary, #fafafa);
+  color: var(--color-text-primary, #111);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html[data-theme="dark"] body {
+  background: #09090b;
+  color: #e4e4e7;
+}

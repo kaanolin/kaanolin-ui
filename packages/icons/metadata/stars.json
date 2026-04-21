@@ -1,0 +1,235 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "Star icon",
+    "description": "Star rating glyphs with fill percentage and colour.",
+    "pascalPrefix": "Star",
+    "orderedProps": [
+      "Fill",
+      "Color"
+    ],
+    "count": 22
+  },
+  "icons": [
+    {
+      "componentName": "Star_0Gray",
+      "fileSlug": "star-0-gray",
+      "displayName": "Fill=0%, Color=Gray",
+      "properties": {
+        "Fill": "0%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_0Yellow",
+      "fileSlug": "star-0-yellow",
+      "displayName": "Fill=0%, Color=Yellow",
+      "properties": {
+        "Fill": "0%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_100Gray",
+      "fileSlug": "star-100-gray",
+      "displayName": "Fill=100%, Color=Gray",
+      "properties": {
+        "Fill": "100%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_100Yellow",
+      "fileSlug": "star-100-yellow",
+      "displayName": "Fill=100%, Color=Yellow",
+      "properties": {
+        "Fill": "100%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_10Gray",
+      "fileSlug": "star-10-gray",
+      "displayName": "Fill=10%, Color=Gray",
+      "properties": {
+        "Fill": "10%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_10Yellow",
+      "fileSlug": "star-10-yellow",
+      "displayName": "Fill=10%, Color=Yellow",
+      "properties": {
+        "Fill": "10%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_20Gray",
+      "fileSlug": "star-20-gray",
+      "displayName": "Fill=20%, Color=Gray",
+      "properties": {
+        "Fill": "20%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_20Yellow",
+      "fileSlug": "star-20-yellow",
+      "displayName": "Fill=20%, Color=Yellow",
+      "properties": {
+        "Fill": "20%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_30Gray",
+      "fileSlug": "star-30-gray",
+      "displayName": "Fill=30%, Color=Gray",
+      "properties": {
+        "Fill": "30%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_30Yellow",
+      "fileSlug": "star-30-yellow",
+      "displayName": "Fill=30%, Color=Yellow",
+      "properties": {
+        "Fill": "30%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_40Gray",
+      "fileSlug": "star-40-gray",
+      "displayName": "Fill=40%, Color=Gray",
+      "properties": {
+        "Fill": "40%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_40Yellow",
+      "fileSlug": "star-40-yellow",
+      "displayName": "Fill=40%, Color=Yellow",
+      "properties": {
+        "Fill": "40%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_50Gray",
+      "fileSlug": "star-50-gray",
+      "displayName": "Fill=50%, Color=Gray",
+      "properties": {
+        "Fill": "50%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_50Yellow",
+      "fileSlug": "star-50-yellow",
+      "displayName": "Fill=50%, Color=Yellow",
+      "properties": {
+        "Fill": "50%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_60Gray",
+      "fileSlug": "star-60-gray",
+      "displayName": "Fill=60%, Color=Gray",
+      "properties": {
+        "Fill": "60%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_60Yellow",
+      "fileSlug": "star-60-yellow",
+      "displayName": "Fill=60%, Color=Yellow",
+      "properties": {
+        "Fill": "60%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_70Gray",
+      "fileSlug": "star-70-gray",
+      "displayName": "Fill=70%, Color=Gray",
+      "properties": {
+        "Fill": "70%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_70Yellow",
+      "fileSlug": "star-70-yellow",
+      "displayName": "Fill=70%, Color=Yellow",
+      "properties": {
+        "Fill": "70%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_80Gray",
+      "fileSlug": "star-80-gray",
+      "displayName": "Fill=80%, Color=Gray",
+      "properties": {
+        "Fill": "80%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_80Yellow",
+      "fileSlug": "star-80-yellow",
+      "displayName": "Fill=80%, Color=Yellow",
+      "properties": {
+        "Fill": "80%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_90Gray",
+      "fileSlug": "star-90-gray",
+      "displayName": "Fill=90%, Color=Gray",
+      "properties": {
+        "Fill": "90%",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "Star_90Yellow",
+      "fileSlug": "star-90-yellow",
+      "displayName": "Fill=90%, Color=Yellow",
+      "properties": {
+        "Fill": "90%",
+        "Color": "Yellow"
+      },
+      "viewBox": "0 0 20 20"
+    }
+  ]
+}

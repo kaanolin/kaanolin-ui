@@ -58,7 +58,7 @@
     }
   },
   "release": {
-    "projects": ["packages/react"],
+    "projects": ["packages/react", "packages/icons"],
     "projectsRelationship": "independent",
     "version": {
       "conventionalCommits": true

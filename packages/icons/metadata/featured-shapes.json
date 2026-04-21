@@ -1,0 +1,764 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "Featured icon",
+    "description": "Shape CONTAINERS to host 24px icons at larger display sizes (Size × Color × Type).",
+    "pascalPrefix": "FeaturedShape",
+    "orderedProps": [
+      "Size",
+      "Color",
+      "Type"
+    ],
+    "count": 68
+  },
+  "icons": [
+    {
+      "componentName": "FeaturedShapeLgBrandDark",
+      "fileSlug": "featured-shape-lg-brand-dark",
+      "displayName": "Size=lg, Color=Brand, Type=Dark",
+      "properties": {
+        "Size": "lg",
+        "Color": "Brand",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 52 52"
+    },
+    {
+      "componentName": "FeaturedShapeLgBrandGradient",
+      "fileSlug": "featured-shape-lg-brand-gradient",
+      "displayName": "Size=lg, Color=Brand, Type=Gradient",
+      "properties": {
+        "Size": "lg",
+        "Color": "Brand",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgBrandLight",
+      "fileSlug": "featured-shape-lg-brand-light",
+      "displayName": "Size=lg, Color=Brand, Type=Light",
+      "properties": {
+        "Size": "lg",
+        "Color": "Brand",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgErrorDark",
+      "fileSlug": "featured-shape-lg-error-dark",
+      "displayName": "Size=lg, Color=Error, Type=Dark",
+      "properties": {
+        "Size": "lg",
+        "Color": "Error",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 52 52"
+    },
+    {
+      "componentName": "FeaturedShapeLgErrorGradient",
+      "fileSlug": "featured-shape-lg-error-gradient",
+      "displayName": "Size=lg, Color=Error, Type=Gradient",
+      "properties": {
+        "Size": "lg",
+        "Color": "Error",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgErrorLight",
+      "fileSlug": "featured-shape-lg-error-light",
+      "displayName": "Size=lg, Color=Error, Type=Light",
+      "properties": {
+        "Size": "lg",
+        "Color": "Error",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgGrayDark",
+      "fileSlug": "featured-shape-lg-gray-dark",
+      "displayName": "Size=lg, Color=Gray, Type=Dark",
+      "properties": {
+        "Size": "lg",
+        "Color": "Gray",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 52 52"
+    },
+    {
+      "componentName": "FeaturedShapeLgGrayGradient",
+      "fileSlug": "featured-shape-lg-gray-gradient",
+      "displayName": "Size=lg, Color=Gray, Type=Gradient",
+      "properties": {
+        "Size": "lg",
+        "Color": "Gray",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgGrayLight",
+      "fileSlug": "featured-shape-lg-gray-light",
+      "displayName": "Size=lg, Color=Gray, Type=Light",
+      "properties": {
+        "Size": "lg",
+        "Color": "Gray",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgGrayModern",
+      "fileSlug": "featured-shape-lg-gray-modern",
+      "displayName": "Size=lg, Color=Gray, Type=Modern",
+      "properties": {
+        "Size": "lg",
+        "Color": "Gray",
+        "Type": "Modern"
+      },
+      "viewBox": "0 0 52 52"
+    },
+    {
+      "componentName": "FeaturedShapeLgGrayModernNeue",
+      "fileSlug": "featured-shape-lg-gray-modern-neue",
+      "displayName": "Size=lg, Color=Gray, Type=Modern neue",
+      "properties": {
+        "Size": "lg",
+        "Color": "Gray",
+        "Type": "Modern neue"
+      },
+      "viewBox": "0 0 52 58"
+    },
+    {
+      "componentName": "FeaturedShapeLgSuccessDark",
+      "fileSlug": "featured-shape-lg-success-dark",
+      "displayName": "Size=lg, Color=Success, Type=Dark",
+      "properties": {
+        "Size": "lg",
+        "Color": "Success",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 52 52"
+    },
+    {
+      "componentName": "FeaturedShapeLgSuccessGradient",
+      "fileSlug": "featured-shape-lg-success-gradient",
+      "displayName": "Size=lg, Color=Success, Type=Gradient",
+      "properties": {
+        "Size": "lg",
+        "Color": "Success",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgSuccessLight",
+      "fileSlug": "featured-shape-lg-success-light",
+      "displayName": "Size=lg, Color=Success, Type=Light",
+      "properties": {
+        "Size": "lg",
+        "Color": "Success",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgWarningDark",
+      "fileSlug": "featured-shape-lg-warning-dark",
+      "displayName": "Size=lg, Color=Warning, Type=Dark",
+      "properties": {
+        "Size": "lg",
+        "Color": "Warning",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 52 52"
+    },
+    {
+      "componentName": "FeaturedShapeLgWarningGradient",
+      "fileSlug": "featured-shape-lg-warning-gradient",
+      "displayName": "Size=lg, Color=Warning, Type=Gradient",
+      "properties": {
+        "Size": "lg",
+        "Color": "Warning",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeLgWarningLight",
+      "fileSlug": "featured-shape-lg-warning-light",
+      "displayName": "Size=lg, Color=Warning, Type=Light",
+      "properties": {
+        "Size": "lg",
+        "Color": "Warning",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeaturedShapeMdBrandDark",
+      "fileSlug": "featured-shape-md-brand-dark",
+      "displayName": "Size=md, Color=Brand, Type=Dark",
+      "properties": {
+        "Size": "md",
+        "Color": "Brand",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 44 44"
+    },
+    {
+      "componentName": "FeaturedShapeMdBrandGradient",
+      "fileSlug": "featured-shape-md-brand-gradient",
+      "displayName": "Size=md, Color=Brand, Type=Gradient",
+      "properties": {
+        "Size": "md",
+        "Color": "Brand",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdBrandLight",
+      "fileSlug": "featured-shape-md-brand-light",
+      "displayName": "Size=md, Color=Brand, Type=Light",
+      "properties": {
+        "Size": "md",
+        "Color": "Brand",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdErrorDark",
+      "fileSlug": "featured-shape-md-error-dark",
+      "displayName": "Size=md, Color=Error, Type=Dark",
+      "properties": {
+        "Size": "md",
+        "Color": "Error",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 44 44"
+    },
+    {
+      "componentName": "FeaturedShapeMdErrorGradient",
+      "fileSlug": "featured-shape-md-error-gradient",
+      "displayName": "Size=md, Color=Error, Type=Gradient",
+      "properties": {
+        "Size": "md",
+        "Color": "Error",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdErrorLight",
+      "fileSlug": "featured-shape-md-error-light",
+      "displayName": "Size=md, Color=Error, Type=Light",
+      "properties": {
+        "Size": "md",
+        "Color": "Error",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdGrayDark",
+      "fileSlug": "featured-shape-md-gray-dark",
+      "displayName": "Size=md, Color=Gray, Type=Dark",
+      "properties": {
+        "Size": "md",
+        "Color": "Gray",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 44 44"
+    },
+    {
+      "componentName": "FeaturedShapeMdGrayGradient",
+      "fileSlug": "featured-shape-md-gray-gradient",
+      "displayName": "Size=md, Color=Gray, Type=Gradient",
+      "properties": {
+        "Size": "md",
+        "Color": "Gray",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdGrayLight",
+      "fileSlug": "featured-shape-md-gray-light",
+      "displayName": "Size=md, Color=Gray, Type=Light",
+      "properties": {
+        "Size": "md",
+        "Color": "Gray",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdGrayModern",
+      "fileSlug": "featured-shape-md-gray-modern",
+      "displayName": "Size=md, Color=Gray, Type=Modern",
+      "properties": {
+        "Size": "md",
+        "Color": "Gray",
+        "Type": "Modern"
+      },
+      "viewBox": "0 0 44 44"
+    },
+    {
+      "componentName": "FeaturedShapeMdGrayModernNeue",
+      "fileSlug": "featured-shape-md-gray-modern-neue",
+      "displayName": "Size=md, Color=Gray, Type=Modern neue",
+      "properties": {
+        "Size": "md",
+        "Color": "Gray",
+        "Type": "Modern neue"
+      },
+      "viewBox": "0 0 44 50"
+    },
+    {
+      "componentName": "FeaturedShapeMdSuccessDark",
+      "fileSlug": "featured-shape-md-success-dark",
+      "displayName": "Size=md, Color=Success, Type=Dark",
+      "properties": {
+        "Size": "md",
+        "Color": "Success",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 44 44"
+    },
+    {
+      "componentName": "FeaturedShapeMdSuccessGradient",
+      "fileSlug": "featured-shape-md-success-gradient",
+      "displayName": "Size=md, Color=Success, Type=Gradient",
+      "properties": {
+        "Size": "md",
+        "Color": "Success",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdSuccessLight",
+      "fileSlug": "featured-shape-md-success-light",
+      "displayName": "Size=md, Color=Success, Type=Light",
+      "properties": {
+        "Size": "md",
+        "Color": "Success",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdWarningDark",
+      "fileSlug": "featured-shape-md-warning-dark",
+      "displayName": "Size=md, Color=Warning, Type=Dark",
+      "properties": {
+        "Size": "md",
+        "Color": "Warning",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 44 44"
+    },
+    {
+      "componentName": "FeaturedShapeMdWarningGradient",
+      "fileSlug": "featured-shape-md-warning-gradient",
+      "displayName": "Size=md, Color=Warning, Type=Gradient",
+      "properties": {
+        "Size": "md",
+        "Color": "Warning",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeMdWarningLight",
+      "fileSlug": "featured-shape-md-warning-light",
+      "displayName": "Size=md, Color=Warning, Type=Light",
+      "properties": {
+        "Size": "md",
+        "Color": "Warning",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FeaturedShapeSmBrandDark",
+      "fileSlug": "featured-shape-sm-brand-dark",
+      "displayName": "Size=sm, Color=Brand, Type=Dark",
+      "properties": {
+        "Size": "sm",
+        "Color": "Brand",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 36 36"
+    },
+    {
+      "componentName": "FeaturedShapeSmBrandGradient",
+      "fileSlug": "featured-shape-sm-brand-gradient",
+      "displayName": "Size=sm, Color=Brand, Type=Gradient",
+      "properties": {
+        "Size": "sm",
+        "Color": "Brand",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmBrandLight",
+      "fileSlug": "featured-shape-sm-brand-light",
+      "displayName": "Size=sm, Color=Brand, Type=Light",
+      "properties": {
+        "Size": "sm",
+        "Color": "Brand",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmErrorDark",
+      "fileSlug": "featured-shape-sm-error-dark",
+      "displayName": "Size=sm, Color=Error, Type=Dark",
+      "properties": {
+        "Size": "sm",
+        "Color": "Error",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 36 36"
+    },
+    {
+      "componentName": "FeaturedShapeSmErrorGradient",
+      "fileSlug": "featured-shape-sm-error-gradient",
+      "displayName": "Size=sm, Color=Error, Type=Gradient",
+      "properties": {
+        "Size": "sm",
+        "Color": "Error",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmErrorLight",
+      "fileSlug": "featured-shape-sm-error-light",
+      "displayName": "Size=sm, Color=Error, Type=Light",
+      "properties": {
+        "Size": "sm",
+        "Color": "Error",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmGrayDark",
+      "fileSlug": "featured-shape-sm-gray-dark",
+      "displayName": "Size=sm, Color=Gray, Type=Dark",
+      "properties": {
+        "Size": "sm",
+        "Color": "Gray",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 36 36"
+    },
+    {
+      "componentName": "FeaturedShapeSmGrayGradient",
+      "fileSlug": "featured-shape-sm-gray-gradient",
+      "displayName": "Size=sm, Color=Gray, Type=Gradient",
+      "properties": {
+        "Size": "sm",
+        "Color": "Gray",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmGrayLight",
+      "fileSlug": "featured-shape-sm-gray-light",
+      "displayName": "Size=sm, Color=Gray, Type=Light",
+      "properties": {
+        "Size": "sm",
+        "Color": "Gray",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmGrayModern",
+      "fileSlug": "featured-shape-sm-gray-modern",
+      "displayName": "Size=sm, Color=Gray, Type=Modern",
+      "properties": {
+        "Size": "sm",
+        "Color": "Gray",
+        "Type": "Modern"
+      },
+      "viewBox": "0 0 36 36"
+    },
+    {
+      "componentName": "FeaturedShapeSmGrayModernNeue",
+      "fileSlug": "featured-shape-sm-gray-modern-neue",
+      "displayName": "Size=sm, Color=Gray, Type=Modern neue",
+      "properties": {
+        "Size": "sm",
+        "Color": "Gray",
+        "Type": "Modern neue"
+      },
+      "viewBox": "0 0 36 42"
+    },
+    {
+      "componentName": "FeaturedShapeSmSuccessDark",
+      "fileSlug": "featured-shape-sm-success-dark",
+      "displayName": "Size=sm, Color=Success, Type=Dark",
+      "properties": {
+        "Size": "sm",
+        "Color": "Success",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 36 36"
+    },
+    {
+      "componentName": "FeaturedShapeSmSuccessGradient",
+      "fileSlug": "featured-shape-sm-success-gradient",
+      "displayName": "Size=sm, Color=Success, Type=Gradient",
+      "properties": {
+        "Size": "sm",
+        "Color": "Success",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmSuccessLight",
+      "fileSlug": "featured-shape-sm-success-light",
+      "displayName": "Size=sm, Color=Success, Type=Light",
+      "properties": {
+        "Size": "sm",
+        "Color": "Success",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmWarningDark",
+      "fileSlug": "featured-shape-sm-warning-dark",
+      "displayName": "Size=sm, Color=Warning, Type=Dark",
+      "properties": {
+        "Size": "sm",
+        "Color": "Warning",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 36 36"
+    },
+    {
+      "componentName": "FeaturedShapeSmWarningGradient",
+      "fileSlug": "featured-shape-sm-warning-gradient",
+      "displayName": "Size=sm, Color=Warning, Type=Gradient",
+      "properties": {
+        "Size": "sm",
+        "Color": "Warning",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeSmWarningLight",
+      "fileSlug": "featured-shape-sm-warning-light",
+      "displayName": "Size=sm, Color=Warning, Type=Light",
+      "properties": {
+        "Size": "sm",
+        "Color": "Warning",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FeaturedShapeXlBrandDark",
+      "fileSlug": "featured-shape-xl-brand-dark",
+      "displayName": "Size=xl, Color=Brand, Type=Dark",
+      "properties": {
+        "Size": "xl",
+        "Color": "Brand",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 60 60"
+    },
+    {
+      "componentName": "FeaturedShapeXlBrandGradient",
+      "fileSlug": "featured-shape-xl-brand-gradient",
+      "displayName": "Size=xl, Color=Brand, Type=Gradient",
+      "properties": {
+        "Size": "xl",
+        "Color": "Brand",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlBrandLight",
+      "fileSlug": "featured-shape-xl-brand-light",
+      "displayName": "Size=xl, Color=Brand, Type=Light",
+      "properties": {
+        "Size": "xl",
+        "Color": "Brand",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlErrorDark",
+      "fileSlug": "featured-shape-xl-error-dark",
+      "displayName": "Size=xl, Color=Error, Type=Dark",
+      "properties": {
+        "Size": "xl",
+        "Color": "Error",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 60 60"
+    },
+    {
+      "componentName": "FeaturedShapeXlErrorGradient",
+      "fileSlug": "featured-shape-xl-error-gradient",
+      "displayName": "Size=xl, Color=Error, Type=Gradient",
+      "properties": {
+        "Size": "xl",
+        "Color": "Error",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlErrorLight",
+      "fileSlug": "featured-shape-xl-error-light",
+      "displayName": "Size=xl, Color=Error, Type=Light",
+      "properties": {
+        "Size": "xl",
+        "Color": "Error",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlGrayDark",
+      "fileSlug": "featured-shape-xl-gray-dark",
+      "displayName": "Size=xl, Color=Gray, Type=Dark",
+      "properties": {
+        "Size": "xl",
+        "Color": "Gray",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 60 60"
+    },
+    {
+      "componentName": "FeaturedShapeXlGrayGradient",
+      "fileSlug": "featured-shape-xl-gray-gradient",
+      "displayName": "Size=xl, Color=Gray, Type=Gradient",
+      "properties": {
+        "Size": "xl",
+        "Color": "Gray",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlGrayLight",
+      "fileSlug": "featured-shape-xl-gray-light",
+      "displayName": "Size=xl, Color=Gray, Type=Light",
+      "properties": {
+        "Size": "xl",
+        "Color": "Gray",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlGrayModern",
+      "fileSlug": "featured-shape-xl-gray-modern",
+      "displayName": "Size=xl, Color=Gray, Type=Modern",
+      "properties": {
+        "Size": "xl",
+        "Color": "Gray",
+        "Type": "Modern"
+      },
+      "viewBox": "0 0 60 60"
+    },
+    {
+      "componentName": "FeaturedShapeXlGrayModernNeue",
+      "fileSlug": "featured-shape-xl-gray-modern-neue",
+      "displayName": "Size=xl, Color=Gray, Type=Modern neue",
+      "properties": {
+        "Size": "xl",
+        "Color": "Gray",
+        "Type": "Modern neue"
+      },
+      "viewBox": "0 0 60 66"
+    },
+    {
+      "componentName": "FeaturedShapeXlSuccessDark",
+      "fileSlug": "featured-shape-xl-success-dark",
+      "displayName": "Size=xl, Color=Success, Type=Dark",
+      "properties": {
+        "Size": "xl",
+        "Color": "Success",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 60 60"
+    },
+    {
+      "componentName": "FeaturedShapeXlSuccessGradient",
+      "fileSlug": "featured-shape-xl-success-gradient",
+      "displayName": "Size=xl, Color=Success, Type=Gradient",
+      "properties": {
+        "Size": "xl",
+        "Color": "Success",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlSuccessLight",
+      "fileSlug": "featured-shape-xl-success-light",
+      "displayName": "Size=xl, Color=Success, Type=Light",
+      "properties": {
+        "Size": "xl",
+        "Color": "Success",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlWarningDark",
+      "fileSlug": "featured-shape-xl-warning-dark",
+      "displayName": "Size=xl, Color=Warning, Type=Dark",
+      "properties": {
+        "Size": "xl",
+        "Color": "Warning",
+        "Type": "Dark"
+      },
+      "viewBox": "0 0 60 60"
+    },
+    {
+      "componentName": "FeaturedShapeXlWarningGradient",
+      "fileSlug": "featured-shape-xl-warning-gradient",
+      "displayName": "Size=xl, Color=Warning, Type=Gradient",
+      "properties": {
+        "Size": "xl",
+        "Color": "Warning",
+        "Type": "Gradient"
+      },
+      "viewBox": "0 0 56 56"
+    },
+    {
+      "componentName": "FeaturedShapeXlWarningLight",
+      "fileSlug": "featured-shape-xl-warning-light",
+      "displayName": "Size=xl, Color=Warning, Type=Light",
+      "properties": {
+        "Size": "xl",
+        "Color": "Warning",
+        "Type": "Light"
+      },
+      "viewBox": "0 0 56 56"
+    }
+  ]
+}

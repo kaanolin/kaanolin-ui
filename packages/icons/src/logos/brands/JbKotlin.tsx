@@ -1,0 +1,53 @@
+// [brand] generated from plugin-misc-icons.json
+import { forwardRef, useId } from "react";
+import type { IconBaseProps } from "../../types";
+
+export const JbKotlin = forwardRef<SVGSVGElement, IconBaseProps>(function JbKotlin(
+  { size = 24, title, "aria-label": ariaLabel, ...rest },
+  ref,
+) {
+  const uid = useId().replace(/[^a-zA-Z0-9_-]/g, "");
+  return (
+    <svg
+      ref={ref}
+      xmlns="http://www.w3.org/2000/svg"
+      width={size}
+      height={size}
+      viewBox="0 0 32 32"
+      fill="none"
+      role={title || ariaLabel ? "img" : "presentation"}
+      aria-label={ariaLabel}
+      aria-hidden={title || ariaLabel ? undefined : true}
+      {...rest}
+    >
+      {title ? <title>{title}</title> : null}
+      <path d="M3 29L16.0433 15.9567L29 29H3Z" fill={`url(#${uid}-paint0_linear_1334_1660)`}/>
+<path d="M3 3H16.0433L3 16.75V3Z" fill={`url(#${uid}-paint1_linear_1334_1660)`}/>
+<path d="M16.0433 3L3 16.7367V29L16.0433 15.9567L29 3H16.0433Z" fill={`url(#${uid}-paint2_linear_1334_1660)`}/>
+<defs>
+<linearGradient id={`${uid}-paint0_linear_1334_1660`} x1="9.91557" y1="35.0727" x2="22.1997" y2="22.789" gradientUnits="userSpaceOnUse">
+<stop offset="0.097" stopColor="#0095D5"/>
+<stop offset="0.301" stopColor="#238AD9"/>
+<stop offset="0.621" stopColor="#557BDE"/>
+<stop offset="0.864" stopColor="#7472E2"/>
+<stop offset="1" stopColor="#806EE3"/>
+</linearGradient>
+<linearGradient id={`${uid}-paint1_linear_1334_1660`} x1="4.8239" y1="8.22556" x2="11.9583" y2="1.09116" gradientUnits="userSpaceOnUse">
+<stop offset="0.118" stopColor="#0095D5"/>
+<stop offset="0.418" stopColor="#3C83DC"/>
+<stop offset="0.696" stopColor="#6D74E1"/>
+<stop offset="0.833" stopColor="#806EE3"/>
+</linearGradient>
+<linearGradient id={`${uid}-paint2_linear_1334_1660`} x1="-1.37753" y1="26.9044" x2="22.8167" y2="2.71007" gradientUnits="userSpaceOnUse">
+<stop offset="0.107" stopColor="#C757BC"/>
+<stop offset="0.214" stopColor="#D0609A"/>
+<stop offset="0.425" stopColor="#E1725C"/>
+<stop offset="0.605" stopColor="#EE7E2F"/>
+<stop offset="0.743" stopColor="#F58613"/>
+<stop offset="0.823" stopColor="#F88909"/>
+</linearGradient>
+</defs>
+    </svg>
+  );
+});
+JbKotlin.displayName = "JbKotlin";

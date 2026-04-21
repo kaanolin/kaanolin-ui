@@ -1,0 +1,2610 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "description": "Country flags. One component per country with a `shape` prop: circle (default) / square / rectangle.",
+    "count": 260,
+    "variantsCount": 780
+  },
+  "countries": [
+    {
+      "componentName": "AbkhaziaGE",
+      "displayName": "Abkhazia GE",
+      "iso": "AB",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Afghanistan",
+      "displayName": "Afghanistan",
+      "iso": "AF",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "AlandIslands",
+      "displayName": "Aland Islands",
+      "iso": "AX",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Albania",
+      "displayName": "Albania",
+      "iso": "AL",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Algeria",
+      "displayName": "Algeria",
+      "iso": "DZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "AmericanSamoa",
+      "displayName": "American Samoa",
+      "iso": "AS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Andorra",
+      "displayName": "Andorra",
+      "iso": "AD",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Angola",
+      "displayName": "Angola",
+      "iso": "AO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Anguilla",
+      "displayName": "Anguilla",
+      "iso": "AI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "AntiguaAndBarbuda",
+      "displayName": "Antigua and Barbuda",
+      "iso": "AG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Argentina",
+      "displayName": "Argentina",
+      "iso": "AR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Armenia",
+      "displayName": "Armenia",
+      "iso": "AM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Aruba",
+      "displayName": "Aruba",
+      "iso": "AW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Australia",
+      "displayName": "Australia",
+      "iso": "AU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Austria",
+      "displayName": "Austria",
+      "iso": "AT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Azerbaijan",
+      "displayName": "Azerbaijan",
+      "iso": "AZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "AzoresIslands",
+      "displayName": "Azores Islands",
+      "iso": "PT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Bahamas",
+      "displayName": "Bahamas",
+      "iso": "BS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Bahrain",
+      "displayName": "Bahrain",
+      "iso": "BH",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "BalearicIslandsES",
+      "displayName": "Balearic Islands ES",
+      "iso": "IB",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Bangladesh",
+      "displayName": "Bangladesh",
+      "iso": "BD",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Barbados",
+      "displayName": "Barbados",
+      "iso": "BB",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "BasqueCountryES",
+      "displayName": "Basque Country ES",
+      "iso": "BV",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Belarus",
+      "displayName": "Belarus",
+      "iso": "BY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Belgium",
+      "displayName": "Belgium",
+      "iso": "BE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Belize",
+      "displayName": "Belize",
+      "iso": "BZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Benin",
+      "displayName": "Benin",
+      "iso": "BJ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Bermuda",
+      "displayName": "Bermuda",
+      "iso": "BM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Bhutan",
+      "displayName": "Bhutan",
+      "iso": "BT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Bolivia",
+      "displayName": "Bolivia",
+      "iso": "BO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Bonaire",
+      "displayName": "Bonaire",
+      "iso": "BQ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "BosniaAndHerzegovina",
+      "displayName": "Bosnia and Herzegovina",
+      "iso": "BA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Botswana",
+      "displayName": "Botswana",
+      "iso": "BW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Brazil",
+      "displayName": "Brazil",
+      "iso": "BR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "BritishColumbiaCA",
+      "displayName": "British Columbia CA",
+      "iso": "BC",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "BritishIndianOceanTerritory",
+      "displayName": "British Indian Ocean Territory",
+      "iso": "IO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "BritishVirginIslands",
+      "displayName": "British Virgin Islands",
+      "iso": "VG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Brunei",
+      "displayName": "Brunei",
+      "iso": "BN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Bulgaria",
+      "displayName": "Bulgaria",
+      "iso": "BG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "BurkinaFaso",
+      "displayName": "Burkina Faso",
+      "iso": "BF",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Burundi",
+      "displayName": "Burundi",
+      "iso": "BI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Cambodia",
+      "displayName": "Cambodia",
+      "iso": "KH",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Cameroon",
+      "displayName": "Cameroon",
+      "iso": "CM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Canada",
+      "displayName": "Canada",
+      "iso": "CA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CanaryIslands",
+      "displayName": "Canary Islands",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CapeVerde",
+      "displayName": "Cape Verde",
+      "iso": "CV",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CaymanIslands",
+      "displayName": "Cayman Islands",
+      "iso": "KY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CentralAfricanRepublic",
+      "displayName": "Central African Republic",
+      "iso": "CF",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CeutaES",
+      "displayName": "Ceuta ES",
+      "iso": "CE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Chad",
+      "displayName": "Chad",
+      "iso": "TD",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Chile",
+      "displayName": "Chile",
+      "iso": "CL",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "China",
+      "displayName": "China",
+      "iso": "CN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "ChristmasIsland",
+      "displayName": "Christmas Island",
+      "iso": "CX",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CocosIsland",
+      "displayName": "Cocos Island",
+      "iso": "CC",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Colombia",
+      "displayName": "Colombia",
+      "iso": "CO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Comoros",
+      "displayName": "Comoros",
+      "iso": "KM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CookIslands",
+      "displayName": "Cook Islands",
+      "iso": "CK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Corsica",
+      "displayName": "Corsica",
+      "iso": "FR-COR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CostaRica",
+      "displayName": "Costa Rica",
+      "iso": "CR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Croatia",
+      "displayName": "Croatia",
+      "iso": "HR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Cuba",
+      "displayName": "Cuba",
+      "iso": "CU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Curacao",
+      "displayName": "Curacao",
+      "iso": "CW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Cyprus",
+      "displayName": "Cyprus",
+      "iso": "CY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "CzechRepublic",
+      "displayName": "Czech Republic",
+      "iso": "CZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "DemocraticRepublicOfCongo",
+      "displayName": "Democratic Republic of Congo",
+      "iso": "CD",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Denmark",
+      "displayName": "Denmark",
+      "iso": "DK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Djibouti",
+      "displayName": "Djibouti",
+      "iso": "DJ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Dominica",
+      "displayName": "Dominica",
+      "iso": "DM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "DominicanRepublic",
+      "displayName": "Dominican Republic",
+      "iso": "DO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "EastTimor",
+      "displayName": "East Timor",
+      "iso": "TL",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Ecuador",
+      "displayName": "Ecuador",
+      "iso": "EC",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Egypt",
+      "displayName": "Egypt",
+      "iso": "EG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "ElSalvador",
+      "displayName": "El Salvador",
+      "iso": "SV",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "EquatorialGuinea",
+      "displayName": "Equatorial Guinea",
+      "iso": "GQ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Eritrea",
+      "displayName": "Eritrea",
+      "iso": "ER",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Estonia",
+      "displayName": "Estonia",
+      "iso": "EE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Ethiopia",
+      "displayName": "Ethiopia",
+      "iso": "ET",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "EuropeanUnion",
+      "displayName": "European Union",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "FalklandIslands",
+      "displayName": "Falkland Islands",
+      "iso": "FK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "FaroeIslands",
+      "displayName": "Faroe Islands",
+      "iso": "FO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Fiji",
+      "displayName": "Fiji",
+      "iso": "FJ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Finland",
+      "displayName": "Finland",
+      "iso": "FI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "France",
+      "displayName": "France",
+      "iso": "FR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "FrenchPolynesia",
+      "displayName": "French Polynesia",
+      "iso": "PF",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Gabon",
+      "displayName": "Gabon",
+      "iso": "GA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "GalapagosIslandsECW",
+      "displayName": "Galapagos Islands EC W",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Gambia",
+      "displayName": "Gambia",
+      "iso": "GM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Georgia",
+      "displayName": "Georgia",
+      "iso": "GE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Germany",
+      "displayName": "Germany",
+      "iso": "DE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Ghana",
+      "displayName": "Ghana",
+      "iso": "GH",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Gibraltar",
+      "displayName": "Gibraltar",
+      "iso": "GI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Greece",
+      "displayName": "Greece",
+      "iso": "GR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Greenland",
+      "displayName": "Greenland",
+      "iso": "GL",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Grenada",
+      "displayName": "Grenada",
+      "iso": "GD",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Guam",
+      "displayName": "Guam",
+      "iso": "GU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Guatemala",
+      "displayName": "Guatemala",
+      "iso": "GT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Guernsey",
+      "displayName": "Guernsey",
+      "iso": "GG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Guinea",
+      "displayName": "Guinea",
+      "iso": "GN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "GuineaBissau",
+      "displayName": "Guinea Bissau",
+      "iso": "GW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Guyana",
+      "displayName": "Guyana",
+      "iso": "GY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Haiti",
+      "displayName": "Haiti",
+      "iso": "HT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "HawaiiUS",
+      "displayName": "Hawaii US",
+      "iso": "HI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Honduras",
+      "displayName": "Honduras",
+      "iso": "HN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "HongKong",
+      "displayName": "Hong Kong",
+      "iso": "HK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Hungary",
+      "displayName": "Hungary",
+      "iso": "HU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Iceland",
+      "displayName": "Iceland",
+      "iso": "IS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "India",
+      "displayName": "India",
+      "iso": "IN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Indonesia",
+      "displayName": "Indonesia",
+      "iso": "ID",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Iran",
+      "displayName": "Iran",
+      "iso": "IR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Iraq",
+      "displayName": "Iraq",
+      "iso": "IQ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Ireland",
+      "displayName": "Ireland",
+      "iso": "IE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "IsleOfMan",
+      "displayName": "Isle of Man",
+      "iso": "IM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Israel",
+      "displayName": "Israel",
+      "iso": "IL",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Italy",
+      "displayName": "Italy",
+      "iso": "IT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "IvoryCoast",
+      "displayName": "Ivory Coast",
+      "iso": "CI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Jamaica",
+      "displayName": "Jamaica",
+      "iso": "JM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Japan",
+      "displayName": "Japan",
+      "iso": "JP",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Jersey",
+      "displayName": "Jersey",
+      "iso": "JE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Jordan",
+      "displayName": "Jordan",
+      "iso": "JO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Kazakhstan",
+      "displayName": "Kazakhstan",
+      "iso": "KZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Kenya",
+      "displayName": "Kenya",
+      "iso": "KE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Kiribati",
+      "displayName": "Kiribati",
+      "iso": "KI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Kuwait",
+      "displayName": "Kuwait",
+      "iso": "KW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Kyrgyzstan",
+      "displayName": "Kyrgyzstan",
+      "iso": "KG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Laos",
+      "displayName": "Laos",
+      "iso": "LA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Latvia",
+      "displayName": "Latvia",
+      "iso": "LV",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Lebanon",
+      "displayName": "Lebanon",
+      "iso": "LB",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Lesotho",
+      "displayName": "Lesotho",
+      "iso": "LS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Liberia",
+      "displayName": "Liberia",
+      "iso": "LR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Libya",
+      "displayName": "Libya",
+      "iso": "LY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Liechtenstein",
+      "displayName": "Liechtenstein",
+      "iso": "LI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Lithuania",
+      "displayName": "Lithuania",
+      "iso": "LT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Luxembourg",
+      "displayName": "Luxembourg",
+      "iso": "LU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Macao",
+      "displayName": "Macao",
+      "iso": "MO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Madagascar",
+      "displayName": "Madagascar",
+      "iso": "MG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "MadeiraPT30",
+      "displayName": "Madeira PT 30",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Malawi",
+      "displayName": "Malawi",
+      "iso": "MW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Malaysia",
+      "displayName": "Malaysia",
+      "iso": "MY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Maldives",
+      "displayName": "Maldives",
+      "iso": "MV",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Mali",
+      "displayName": "Mali",
+      "iso": "ML",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Malta",
+      "displayName": "Malta",
+      "iso": "MT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "MarshallIsland",
+      "displayName": "Marshall Island",
+      "iso": "MH",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Martinique",
+      "displayName": "Martinique",
+      "iso": "MQ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Mauritania",
+      "displayName": "Mauritania",
+      "iso": "MR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Mauritius",
+      "displayName": "Mauritius",
+      "iso": "MU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Melilla",
+      "displayName": "Melilla",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Mexico",
+      "displayName": "Mexico",
+      "iso": "MX",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Micronesia",
+      "displayName": "Micronesia",
+      "iso": "FM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Moldova",
+      "displayName": "Moldova",
+      "iso": "MD",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Monaco",
+      "displayName": "Monaco",
+      "iso": "MC",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Mongolia",
+      "displayName": "Mongolia",
+      "iso": "MN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Montenegro",
+      "displayName": "Montenegro",
+      "iso": "ME",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Montserrat",
+      "displayName": "Montserrat",
+      "iso": "MS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Morocco",
+      "displayName": "Morocco",
+      "iso": "MA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Mozambique",
+      "displayName": "Mozambique",
+      "iso": "MZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Myanmar",
+      "displayName": "Myanmar",
+      "iso": "MM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Namibia",
+      "displayName": "Namibia",
+      "iso": "NA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Nauru",
+      "displayName": "Nauru",
+      "iso": "NR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Nepal",
+      "displayName": "Nepal",
+      "iso": "NP",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Netherlands",
+      "displayName": "Netherlands",
+      "iso": "NL",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "NewZealand",
+      "displayName": "New Zealand",
+      "iso": "NZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Nicaragua",
+      "displayName": "Nicaragua",
+      "iso": "NI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Niger",
+      "displayName": "Niger",
+      "iso": "NE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Nigeria",
+      "displayName": "Nigeria",
+      "iso": "NG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Niue",
+      "displayName": "Niue",
+      "iso": "NU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "NorfolkIsland",
+      "displayName": "Norfolk Island",
+      "iso": "NF",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "NorthernCyprus",
+      "displayName": "Northern Cyprus",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "NorthernMarianasIslandsUS",
+      "displayName": "Northern Marianas Islands US",
+      "iso": "MP",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "NorthKorea",
+      "displayName": "North Korea",
+      "iso": "KP",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Norway",
+      "displayName": "Norway",
+      "iso": "NO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Oman",
+      "displayName": "Oman",
+      "iso": "OM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "OrkneyIslands",
+      "displayName": "Orkney Islands",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Ossetia",
+      "displayName": "Ossetia",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Pakistan",
+      "displayName": "Pakistan",
+      "iso": "PK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Palau",
+      "displayName": "Palau",
+      "iso": "PW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Palestine",
+      "displayName": "Palestine",
+      "iso": "PS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Panama",
+      "displayName": "Panama",
+      "iso": "PA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "PapuaNewGuinea",
+      "displayName": "Papua New Guinea",
+      "iso": "PG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Paraguay",
+      "displayName": "Paraguay",
+      "iso": "PY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Peru",
+      "displayName": "Peru",
+      "iso": "PE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Philippines",
+      "displayName": "Philippines",
+      "iso": "PH",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "PitcairnIslands",
+      "displayName": "Pitcairn Islands",
+      "iso": "PN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Poland",
+      "displayName": "Poland",
+      "iso": "PL",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Portugal",
+      "displayName": "Portugal",
+      "iso": "PT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "PuertoRico",
+      "displayName": "Puerto Rico",
+      "iso": "PR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Qatar",
+      "displayName": "Qatar",
+      "iso": "QA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "RapaNui",
+      "displayName": "Rapa Nui",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "RepublicOfMacedonia",
+      "displayName": "Republic of Macedonia",
+      "iso": "MK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "RepublicOfTheCongo",
+      "displayName": "Republic of the Congo",
+      "iso": "CG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Romania",
+      "displayName": "Romania",
+      "iso": "RO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Russia",
+      "displayName": "Russia",
+      "iso": "RU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Rwanda",
+      "displayName": "Rwanda",
+      "iso": "RW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SabaIslandBQ",
+      "displayName": "Saba Island BQ",
+      "iso": "SA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SahrawiArabDemocraticRepublic",
+      "displayName": "Sahrawi Arab Democratic Republic",
+      "iso": "EH",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SaintKittsAndNevis",
+      "displayName": "Saint Kitts and Nevis",
+      "iso": "KN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Samoa",
+      "displayName": "Samoa",
+      "iso": "WS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SanMarino",
+      "displayName": "San Marino",
+      "iso": "SM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SaoTomeAndPrincipe",
+      "displayName": "Sao Tome and Principe",
+      "iso": "ST",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Sardinia",
+      "displayName": "Sardinia",
+      "iso": "IT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SaudiArabia",
+      "displayName": "Saudi Arabia",
+      "iso": "SA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Scotland",
+      "displayName": "Scotland",
+      "iso": "GB-SCT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Senegal",
+      "displayName": "Senegal",
+      "iso": "SN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Serbia",
+      "displayName": "Serbia",
+      "iso": "RS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Seychelles",
+      "displayName": "Seychelles",
+      "iso": "SC",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Sicily",
+      "displayName": "Sicily",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SierraLeone",
+      "displayName": "Sierra Leone",
+      "iso": "SL",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Singapore",
+      "displayName": "Singapore",
+      "iso": "SG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SintEustatiusBQ",
+      "displayName": "Sint Eustatius BQ",
+      "iso": "SE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SintMaarten",
+      "displayName": "Sint Maarten",
+      "iso": "SX",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Slovakia",
+      "displayName": "Slovakia",
+      "iso": "SK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Slovenia",
+      "displayName": "Slovenia",
+      "iso": "SI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SolomonIslands",
+      "displayName": "Solomon Islands",
+      "iso": "SB",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Somalia",
+      "displayName": "Somalia",
+      "iso": "SO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Somaliland",
+      "displayName": "Somaliland",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SouthAfrica",
+      "displayName": "South Africa",
+      "iso": "ZA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SouthKorea",
+      "displayName": "South Korea",
+      "iso": "KR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SouthSudan",
+      "displayName": "South Sudan",
+      "iso": "SS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Spain",
+      "displayName": "Spain",
+      "iso": "ES",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "SriLanka",
+      "displayName": "Sri Lanka",
+      "iso": "LK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "StBartsFL",
+      "displayName": "St Barts FL",
+      "iso": "BR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "StLucia",
+      "displayName": "St Lucia",
+      "iso": "LC",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "StVincentAndTheGrenadines",
+      "displayName": "St Vincent and the Grenadines",
+      "iso": "VC",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Sudan",
+      "displayName": "Sudan",
+      "iso": "SD",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Suriname",
+      "displayName": "Suriname",
+      "iso": "SR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Swaziland",
+      "displayName": "Swaziland",
+      "iso": "SZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Sweden",
+      "displayName": "Sweden",
+      "iso": "SE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Switzerland",
+      "displayName": "Switzerland",
+      "iso": "CH",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Syria",
+      "displayName": "Syria",
+      "iso": "SY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Taiwan",
+      "displayName": "Taiwan",
+      "iso": "TW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Tajikistan",
+      "displayName": "Tajikistan",
+      "iso": "TJ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Tanzania",
+      "displayName": "Tanzania",
+      "iso": "TZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Thailand",
+      "displayName": "Thailand",
+      "iso": "TH",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Tibet",
+      "displayName": "Tibet",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Togo",
+      "displayName": "Togo",
+      "iso": "TG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Tokelau",
+      "displayName": "Tokelau",
+      "iso": "TK",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Tonga",
+      "displayName": "Tonga",
+      "iso": "TO",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Transnistria",
+      "displayName": "Transnistria",
+      "iso": "MD",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "TrinidadAndTobago",
+      "displayName": "Trinidad and Tobago",
+      "iso": "TT",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Tunisia",
+      "displayName": "Tunisia",
+      "iso": "TN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Turkey",
+      "displayName": "Turkey",
+      "iso": "TR",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Turkmenistan",
+      "displayName": "Turkmenistan",
+      "iso": "TM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "TurksAndCaicos",
+      "displayName": "Turks and Caicos",
+      "iso": "TC",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Tuvalu",
+      "displayName": "Tuvalu",
+      "iso": "TB",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Uganda",
+      "displayName": "Uganda",
+      "iso": "UG",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Ukraine",
+      "displayName": "Ukraine",
+      "iso": "UA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "UnitedArabEmirates",
+      "displayName": "United Arab Emirates",
+      "iso": "AE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "UnitedKingdom",
+      "displayName": "United Kingdom",
+      "iso": "GB",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "UnitedNations",
+      "displayName": "United Nations",
+      "iso": null,
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "UnitedStatesOfAmerica",
+      "displayName": "United States of America",
+      "iso": "US",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Uruguay",
+      "displayName": "Uruguay",
+      "iso": "UY",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Uzbekistan",
+      "displayName": "Uzbekistan",
+      "iso": "UZ",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Vanuatu",
+      "displayName": "Vanuatu",
+      "iso": "VU",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "VaticanCity",
+      "displayName": "Vatican City",
+      "iso": "VA",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Venezuela",
+      "displayName": "Venezuela",
+      "iso": "VE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Vietnam",
+      "displayName": "Vietnam",
+      "iso": "VN",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "VirginIslands",
+      "displayName": "Virgin Islands",
+      "iso": "VI",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Wales",
+      "displayName": "Wales",
+      "iso": "GB-WLS",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Yemen",
+      "displayName": "Yemen",
+      "iso": "YE",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Zambia",
+      "displayName": "Zambia",
+      "iso": "ZM",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    },
+    {
+      "componentName": "Zimbabwe",
+      "displayName": "Zimbabwe",
+      "iso": "ZW",
+      "shapes": [
+        "circle",
+        "square",
+        "rectangle"
+      ]
+    }
+  ]
+}

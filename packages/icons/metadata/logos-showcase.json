@@ -1,0 +1,3615 @@
+{
+  "$metadata": {
+    "source": "source/icons/Logos/",
+    "description": "Untitled UI fictional brand mockup logos. Each has light & dark mode variants — use the `mode` prop on the React component to switch.",
+    "count": 360,
+    "styleKinds": [
+      "default/logos",
+      "default/logomarks",
+      "badge/logos",
+      "badge/logomarks"
+    ]
+  },
+  "logos": [
+    {
+      "componentName": "_3Portals",
+      "displayName": "3Portals",
+      "fileSlug": "3portals",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 162 48"
+    },
+    {
+      "componentName": "_45Degrees",
+      "displayName": "45 Degrees",
+      "fileSlug": "45-degrees",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 214 48"
+    },
+    {
+      "componentName": "AcmeCorp",
+      "displayName": "Acme Corp",
+      "fileSlug": "acme-corp",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 203 48"
+    },
+    {
+      "componentName": "AlphaWave",
+      "displayName": "AlphaWave",
+      "fileSlug": "alphawave",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 193 48"
+    },
+    {
+      "componentName": "AltPlusShift",
+      "displayName": "Alt+Shift",
+      "fileSlug": "altplusshift",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 163 48"
+    },
+    {
+      "componentName": "Biosynthesis",
+      "displayName": "Biosynthesis",
+      "fileSlug": "biosynthesis",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 223 48"
+    },
+    {
+      "componentName": "Boltshift",
+      "displayName": "Boltshift",
+      "fileSlug": "boltshift",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 165 48"
+    },
+    {
+      "componentName": "BuildingBlocks",
+      "displayName": "BuildingBlocks",
+      "fileSlug": "buildingblocks",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 255 48"
+    },
+    {
+      "componentName": "Calescence",
+      "displayName": "Calescence",
+      "fileSlug": "calescence",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 207 48"
+    },
+    {
+      "componentName": "Capsule",
+      "displayName": "Capsule",
+      "fileSlug": "capsule",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 159 48"
+    },
+    {
+      "componentName": "Catalog",
+      "displayName": "Catalog",
+      "fileSlug": "catalog",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 162 48"
+    },
+    {
+      "componentName": "Chromatools",
+      "displayName": "Chromatools",
+      "fileSlug": "chromatools",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 218 48"
+    },
+    {
+      "componentName": "Clandestine",
+      "displayName": "Clandestine",
+      "fileSlug": "clandestine",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 217 48"
+    },
+    {
+      "componentName": "CloudWatch",
+      "displayName": "CloudWatch",
+      "fileSlug": "cloudwatch",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 229 48"
+    },
+    {
+      "componentName": "Codecraft",
+      "displayName": "Codecraft_",
+      "fileSlug": "codecraft",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 212 48"
+    },
+    {
+      "componentName": "CommandPlusR",
+      "displayName": "Command+R",
+      "fileSlug": "commandplusr",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 230 48"
+    },
+    {
+      "componentName": "Constellation",
+      "displayName": "Constellation",
+      "fileSlug": "constellation",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 242 48"
+    },
+    {
+      "componentName": "ContrastAI",
+      "displayName": "ContrastAI",
+      "fileSlug": "contrastai",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 192 48"
+    },
+    {
+      "componentName": "Convergence",
+      "displayName": "Convergence",
+      "fileSlug": "convergence",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 219 48"
+    },
+    {
+      "componentName": "Cooperative",
+      "displayName": "Cooperative",
+      "fileSlug": "cooperative",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 231 48"
+    },
+    {
+      "componentName": "CoreOS",
+      "displayName": "CoreOS",
+      "fileSlug": "coreos",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 155 48"
+    },
+    {
+      "componentName": "Cubekit",
+      "displayName": "Cubekit",
+      "fileSlug": "cubekit",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 157 48"
+    },
+    {
+      "componentName": "EasyTax",
+      "displayName": "EasyTax",
+      "fileSlug": "easytax",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 168 48"
+    },
+    {
+      "componentName": "Eclipseful",
+      "displayName": "Eclipseful",
+      "fileSlug": "eclipseful",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 184 48"
+    },
+    {
+      "componentName": "Eightball",
+      "displayName": "Eightball",
+      "fileSlug": "eightball",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 161 48"
+    },
+    {
+      "componentName": "Elasticware",
+      "displayName": "Elasticware",
+      "fileSlug": "elasticware",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 235 48"
+    },
+    {
+      "componentName": "EnnLabs",
+      "displayName": "ennLabs",
+      "fileSlug": "ennlabs",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 170 48"
+    },
+    {
+      "componentName": "Ephemeral",
+      "displayName": "Ephemeral",
+      "fileSlug": "ephemeral",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 188 48"
+    },
+    {
+      "componentName": "Epicurious",
+      "displayName": "Epicurious",
+      "fileSlug": "epicurious",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 188 48"
+    },
+    {
+      "componentName": "Euphoria",
+      "displayName": "Euphoria",
+      "fileSlug": "euphoria",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 167 48"
+    },
+    {
+      "componentName": "Europa",
+      "displayName": "Europa",
+      "fileSlug": "europa",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 152 48"
+    },
+    {
+      "componentName": "FeatherDev",
+      "displayName": "FeatherDev",
+      "fileSlug": "featherdev",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 191 48"
+    },
+    {
+      "componentName": "FloraAndFauna",
+      "displayName": "Flora&Fauna",
+      "fileSlug": "floraandfauna",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 216 48"
+    },
+    {
+      "componentName": "FocalPoint",
+      "displayName": "FocalPoint",
+      "fileSlug": "focalpoint",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 190 48"
+    },
+    {
+      "componentName": "Foresight",
+      "displayName": "Foresight",
+      "fileSlug": "foresight",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 182 48"
+    },
+    {
+      "componentName": "Fourpoints",
+      "displayName": "Fourpoints",
+      "fileSlug": "fourpoints",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 190 48"
+    },
+    {
+      "componentName": "Frequencii",
+      "displayName": "Frequencii",
+      "fileSlug": "frequencii",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 187 48"
+    },
+    {
+      "componentName": "Galileo",
+      "displayName": "Galileo",
+      "fileSlug": "galileo",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 145 48"
+    },
+    {
+      "componentName": "GlobalBank",
+      "displayName": "GlobalBank",
+      "fileSlug": "globalbank",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 203 48"
+    },
+    {
+      "componentName": "Goodwell",
+      "displayName": "Goodwell",
+      "fileSlug": "goodwell",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 176 48"
+    },
+    {
+      "componentName": "Hexahedron",
+      "displayName": "Hexahedron",
+      "fileSlug": "hexahedron",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 206 48"
+    },
+    {
+      "componentName": "Hexsmith",
+      "displayName": "Hexsmith",
+      "fileSlug": "hexsmith",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 186 48"
+    },
+    {
+      "componentName": "Hourglass",
+      "displayName": "Hourglass",
+      "fileSlug": "hourglass",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 190 48"
+    },
+    {
+      "componentName": "IkigaiLabs",
+      "displayName": "Ikigai Labs",
+      "fileSlug": "ikigai-labs",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 203 48"
+    },
+    {
+      "componentName": "ImgCompress",
+      "displayName": "ImgCompress",
+      "fileSlug": "imgcompress",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 232 48"
+    },
+    {
+      "componentName": "Interlock",
+      "displayName": "Interlock",
+      "fileSlug": "interlock",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 165 48"
+    },
+    {
+      "componentName": "Kintsugi",
+      "displayName": "Kintsugi",
+      "fileSlug": "kintsugi",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 159 48"
+    },
+    {
+      "componentName": "LaunchSimple",
+      "displayName": "LaunchSimple",
+      "fileSlug": "launchsimple",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 231 48"
+    },
+    {
+      "componentName": "Layers",
+      "displayName": "Layers",
+      "fileSlug": "layers",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 141 48"
+    },
+    {
+      "componentName": "Leapyear",
+      "displayName": "Leapyear",
+      "fileSlug": "leapyear",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 181 48"
+    },
+    {
+      "componentName": "Lightbox",
+      "displayName": "Lightbox",
+      "fileSlug": "lightbox",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 175 48"
+    },
+    {
+      "componentName": "Lightspeed",
+      "displayName": "Lightspeed",
+      "fileSlug": "lightspeed",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 194 48"
+    },
+    {
+      "componentName": "Luckycharm",
+      "displayName": "Luckycharm",
+      "fileSlug": "luckycharm",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 210 48"
+    },
+    {
+      "componentName": "Luminary",
+      "displayName": "Luminary",
+      "fileSlug": "luminary",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 189 48"
+    },
+    {
+      "componentName": "Luminescence",
+      "displayName": "Luminescence",
+      "fileSlug": "luminescence",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 247 48"
+    },
+    {
+      "componentName": "Luminous",
+      "displayName": "Luminous",
+      "fileSlug": "luminous",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 177 48"
+    },
+    {
+      "componentName": "Magnolia",
+      "displayName": "Magnolia",
+      "fileSlug": "magnolia",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 185 48"
+    },
+    {
+      "componentName": "Mastermail",
+      "displayName": "Mastermail",
+      "fileSlug": "mastermail",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 194 48"
+    },
+    {
+      "componentName": "Nietzsche",
+      "displayName": "Nietzsche",
+      "fileSlug": "nietzsche",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 178 48"
+    },
+    {
+      "componentName": "NorseStar",
+      "displayName": "Norse Star",
+      "fileSlug": "norse-star",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 189 48"
+    },
+    {
+      "componentName": "OdeaoLabs",
+      "displayName": "OdeaoLabs",
+      "fileSlug": "odeaolabs",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 200 48"
+    },
+    {
+      "componentName": "Ollio",
+      "displayName": "Ollio",
+      "fileSlug": "ollio",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 117 48"
+    },
+    {
+      "componentName": "Pagemanage",
+      "displayName": "Pagemanage",
+      "fileSlug": "pagemanage",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 220 48"
+    },
+    {
+      "componentName": "Peregrin",
+      "displayName": "Peregrin",
+      "fileSlug": "peregrin",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 171 48"
+    },
+    {
+      "componentName": "PictelAI",
+      "displayName": "PictelAI",
+      "fileSlug": "pictelai",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 168 48"
+    },
+    {
+      "componentName": "Pollinate",
+      "displayName": "Pollinate",
+      "fileSlug": "pollinate",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 163 48"
+    },
+    {
+      "componentName": "Polymath",
+      "displayName": "Polymath",
+      "fileSlug": "polymath",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 179 48"
+    },
+    {
+      "componentName": "Powersurge",
+      "displayName": "Powersurge",
+      "fileSlug": "powersurge",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 209 48"
+    },
+    {
+      "componentName": "Prometheus",
+      "displayName": "Prometheus",
+      "fileSlug": "prometheus",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 214 48"
+    },
+    {
+      "componentName": "Quantum",
+      "displayName": "Quantum",
+      "fileSlug": "quantum",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 179 48"
+    },
+    {
+      "componentName": "QuartzAI",
+      "displayName": "QuartzAI",
+      "fileSlug": "quartzai",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 168 48"
+    },
+    {
+      "componentName": "Quixotic",
+      "displayName": "Quixotic",
+      "fileSlug": "quixotic",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 164 48"
+    },
+    {
+      "componentName": "Quotient",
+      "displayName": "Quotient",
+      "fileSlug": "quotient",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 167 48"
+    },
+    {
+      "componentName": "Radius",
+      "displayName": "Radius",
+      "fileSlug": "radius",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 142 48"
+    },
+    {
+      "componentName": "Railspeed",
+      "displayName": "Railspeed",
+      "fileSlug": "railspeed",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 184 48"
+    },
+    {
+      "componentName": "Refractional",
+      "displayName": "Refractional",
+      "fileSlug": "refractional",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 212 48"
+    },
+    {
+      "componentName": "Renaissance",
+      "displayName": "Renaissance",
+      "fileSlug": "renaissance",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 213 48"
+    },
+    {
+      "componentName": "Screentime",
+      "displayName": "Screentime",
+      "fileSlug": "screentime",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 210 48"
+    },
+    {
+      "componentName": "Segment",
+      "displayName": "Segment",
+      "fileSlug": "segment",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 181 48"
+    },
+    {
+      "componentName": "Shutterframe",
+      "displayName": "Shutterframe",
+      "fileSlug": "shutterframe",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 231 48"
+    },
+    {
+      "componentName": "Sisyphus",
+      "displayName": "Sisyphus",
+      "fileSlug": "sisyphus",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 175 48"
+    },
+    {
+      "componentName": "SolarisEnergy",
+      "displayName": "Solaris Energy",
+      "fileSlug": "solaris-energy",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 237 48"
+    },
+    {
+      "componentName": "Sonorous",
+      "displayName": "Sonorous",
+      "fileSlug": "sonorous",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 185 48"
+    },
+    {
+      "componentName": "Spherule",
+      "displayName": "Spherule",
+      "fileSlug": "spherule",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 170 48"
+    },
+    {
+      "componentName": "Stack3dLab",
+      "displayName": "Stack3d Lab",
+      "fileSlug": "stack3d-lab",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 209 48"
+    },
+    {
+      "componentName": "Visionwork",
+      "displayName": "Visionwork",
+      "fileSlug": "visionwork",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 208 48"
+    },
+    {
+      "componentName": "VoxelLabs",
+      "displayName": "Voxel Labs",
+      "fileSlug": "voxel-labs",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 201 48"
+    },
+    {
+      "componentName": "Warpspeed",
+      "displayName": "Warpspeed",
+      "fileSlug": "warpspeed",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 203 48"
+    },
+    {
+      "componentName": "Watchtower",
+      "displayName": "Watchtower",
+      "fileSlug": "watchtower",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 220 48"
+    },
+    {
+      "componentName": "Wildcrafted",
+      "displayName": "Wildcrafted",
+      "fileSlug": "wildcrafted",
+      "style": "badge",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 201 48"
+    },
+    {
+      "componentName": "_3Portals",
+      "displayName": "3Portals",
+      "fileSlug": "3portals",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "_45Degrees",
+      "displayName": "45 Degrees",
+      "fileSlug": "45-degrees",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "AcmeCorp",
+      "displayName": "Acme Corp",
+      "fileSlug": "acme-corp",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "AlphaWave",
+      "displayName": "AlphaWave",
+      "fileSlug": "alphawave",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "AltPlusShift",
+      "displayName": "Alt+Shift",
+      "fileSlug": "altplusshift",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Biosynthesis",
+      "displayName": "Biosynthesis",
+      "fileSlug": "biosynthesis",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Boltshift",
+      "displayName": "Boltshift",
+      "fileSlug": "boltshift",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "BuildingBlocks",
+      "displayName": "BuildingBlocks",
+      "fileSlug": "buildingblocks",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Calescence",
+      "displayName": "Calescence",
+      "fileSlug": "calescence",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Capsule",
+      "displayName": "Capsule",
+      "fileSlug": "capsule",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Catalog",
+      "displayName": "Catalog",
+      "fileSlug": "catalog",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Chromatools",
+      "displayName": "Chromatools",
+      "fileSlug": "chromatools",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Clandestine",
+      "displayName": "Clandestine",
+      "fileSlug": "clandestine",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "CloudWatch",
+      "displayName": "CloudWatch",
+      "fileSlug": "cloudwatch",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Codecraft",
+      "displayName": "Codecraft_",
+      "fileSlug": "codecraft",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "CommandPlusR",
+      "displayName": "Command+R",
+      "fileSlug": "commandplusr",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Constellation",
+      "displayName": "Constellation",
+      "fileSlug": "constellation",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "ContrastAI",
+      "displayName": "ContrastAI",
+      "fileSlug": "contrastai",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Convergence",
+      "displayName": "Convergence",
+      "fileSlug": "convergence",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Cooperative",
+      "displayName": "Cooperative",
+      "fileSlug": "cooperative",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "CoreOS",
+      "displayName": "CoreOS",
+      "fileSlug": "coreos",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Cubekit",
+      "displayName": "Cubekit",
+      "fileSlug": "cubekit",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "EasyTax",
+      "displayName": "EasyTax",
+      "fileSlug": "easytax",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Eclipseful",
+      "displayName": "Eclipseful",
+      "fileSlug": "eclipseful",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Eightball",
+      "displayName": "Eightball",
+      "fileSlug": "eightball",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Elasticware",
+      "displayName": "Elasticware",
+      "fileSlug": "elasticware",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "EnnLabs",
+      "displayName": "ennLabs",
+      "fileSlug": "ennlabs",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Ephemeral",
+      "displayName": "Ephemeral",
+      "fileSlug": "ephemeral",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Epicurious",
+      "displayName": "Epicurious",
+      "fileSlug": "epicurious",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Euphoria",
+      "displayName": "Euphoria",
+      "fileSlug": "euphoria",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Europa",
+      "displayName": "Europa",
+      "fileSlug": "europa",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FeatherDev",
+      "displayName": "FeatherDev",
+      "fileSlug": "featherdev",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FloraAndFauna",
+      "displayName": "Flora&Fauna",
+      "fileSlug": "floraandfauna",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FocalPoint",
+      "displayName": "FocalPoint",
+      "fileSlug": "focalpoint",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Foresight",
+      "displayName": "Foresight",
+      "fileSlug": "foresight",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Fourpoints",
+      "displayName": "Fourpoints",
+      "fileSlug": "fourpoints",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Frequencii",
+      "displayName": "Frequencii",
+      "fileSlug": "frequencii",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Galileo",
+      "displayName": "Galileo",
+      "fileSlug": "galileo",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "GlobalBank",
+      "displayName": "GlobalBank",
+      "fileSlug": "globalbank",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Goodwell",
+      "displayName": "Goodwell",
+      "fileSlug": "goodwell",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Hexahedron",
+      "displayName": "Hexahedron",
+      "fileSlug": "hexahedron",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Hexsmith",
+      "displayName": "Hexsmith",
+      "fileSlug": "hexsmith",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Hourglass",
+      "displayName": "Hourglass",
+      "fileSlug": "hourglass",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "IkigaiLabs",
+      "displayName": "Ikigai Labs",
+      "fileSlug": "ikigai-labs",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "ImgCompress",
+      "displayName": "ImgCompress",
+      "fileSlug": "imgcompress",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Interlock",
+      "displayName": "Interlock",
+      "fileSlug": "interlock",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Kintsugi",
+      "displayName": "Kintsugi",
+      "fileSlug": "kintsugi",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "LaunchSimple",
+      "displayName": "LaunchSimple",
+      "fileSlug": "launchsimple",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Layers",
+      "displayName": "Layers",
+      "fileSlug": "layers",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Leapyear",
+      "displayName": "Leapyear",
+      "fileSlug": "leapyear",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Lightbox",
+      "displayName": "Lightbox",
+      "fileSlug": "lightbox",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Lightspeed",
+      "displayName": "Lightspeed",
+      "fileSlug": "lightspeed",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Luckycharm",
+      "displayName": "Luckycharm",
+      "fileSlug": "luckycharm",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Luminary",
+      "displayName": "Luminary",
+      "fileSlug": "luminary",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Luminescence",
+      "displayName": "Luminescence",
+      "fileSlug": "luminescence",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Luminous",
+      "displayName": "Luminous",
+      "fileSlug": "luminous",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Magnolia",
+      "displayName": "Magnolia",
+      "fileSlug": "magnolia",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Mastermail",
+      "displayName": "Mastermail",
+      "fileSlug": "mastermail",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Nietzsche",
+      "displayName": "Nietzsche",
+      "fileSlug": "nietzsche",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "NorseStar",
+      "displayName": "Norse Star",
+      "fileSlug": "norse-star",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "OdeaoLabs",
+      "displayName": "OdeaoLabs",
+      "fileSlug": "odeaolabs",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Ollio",
+      "displayName": "Ollio",
+      "fileSlug": "ollio",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Pagemanage",
+      "displayName": "Pagemanage",
+      "fileSlug": "pagemanage",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Peregrin",
+      "displayName": "Peregrin",
+      "fileSlug": "peregrin",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "PictelAI",
+      "displayName": "PictelAI",
+      "fileSlug": "pictelai",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Pollinate",
+      "displayName": "Pollinate",
+      "fileSlug": "pollinate",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Polymath",
+      "displayName": "Polymath",
+      "fileSlug": "polymath",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Powersurge",
+      "displayName": "Powersurge",
+      "fileSlug": "powersurge",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Prometheus",
+      "displayName": "Prometheus",
+      "fileSlug": "prometheus",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Quantum",
+      "displayName": "Quantum",
+      "fileSlug": "quantum",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "QuartzAI",
+      "displayName": "QuartzAI",
+      "fileSlug": "quartzai",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Quixotic",
+      "displayName": "Quixotic",
+      "fileSlug": "quixotic",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Quotient",
+      "displayName": "Quotient",
+      "fileSlug": "quotient",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Radius",
+      "displayName": "Radius",
+      "fileSlug": "radius",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Railspeed",
+      "displayName": "Railspeed",
+      "fileSlug": "railspeed",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Refractional",
+      "displayName": "Refractional",
+      "fileSlug": "refractional",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Renaissance",
+      "displayName": "Renaissance",
+      "fileSlug": "renaissance",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Screentime",
+      "displayName": "Screentime",
+      "fileSlug": "screentime",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Segment",
+      "displayName": "Segment",
+      "fileSlug": "segment",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Shutterframe",
+      "displayName": "Shutterframe",
+      "fileSlug": "shutterframe",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Sisyphus",
+      "displayName": "Sisyphus",
+      "fileSlug": "sisyphus",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "SolarisEnergy",
+      "displayName": "Solaris Energy",
+      "fileSlug": "solaris-energy",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Sonorous",
+      "displayName": "Sonorous",
+      "fileSlug": "sonorous",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Spherule",
+      "displayName": "Spherule",
+      "fileSlug": "spherule",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Stack3dLab",
+      "displayName": "Stack3d Lab",
+      "fileSlug": "stack3d-lab",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Visionwork",
+      "displayName": "Visionwork",
+      "fileSlug": "visionwork",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "VoxelLabs",
+      "displayName": "Voxel Labs",
+      "fileSlug": "voxel-labs",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Warpspeed",
+      "displayName": "Warpspeed",
+      "fileSlug": "warpspeed",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Watchtower",
+      "displayName": "Watchtower",
+      "fileSlug": "watchtower",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Wildcrafted",
+      "displayName": "Wildcrafted",
+      "fileSlug": "wildcrafted",
+      "style": "badge",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "_3Portals",
+      "displayName": "3Portals",
+      "fileSlug": "3portals",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 152 48"
+    },
+    {
+      "componentName": "_45Degrees",
+      "displayName": "45 Degrees",
+      "fileSlug": "45-degrees",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 188 48"
+    },
+    {
+      "componentName": "AcmeCorp",
+      "displayName": "Acme Corp",
+      "fileSlug": "acme-corp",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 197 48"
+    },
+    {
+      "componentName": "AlphaWave",
+      "displayName": "AlphaWave",
+      "fileSlug": "alphawave",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 188 48"
+    },
+    {
+      "componentName": "AltPlusShift",
+      "displayName": "Alt+Shift",
+      "fileSlug": "altplusshift",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 153 48"
+    },
+    {
+      "componentName": "Biosynthesis",
+      "displayName": "Biosynthesis",
+      "fileSlug": "biosynthesis",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 213 48"
+    },
+    {
+      "componentName": "Boltshift",
+      "displayName": "Boltshift",
+      "fileSlug": "boltshift",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 155 48"
+    },
+    {
+      "componentName": "BuildingBlocks",
+      "displayName": "BuildingBlocks",
+      "fileSlug": "buildingblocks",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 242 48"
+    },
+    {
+      "componentName": "Calescence",
+      "displayName": "Calescence",
+      "fileSlug": "calescence",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 192 48"
+    },
+    {
+      "componentName": "Capsule",
+      "displayName": "Capsule",
+      "fileSlug": "capsule",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 149 48"
+    },
+    {
+      "componentName": "Catalog",
+      "displayName": "Catalog",
+      "fileSlug": "catalog",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 152 48"
+    },
+    {
+      "componentName": "Chromatools",
+      "displayName": "Chromatools",
+      "fileSlug": "chromatools",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 208 48"
+    },
+    {
+      "componentName": "Clandestine",
+      "displayName": "Clandestine",
+      "fileSlug": "clandestine",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 203 48"
+    },
+    {
+      "componentName": "CloudWatch",
+      "displayName": "CloudWatch",
+      "fileSlug": "cloudwatch",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 221 48"
+    },
+    {
+      "componentName": "Codecraft",
+      "displayName": "Codecraft_",
+      "fileSlug": "codecraft",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 202 48"
+    },
+    {
+      "componentName": "CommandPlusR",
+      "displayName": "Command+R",
+      "fileSlug": "commandplusr",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 212 48"
+    },
+    {
+      "componentName": "Constellation",
+      "displayName": "Constellation",
+      "fileSlug": "constellation",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 234 48"
+    },
+    {
+      "componentName": "ContrastAI",
+      "displayName": "ContrastAI",
+      "fileSlug": "contrastai",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 182 48"
+    },
+    {
+      "componentName": "Convergence",
+      "displayName": "Convergence",
+      "fileSlug": "convergence",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 209 48"
+    },
+    {
+      "componentName": "Cooperative",
+      "displayName": "Cooperative",
+      "fileSlug": "cooperative",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 219 48"
+    },
+    {
+      "componentName": "CoreOS",
+      "displayName": "CoreOS",
+      "fileSlug": "coreos",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 145 48"
+    },
+    {
+      "componentName": "Cubekit",
+      "displayName": "Cubekit",
+      "fileSlug": "cubekit",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 147 48"
+    },
+    {
+      "componentName": "EasyTax",
+      "displayName": "EasyTax",
+      "fileSlug": "easytax",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 158 48"
+    },
+    {
+      "componentName": "Eclipseful",
+      "displayName": "Eclipseful",
+      "fileSlug": "eclipseful",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 174 48"
+    },
+    {
+      "componentName": "Eightball",
+      "displayName": "Eightball",
+      "fileSlug": "eightball",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 151 48"
+    },
+    {
+      "componentName": "Elasticware",
+      "displayName": "Elasticware",
+      "fileSlug": "elasticware",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 221 48"
+    },
+    {
+      "componentName": "EnnLabs",
+      "displayName": "ennLabs",
+      "fileSlug": "ennlabs",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 162 48"
+    },
+    {
+      "componentName": "Ephemeral",
+      "displayName": "Ephemeral",
+      "fileSlug": "ephemeral",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 186 48"
+    },
+    {
+      "componentName": "Epicurious",
+      "displayName": "Epicurious",
+      "fileSlug": "epicurious",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 178 48"
+    },
+    {
+      "componentName": "Euphoria",
+      "displayName": "Euphoria",
+      "fileSlug": "euphoria",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 157 48"
+    },
+    {
+      "componentName": "Europa",
+      "displayName": "Europa",
+      "fileSlug": "europa",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 142 48"
+    },
+    {
+      "componentName": "FeatherDev",
+      "displayName": "FeatherDev",
+      "fileSlug": "featherdev",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 185 48"
+    },
+    {
+      "componentName": "FloraAndFauna",
+      "displayName": "Flora&Fauna",
+      "fileSlug": "floraandfauna",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 206 48"
+    },
+    {
+      "componentName": "FocalPoint",
+      "displayName": "FocalPoint",
+      "fileSlug": "focalpoint",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 180 48"
+    },
+    {
+      "componentName": "Foresight",
+      "displayName": "Foresight",
+      "fileSlug": "foresight",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 163 48"
+    },
+    {
+      "componentName": "Fourpoints",
+      "displayName": "Fourpoints",
+      "fileSlug": "fourpoints",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 170 48"
+    },
+    {
+      "componentName": "Frequencii",
+      "displayName": "Frequencii",
+      "fileSlug": "frequencii",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 177 48"
+    },
+    {
+      "componentName": "Galileo",
+      "displayName": "Galileo",
+      "fileSlug": "galileo",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 135 48"
+    },
+    {
+      "componentName": "GlobalBank",
+      "displayName": "GlobalBank",
+      "fileSlug": "globalbank",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 193 48"
+    },
+    {
+      "componentName": "Goodwell",
+      "displayName": "Goodwell",
+      "fileSlug": "goodwell",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 149 48"
+    },
+    {
+      "componentName": "Hexahedron",
+      "displayName": "Hexahedron",
+      "fileSlug": "hexahedron",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 195 48"
+    },
+    {
+      "componentName": "Hexsmith",
+      "displayName": "Hexsmith",
+      "fileSlug": "hexsmith",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 176 48"
+    },
+    {
+      "componentName": "Hourglass",
+      "displayName": "Hourglass",
+      "fileSlug": "hourglass",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 170 48"
+    },
+    {
+      "componentName": "IkigaiLabs",
+      "displayName": "Ikigai Labs",
+      "fileSlug": "ikigai-labs",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 197 48"
+    },
+    {
+      "componentName": "ImgCompress",
+      "displayName": "ImgCompress",
+      "fileSlug": "imgcompress",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 222 48"
+    },
+    {
+      "componentName": "Interlock",
+      "displayName": "Interlock",
+      "fileSlug": "interlock",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 151 48"
+    },
+    {
+      "componentName": "Kintsugi",
+      "displayName": "Kintsugi",
+      "fileSlug": "kintsugi",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 147 48"
+    },
+    {
+      "componentName": "LaunchSimple",
+      "displayName": "LaunchSimple",
+      "fileSlug": "launchsimple",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 221 48"
+    },
+    {
+      "componentName": "Layers",
+      "displayName": "Layers",
+      "fileSlug": "layers",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 131 48"
+    },
+    {
+      "componentName": "Leapyear",
+      "displayName": "Leapyear",
+      "fileSlug": "leapyear",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 163 48"
+    },
+    {
+      "componentName": "Lightbox",
+      "displayName": "Lightbox",
+      "fileSlug": "lightbox",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 163 48"
+    },
+    {
+      "componentName": "Lightspeed",
+      "displayName": "Lightspeed",
+      "fileSlug": "lightspeed",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 192 48"
+    },
+    {
+      "componentName": "Luckycharm",
+      "displayName": "Luckycharm",
+      "fileSlug": "luckycharm",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 199 48"
+    },
+    {
+      "componentName": "Luminary",
+      "displayName": "Luminary",
+      "fileSlug": "luminary",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 177 48"
+    },
+    {
+      "componentName": "Luminescence",
+      "displayName": "Luminescence",
+      "fileSlug": "luminescence",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 235 48"
+    },
+    {
+      "componentName": "Luminous",
+      "displayName": "Luminous",
+      "fileSlug": "luminous",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 169 48"
+    },
+    {
+      "componentName": "Magnolia",
+      "displayName": "Magnolia",
+      "fileSlug": "magnolia",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 181 48"
+    },
+    {
+      "componentName": "Mastermail",
+      "displayName": "Mastermail",
+      "fileSlug": "mastermail",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 184 48"
+    },
+    {
+      "componentName": "Nietzsche",
+      "displayName": "Nietzsche",
+      "fileSlug": "nietzsche",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 168 48"
+    },
+    {
+      "componentName": "NorseStar",
+      "displayName": "Norse Star",
+      "fileSlug": "norse-star",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 177 48"
+    },
+    {
+      "componentName": "OdeaoLabs",
+      "displayName": "OdeaoLabs",
+      "fileSlug": "odeaolabs",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 190 48"
+    },
+    {
+      "componentName": "Ollio",
+      "displayName": "Ollio",
+      "fileSlug": "ollio",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 105 48"
+    },
+    {
+      "componentName": "Pagemanage",
+      "displayName": "Pagemanage",
+      "fileSlug": "pagemanage",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 210 48"
+    },
+    {
+      "componentName": "Peregrin",
+      "displayName": "Peregrin",
+      "fileSlug": "peregrin",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 165 48"
+    },
+    {
+      "componentName": "PictelAI",
+      "displayName": "PictelAI",
+      "fileSlug": "pictelai",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 164 48"
+    },
+    {
+      "componentName": "Pollinate",
+      "displayName": "Pollinate",
+      "fileSlug": "pollinate",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 151 48"
+    },
+    {
+      "componentName": "Polymath",
+      "displayName": "Polymath",
+      "fileSlug": "polymath",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 167 48"
+    },
+    {
+      "componentName": "Powersurge",
+      "displayName": "Powersurge",
+      "fileSlug": "powersurge",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 195 48"
+    },
+    {
+      "componentName": "Prometheus",
+      "displayName": "Prometheus",
+      "fileSlug": "prometheus",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 206 48"
+    },
+    {
+      "componentName": "Quantum",
+      "displayName": "Quantum",
+      "fileSlug": "quantum",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 166 48"
+    },
+    {
+      "componentName": "QuartzAI",
+      "displayName": "QuartzAI",
+      "fileSlug": "quartzai",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 162 48"
+    },
+    {
+      "componentName": "Quixotic",
+      "displayName": "Quixotic",
+      "fileSlug": "quixotic",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 152 48"
+    },
+    {
+      "componentName": "Quotient",
+      "displayName": "Quotient",
+      "fileSlug": "quotient",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 157 48"
+    },
+    {
+      "componentName": "Radius",
+      "displayName": "Radius",
+      "fileSlug": "radius",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 132 48"
+    },
+    {
+      "componentName": "Railspeed",
+      "displayName": "Railspeed",
+      "fileSlug": "railspeed",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 170 48"
+    },
+    {
+      "componentName": "Refractional",
+      "displayName": "Refractional",
+      "fileSlug": "refractional",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 210 48"
+    },
+    {
+      "componentName": "Renaissance",
+      "displayName": "Renaissance",
+      "fileSlug": "renaissance",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 196 48"
+    },
+    {
+      "componentName": "Screentime",
+      "displayName": "Screentime",
+      "fileSlug": "screentime",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 202 48"
+    },
+    {
+      "componentName": "Segment",
+      "displayName": "Segment",
+      "fileSlug": "segment",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 171 48"
+    },
+    {
+      "componentName": "Shutterframe",
+      "displayName": "Shutterframe",
+      "fileSlug": "shutterframe",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 214 48"
+    },
+    {
+      "componentName": "Sisyphus",
+      "displayName": "Sisyphus",
+      "fileSlug": "sisyphus",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 157 48"
+    },
+    {
+      "componentName": "SolarisEnergy",
+      "displayName": "Solaris Energy",
+      "fileSlug": "solaris-energy",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 225 48"
+    },
+    {
+      "componentName": "Sonorous",
+      "displayName": "Sonorous",
+      "fileSlug": "sonorous",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 173 48"
+    },
+    {
+      "componentName": "Spherule",
+      "displayName": "Spherule",
+      "fileSlug": "spherule",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 160 48"
+    },
+    {
+      "componentName": "Stack3dLab",
+      "displayName": "Stack3d Lab",
+      "fileSlug": "stack3d-lab",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 198 48"
+    },
+    {
+      "componentName": "Visionwork",
+      "displayName": "Visionwork",
+      "fileSlug": "visionwork",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 204 48"
+    },
+    {
+      "componentName": "VoxelLabs",
+      "displayName": "Voxel Labs",
+      "fileSlug": "voxel-labs",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 191 48"
+    },
+    {
+      "componentName": "Warpspeed",
+      "displayName": "Warpspeed",
+      "fileSlug": "warpspeed",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 201 48"
+    },
+    {
+      "componentName": "Watchtower",
+      "displayName": "Watchtower",
+      "fileSlug": "watchtower",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 210 48"
+    },
+    {
+      "componentName": "Wildcrafted",
+      "displayName": "Wildcrafted",
+      "fileSlug": "wildcrafted",
+      "style": "default",
+      "kind": "logo",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 197 48"
+    },
+    {
+      "componentName": "_3Portals",
+      "displayName": "3Portals",
+      "fileSlug": "3portals",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "_45Degrees",
+      "displayName": "45 Degrees",
+      "fileSlug": "45-degrees",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 24 48"
+    },
+    {
+      "componentName": "AcmeCorp",
+      "displayName": "Acme Corp",
+      "fileSlug": "acme-corp",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "AlphaWave",
+      "displayName": "AlphaWave",
+      "fileSlug": "alphawave",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 47 48"
+    },
+    {
+      "componentName": "AltPlusShift",
+      "displayName": "Alt+Shift",
+      "fileSlug": "altplusshift",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Biosynthesis",
+      "displayName": "Biosynthesis",
+      "fileSlug": "biosynthesis",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Boltshift",
+      "displayName": "Boltshift",
+      "fileSlug": "boltshift",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "BuildingBlocks",
+      "displayName": "BuildingBlocks",
+      "fileSlug": "buildingblocks",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 37 48"
+    },
+    {
+      "componentName": "Calescence",
+      "displayName": "Calescence",
+      "fileSlug": "calescence",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 35 48"
+    },
+    {
+      "componentName": "Capsule",
+      "displayName": "Capsule",
+      "fileSlug": "capsule",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Catalog",
+      "displayName": "Catalog",
+      "fileSlug": "catalog",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Chromatools",
+      "displayName": "Chromatools",
+      "fileSlug": "chromatools",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Clandestine",
+      "displayName": "Clandestine",
+      "fileSlug": "clandestine",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 38 48"
+    },
+    {
+      "componentName": "CloudWatch",
+      "displayName": "CloudWatch",
+      "fileSlug": "cloudwatch",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 42 48"
+    },
+    {
+      "componentName": "Codecraft",
+      "displayName": "Codecraft_",
+      "fileSlug": "codecraft",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "CommandPlusR",
+      "displayName": "Command+R",
+      "fileSlug": "commandplusr",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 32 48"
+    },
+    {
+      "componentName": "Constellation",
+      "displayName": "Constellation",
+      "fileSlug": "constellation",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 44 48"
+    },
+    {
+      "componentName": "ContrastAI",
+      "displayName": "ContrastAI",
+      "fileSlug": "contrastai",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Convergence",
+      "displayName": "Convergence",
+      "fileSlug": "convergence",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 42 48"
+    },
+    {
+      "componentName": "Cooperative",
+      "displayName": "Cooperative",
+      "fileSlug": "cooperative",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 38 48"
+    },
+    {
+      "componentName": "CoreOS",
+      "displayName": "CoreOS",
+      "fileSlug": "coreos",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 42 48"
+    },
+    {
+      "componentName": "Cubekit",
+      "displayName": "Cubekit",
+      "fileSlug": "cubekit",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "EasyTax",
+      "displayName": "EasyTax",
+      "fileSlug": "easytax",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Eclipseful",
+      "displayName": "Eclipseful",
+      "fileSlug": "eclipseful",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Eightball",
+      "displayName": "Eightball",
+      "fileSlug": "eightball",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Elasticware",
+      "displayName": "Elasticware",
+      "fileSlug": "elasticware",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 36 48"
+    },
+    {
+      "componentName": "EnnLabs",
+      "displayName": "ennLabs",
+      "fileSlug": "ennlabs",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Ephemeral",
+      "displayName": "Ephemeral",
+      "fileSlug": "ephemeral",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Epicurious",
+      "displayName": "Epicurious",
+      "fileSlug": "epicurious",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Euphoria",
+      "displayName": "Euphoria",
+      "fileSlug": "euphoria",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Europa",
+      "displayName": "Europa",
+      "fileSlug": "europa",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "FeatherDev",
+      "displayName": "FeatherDev",
+      "fileSlug": "featherdev",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 44 48"
+    },
+    {
+      "componentName": "FloraAndFauna",
+      "displayName": "Flora&Fauna",
+      "fileSlug": "floraandfauna",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "FocalPoint",
+      "displayName": "FocalPoint",
+      "fileSlug": "focalpoint",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Foresight",
+      "displayName": "Foresight",
+      "fileSlug": "foresight",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 31 48"
+    },
+    {
+      "componentName": "Fourpoints",
+      "displayName": "Fourpoints",
+      "fileSlug": "fourpoints",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 28 48"
+    },
+    {
+      "componentName": "Frequencii",
+      "displayName": "Frequencii",
+      "fileSlug": "frequencii",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Galileo",
+      "displayName": "Galileo",
+      "fileSlug": "galileo",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "GlobalBank",
+      "displayName": "GlobalBank",
+      "fileSlug": "globalbank",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Goodwell",
+      "displayName": "Goodwell",
+      "fileSlug": "goodwell",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 27 48"
+    },
+    {
+      "componentName": "Hexahedron",
+      "displayName": "Hexahedron",
+      "fileSlug": "hexahedron",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 37 48"
+    },
+    {
+      "componentName": "Hexsmith",
+      "displayName": "Hexsmith",
+      "fileSlug": "hexsmith",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Hourglass",
+      "displayName": "Hourglass",
+      "fileSlug": "hourglass",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 30 48"
+    },
+    {
+      "componentName": "IkigaiLabs",
+      "displayName": "Ikigai Labs",
+      "fileSlug": "ikigai-labs",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 44 48"
+    },
+    {
+      "componentName": "ImgCompress",
+      "displayName": "ImgCompress",
+      "fileSlug": "imgcompress",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Interlock",
+      "displayName": "Interlock",
+      "fileSlug": "interlock",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 37 48"
+    },
+    {
+      "componentName": "Kintsugi",
+      "displayName": "Kintsugi",
+      "fileSlug": "kintsugi",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "LaunchSimple",
+      "displayName": "LaunchSimple",
+      "fileSlug": "launchsimple",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Layers",
+      "displayName": "Layers",
+      "fileSlug": "layers",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Leapyear",
+      "displayName": "Leapyear",
+      "fileSlug": "leapyear",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 32 48"
+    },
+    {
+      "componentName": "Lightbox",
+      "displayName": "Lightbox",
+      "fileSlug": "lightbox",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 38 48"
+    },
+    {
+      "componentName": "Lightspeed",
+      "displayName": "Lightspeed",
+      "fileSlug": "lightspeed",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Luckycharm",
+      "displayName": "Luckycharm",
+      "fileSlug": "luckycharm",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 39 48"
+    },
+    {
+      "componentName": "Luminary",
+      "displayName": "Luminary",
+      "fileSlug": "luminary",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 38 48"
+    },
+    {
+      "componentName": "Luminescence",
+      "displayName": "Luminescence",
+      "fileSlug": "luminescence",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Luminous",
+      "displayName": "Luminous",
+      "fileSlug": "luminous",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 42 48"
+    },
+    {
+      "componentName": "Magnolia",
+      "displayName": "Magnolia",
+      "fileSlug": "magnolia",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Mastermail",
+      "displayName": "Mastermail",
+      "fileSlug": "mastermail",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Nietzsche",
+      "displayName": "Nietzsche",
+      "fileSlug": "nietzsche",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "NorseStar",
+      "displayName": "Norse Star",
+      "fileSlug": "norse-star",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 38 48"
+    },
+    {
+      "componentName": "OdeaoLabs",
+      "displayName": "OdeaoLabs",
+      "fileSlug": "odeaolabs",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Ollio",
+      "displayName": "Ollio",
+      "fileSlug": "ollio",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Pagemanage",
+      "displayName": "Pagemanage",
+      "fileSlug": "pagemanage",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Peregrin",
+      "displayName": "Peregrin",
+      "fileSlug": "peregrin",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 44 48"
+    },
+    {
+      "componentName": "PictelAI",
+      "displayName": "PictelAI",
+      "fileSlug": "pictelai",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Pollinate",
+      "displayName": "Pollinate",
+      "fileSlug": "pollinate",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 38 48"
+    },
+    {
+      "componentName": "Polymath",
+      "displayName": "Polymath",
+      "fileSlug": "polymath",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 38 48"
+    },
+    {
+      "componentName": "Powersurge",
+      "displayName": "Powersurge",
+      "fileSlug": "powersurge",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 36 48"
+    },
+    {
+      "componentName": "Prometheus",
+      "displayName": "Prometheus",
+      "fileSlug": "prometheus",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 44 48"
+    },
+    {
+      "componentName": "Quantum",
+      "displayName": "Quantum",
+      "fileSlug": "quantum",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 39 48"
+    },
+    {
+      "componentName": "QuartzAI",
+      "displayName": "QuartzAI",
+      "fileSlug": "quartzai",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 44 48"
+    },
+    {
+      "componentName": "Quixotic",
+      "displayName": "Quixotic",
+      "fileSlug": "quixotic",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Quotient",
+      "displayName": "Quotient",
+      "fileSlug": "quotient",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Radius",
+      "displayName": "Radius",
+      "fileSlug": "radius",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Railspeed",
+      "displayName": "Railspeed",
+      "fileSlug": "railspeed",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 36 48"
+    },
+    {
+      "componentName": "Refractional",
+      "displayName": "Refractional",
+      "fileSlug": "refractional",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Renaissance",
+      "displayName": "Renaissance",
+      "fileSlug": "renaissance",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 35 48"
+    },
+    {
+      "componentName": "Screentime",
+      "displayName": "Screentime",
+      "fileSlug": "screentime",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 44 48"
+    },
+    {
+      "componentName": "Segment",
+      "displayName": "Segment",
+      "fileSlug": "segment",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Shutterframe",
+      "displayName": "Shutterframe",
+      "fileSlug": "shutterframe",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 33 48"
+    },
+    {
+      "componentName": "Sisyphus",
+      "displayName": "Sisyphus",
+      "fileSlug": "sisyphus",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 32 48"
+    },
+    {
+      "componentName": "SolarisEnergy",
+      "displayName": "Solaris Energy",
+      "fileSlug": "solaris-energy",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Sonorous",
+      "displayName": "Sonorous",
+      "fileSlug": "sonorous",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 42 48"
+    },
+    {
+      "componentName": "Spherule",
+      "displayName": "Spherule",
+      "fileSlug": "spherule",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Stack3dLab",
+      "displayName": "Stack3d Lab",
+      "fileSlug": "stack3d-lab",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 39 48"
+    },
+    {
+      "componentName": "Visionwork",
+      "displayName": "Visionwork",
+      "fileSlug": "visionwork",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "VoxelLabs",
+      "displayName": "Voxel Labs",
+      "fileSlug": "voxel-labs",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Warpspeed",
+      "displayName": "Warpspeed",
+      "fileSlug": "warpspeed",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "Watchtower",
+      "displayName": "Watchtower",
+      "fileSlug": "watchtower",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 40 48"
+    },
+    {
+      "componentName": "Wildcrafted",
+      "displayName": "Wildcrafted",
+      "fileSlug": "wildcrafted",
+      "style": "default",
+      "kind": "logomark",
+      "hasLight": true,
+      "hasDark": true,
+      "viewBox": "0 0 48 48"
+    }
+  ]
+}

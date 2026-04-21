@@ -1,0 +1,1189 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "description": "Real external brand logos (social, browsers, tools, payment). Multicolor: brand colours baked into the SVG; do not override via `color` prop.",
+    "count": 236
+  },
+  "logos": [
+    {
+      "componentName": "Adobe",
+      "displayName": "adobe",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AdobeAfterEffects",
+      "displayName": "adobe_after_effects",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AdobeDreamweaver",
+      "displayName": "adobe_dreamweaver",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AdobeIllustrator",
+      "displayName": "adobe_illustrator",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AdobeIndesign",
+      "displayName": "adobe_indesign",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AdobeLightroom",
+      "displayName": "adobe_lightroom",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AdobePhotoshop",
+      "displayName": "adobe_photoshop",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AdobeXd",
+      "displayName": "adobe_xd",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Airbnb",
+      "displayName": "airbnb",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AlfaBank",
+      "displayName": "alfa_bank",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Amazon",
+      "displayName": "amazon",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Amd",
+      "displayName": "amd",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AmericanExpress",
+      "displayName": "american_express",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Android",
+      "displayName": "android",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AngelList",
+      "displayName": "angel_list",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Angular",
+      "displayName": "angular",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Appearin",
+      "displayName": "appearin",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Apple",
+      "displayName": "apple",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AppleMusic",
+      "displayName": "apple_music",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "AppStore",
+      "displayName": "app_store",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Asana",
+      "displayName": "asana",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Askfm",
+      "displayName": "askfm",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Atlassian",
+      "displayName": "atlassian",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Atom",
+      "displayName": "atom",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Autodesk",
+      "displayName": "autodesk",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Badoo",
+      "displayName": "badoo",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Bamboo",
+      "displayName": "bamboo",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Basecamp",
+      "displayName": "basecamp",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Behance",
+      "displayName": "behance",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Bitbucket",
+      "displayName": "bitbucket",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Blackberry",
+      "displayName": "blackberry",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Bluetooth",
+      "displayName": "bluetooth",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckItemText",
+      "displayName": "Check item text",
+      "viewBox": "0 0 400 32"
+    },
+    {
+      "componentName": "Chrome",
+      "displayName": "chrome",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "ChromeOs",
+      "displayName": "chrome_os",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Codepen",
+      "displayName": "codepen",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Confluence",
+      "displayName": "confluence",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Coub",
+      "displayName": "coub",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CPlusPlus",
+      "displayName": "c++",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CSharp",
+      "displayName": "c#",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Css3",
+      "displayName": "css_3",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Cursor",
+      "displayName": "Cursor",
+      "viewBox": "0 0 20 23"
+    },
+    {
+      "componentName": "Dell",
+      "displayName": "dell",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "DirectDebit",
+      "displayName": "direct_debit",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Discord",
+      "displayName": "discord",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Docker",
+      "displayName": "docker",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Dot",
+      "displayName": "_Dot",
+      "viewBox": "0 0 10 10"
+    },
+    {
+      "componentName": "Dribbble",
+      "displayName": "dribbble",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Dropbox",
+      "displayName": "dropbox",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Drupal",
+      "displayName": "drupal",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Edge",
+      "displayName": "edge",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Elementary",
+      "displayName": "elementary",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Emoji",
+      "displayName": "Emoji",
+      "viewBox": "0 0 16 16"
+    },
+    {
+      "componentName": "Envato",
+      "displayName": "envato",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Evernote",
+      "displayName": "evernote",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Facebook",
+      "displayName": "Facebook",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Facetime",
+      "displayName": "facetime",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "FbMessenger",
+      "displayName": "fb_messenger",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Fedora",
+      "displayName": "fedora",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Figma",
+      "displayName": "figma",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Finder",
+      "displayName": "finder",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Firefox",
+      "displayName": "firefox",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Flickr",
+      "displayName": "flickr",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Flowmapp",
+      "displayName": "flowmapp",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Foursquare",
+      "displayName": "foursquare",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Framer",
+      "displayName": "framer",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Freebsd",
+      "displayName": "freebsd",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GCalendar",
+      "displayName": "g-calendar",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GeneralElectric",
+      "displayName": "general_electric",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Git",
+      "displayName": "git",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Github",
+      "displayName": "github",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Gitlab",
+      "displayName": "gitlab",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Gmail",
+      "displayName": "gmail",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Gnome",
+      "displayName": "gnome",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Go",
+      "displayName": "go",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Google",
+      "displayName": "google",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GoogleAds",
+      "displayName": "google_ads",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GoogleDocs",
+      "displayName": "google docs",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GoogleDrive",
+      "displayName": "google_drive",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GoogleHangouts",
+      "displayName": "google_hangouts",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GoogleMaps",
+      "displayName": "google maps",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GoogleMeet",
+      "displayName": "google meet",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GooglePlay",
+      "displayName": "google_play",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "GooglePlayMusic",
+      "displayName": "google_play_music",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Grooveshark",
+      "displayName": "grooveshark",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Html5",
+      "displayName": "html_5",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Ibm",
+      "displayName": "ibm",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Iconjar",
+      "displayName": "iconjar",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Ie",
+      "displayName": "ie",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Igtv",
+      "displayName": "igtv",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Instagram",
+      "displayName": "instagram",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Intel",
+      "displayName": "intel",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Intercom",
+      "displayName": "intercom",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Invision",
+      "displayName": "invision",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Ios",
+      "displayName": "ios",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Java",
+      "displayName": "java",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbAppcode",
+      "displayName": "jb_appcode",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbClion",
+      "displayName": "jb_clion",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbDatagrip",
+      "displayName": "jb_datagrip",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbDotcover",
+      "displayName": "jb_dotcover",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbDotmemory",
+      "displayName": "jb_dotmemory",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbDotpeek",
+      "displayName": "jb_dotpeek",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbDottrace",
+      "displayName": "jb_dottrace",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbGoland",
+      "displayName": "jb_goland",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbHub",
+      "displayName": "jb_hub",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbIntelliJIDEA",
+      "displayName": "jb_IntelliJ IDEA",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbKotlin",
+      "displayName": "jb_kotlin",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbPhpstorm",
+      "displayName": "jb_phpstorm",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbPycharm",
+      "displayName": "jb_pycharm",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbPycharmEdu",
+      "displayName": "jb_pycharm_edu",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbResharper",
+      "displayName": "jb_resharper",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbResharperCPlusPlus",
+      "displayName": "jb_resharper_c++",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbRider",
+      "displayName": "jb_rider",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbRubymine",
+      "displayName": "jb_rubymine",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbTeamcity",
+      "displayName": "jb_teamcity",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbToolboxApp",
+      "displayName": "jb_toolbox_app",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbUpsource",
+      "displayName": "jb_upsource",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbWebstorm",
+      "displayName": "jb_webstorm",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JbYoutrack",
+      "displayName": "jb_youtrack",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Jcb",
+      "displayName": "jcb",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Jira",
+      "displayName": "jira",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JiraCore",
+      "displayName": "jira_core",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JiraOps",
+      "displayName": "jira_ops",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "JiraServiceDesk",
+      "displayName": "jira_service_desk",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Joomla",
+      "displayName": "joomla",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Jquery",
+      "displayName": "jquery",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Js",
+      "displayName": "js",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "KakaoTalk",
+      "displayName": "kakao_talk",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Kayako",
+      "displayName": "kayako",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Kickstarter",
+      "displayName": "kickstarter",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Line",
+      "displayName": "line",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Linear",
+      "displayName": "linear",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Linkedin",
+      "displayName": "linkedin",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Linux",
+      "displayName": "linux",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "LinuxMint",
+      "displayName": "linux-mint",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Loom",
+      "displayName": "loom",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Macos",
+      "displayName": "macos",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Mailchimp",
+      "displayName": "mailchimp",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Marvel",
+      "displayName": "marvel",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Mastercard",
+      "displayName": "mastercard",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Medium",
+      "displayName": "medium",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Messages",
+      "displayName": "messages",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Microsoft",
+      "displayName": "microsoft",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsExcel",
+      "displayName": "ms_excel",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsOnedrive",
+      "displayName": "ms_onedrive",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsOnenote",
+      "displayName": "ms_onenote",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsOutlook",
+      "displayName": "ms_outlook",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsPowerpoint",
+      "displayName": "ms_powerpoint",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsSharepoint",
+      "displayName": "ms_sharepoint",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsSkype",
+      "displayName": "ms_skype",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsWord",
+      "displayName": "ms_word",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsXbox",
+      "displayName": "ms_xbox",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "MsYammer",
+      "displayName": "ms_yammer",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Netflix",
+      "displayName": "netflix",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "NodeJs",
+      "displayName": "node_js",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Notion",
+      "displayName": "notion",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Npm",
+      "displayName": "npm",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "OK",
+      "displayName": "OK",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Opera",
+      "displayName": "opera",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Opsgenie",
+      "displayName": "opsgenie",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Patreon",
+      "displayName": "patreon",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Paypal",
+      "displayName": "paypal",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Php",
+      "displayName": "php",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Pinterest",
+      "displayName": "pinterest",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Playstation",
+      "displayName": "playstation",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Procreate",
+      "displayName": "procreate",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "ProductHunt",
+      "displayName": "product_hunt",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Python",
+      "displayName": "python",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Qiwi",
+      "displayName": "qiwi",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Quora",
+      "displayName": "quora",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Qzone",
+      "displayName": "qzone",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "RatingsBadge",
+      "displayName": "Ratings badge",
+      "viewBox": "0 0 178 81"
+    },
+    {
+      "componentName": "React",
+      "displayName": "react",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Reddit",
+      "displayName": "reddit",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Redux",
+      "displayName": "redux",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "RLang",
+      "displayName": "r_lang",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Ruby",
+      "displayName": "ruby",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Safari",
+      "displayName": "safari",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Sberbank",
+      "displayName": "sberbank",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Shazam",
+      "displayName": "shazam",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Shopify",
+      "displayName": "shopify",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Sketch",
+      "displayName": "sketch",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Slack",
+      "displayName": "slack",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Snapchat",
+      "displayName": "snapchat",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "SoundCloud",
+      "displayName": "sound_cloud",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Sourcetree",
+      "displayName": "sourcetree",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Spectrum",
+      "displayName": "spectrum",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Spotify",
+      "displayName": "spotify",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "StackOverflow",
+      "displayName": "stack_overflow",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Statuspage",
+      "displayName": "statuspage",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Steam",
+      "displayName": "steam",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Stripe",
+      "displayName": "stripe",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "StumbleUpon",
+      "displayName": "stumble_upon",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "SublimeText",
+      "displayName": "sublime_text",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Swift",
+      "displayName": "swift",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Teams",
+      "displayName": "teams",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "TechCrunch",
+      "displayName": "tech_crunch",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Telegram",
+      "displayName": "telegram",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Things",
+      "displayName": "things",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Tiktok",
+      "displayName": "tiktok",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Tinder",
+      "displayName": "tinder",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Tinkoff",
+      "displayName": "tinkoff",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Tor",
+      "displayName": "tor",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Treehouse",
+      "displayName": "treehouse",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Trello",
+      "displayName": "trello",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Tripadvisor",
+      "displayName": "tripadvisor",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Tumbler",
+      "displayName": "tumbler",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Twitch",
+      "displayName": "twitch",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Twitter",
+      "displayName": "twitter",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Ubuntu",
+      "displayName": "ubuntu",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Uc",
+      "displayName": "uc",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Viber",
+      "displayName": "viber",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Vimeo",
+      "displayName": "vimeo",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Visa",
+      "displayName": "visa",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Vk",
+      "displayName": "vk",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "VsCode",
+      "displayName": "vs_code",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Vue",
+      "displayName": "vue",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Webmoney",
+      "displayName": "webmoney",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Wechat",
+      "displayName": "wechat",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Weebly",
+      "displayName": "weebly",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Weibo",
+      "displayName": "weibo",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "WesternUnion",
+      "displayName": "western_union",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Whatsapp",
+      "displayName": "whatsapp",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Wordpress",
+      "displayName": "wordpress",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Workflowy",
+      "displayName": "workflowy",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "WorldPay",
+      "displayName": "world_pay",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Yandex",
+      "displayName": "yandex",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "YandexKassa",
+      "displayName": "yandex_kassa",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "YandexMusic",
+      "displayName": "yandex_music",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Yii1",
+      "displayName": "yii 1",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Youtube",
+      "displayName": "youtube",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "YoutubeMusic",
+      "displayName": "youtube_music",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Zapier",
+      "displayName": "zapier",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Zendesk",
+      "displayName": "zendesk",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Zeplin",
+      "displayName": "zeplin",
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "Zoom",
+      "displayName": "zoom",
+      "viewBox": "0 0 32 32"
+    }
+  ]
+}

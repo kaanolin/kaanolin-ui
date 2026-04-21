@@ -1,0 +1,95 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "Folder icon",
+    "description": "Folder badges — Brand / Gray × Open / Closed.",
+    "pascalPrefix": "Folder",
+    "orderedProps": [
+      "Type",
+      "Open"
+    ],
+    "count": 8
+  },
+  "icons": [
+    {
+      "componentName": "FolderBrandFalse",
+      "fileSlug": "folder-brand-false",
+      "displayName": "Type=Brand, Open=False",
+      "properties": {
+        "Type": "Brand",
+        "Open": "False"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FolderBrandTrue",
+      "fileSlug": "folder-brand-true",
+      "displayName": "Type=Brand, Open=True",
+      "properties": {
+        "Type": "Brand",
+        "Open": "True"
+      },
+      "viewBox": "0 0 54 48"
+    },
+    {
+      "componentName": "FolderGrayFalse",
+      "fileSlug": "folder-gray-false",
+      "displayName": "Type=Gray, Open=False",
+      "properties": {
+        "Type": "Gray",
+        "Open": "False"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FolderGrayTrue",
+      "fileSlug": "folder-gray-true",
+      "displayName": "Type=Gray, Open=True",
+      "properties": {
+        "Type": "Gray",
+        "Open": "True"
+      },
+      "viewBox": "0 0 54 48"
+    },
+    {
+      "componentName": "FolderNoiseFalse",
+      "fileSlug": "folder-noise-false",
+      "displayName": "Type=Noise, Open=False",
+      "properties": {
+        "Type": "Noise",
+        "Open": "False"
+      },
+      "viewBox": "0 0 48 48"
+    },
+    {
+      "componentName": "FolderNoiseTrue",
+      "fileSlug": "folder-noise-true",
+      "displayName": "Type=Noise, Open=True",
+      "properties": {
+        "Type": "Noise",
+        "Open": "True"
+      },
+      "viewBox": "0 0 54 48"
+    },
+    {
+      "componentName": "FolderTransparentFalse",
+      "fileSlug": "folder-transparent-false",
+      "displayName": "Type=Transparent, Open=False",
+      "properties": {
+        "Type": "Transparent",
+        "Open": "False"
+      },
+      "viewBox": "0 0 58 52"
+    },
+    {
+      "componentName": "FolderTransparentTrue",
+      "fileSlug": "folder-transparent-true",
+      "displayName": "Type=Transparent, Open=True",
+      "properties": {
+        "Type": "Transparent",
+        "Open": "True"
+      },
+      "viewBox": "0 0 64 52"
+    }
+  ]
+}
