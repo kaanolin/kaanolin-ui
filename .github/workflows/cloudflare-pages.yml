@@ -1,0 +1,46 @@
+name: Deploy docs (Cloudflare Pages)
+
+# -----------------------------------------------------------------------------
+# DISABLED / PREPARED — this workflow only runs via manual dispatch so it won't
+# fire on push until explicitly activated. To enable automatic deploys on push
+# to main:
+#   1. Create secrets CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID
+#      (https://dash.cloudflare.com/profile/api-tokens → "Edit Cloudflare
+#      Workers" template or a custom token with Pages: Edit).
+#   2. Create a Pages project named "kaanolin-ui" (or change projectName below).
+#   3. Uncomment the `push` trigger block under `on:`.
+# -----------------------------------------------------------------------------
+
+on:
+  workflow_dispatch:
+  # push:
+  #   branches: [main]
+
+permissions:
+  contents: read
+  deployments: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build docs
+        run: npm run build --workspace=web
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: kaanolin-ui
+          directory: web/dist
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
