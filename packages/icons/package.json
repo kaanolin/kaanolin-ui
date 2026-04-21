@@ -1,6 +1,6 @@
 {
   "name": "@kaanolin/react-icons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React icon library for @kaanolin design system (Untitled UI + Netflix conventions)",
   "license": "SEE LICENSE IN LICENSE",
   "type": "module",
