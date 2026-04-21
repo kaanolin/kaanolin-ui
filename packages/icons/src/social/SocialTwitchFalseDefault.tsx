@@ -1,0 +1,33 @@
+// [collection] Figma variant — properties:
+//   Platform: Twitch
+//   Grayscale: False
+//   State: Default
+import { forwardRef } from "react";
+import type { IconBaseProps } from "../types";
+
+export const SocialTwitchFalseDefault = forwardRef<SVGSVGElement, IconBaseProps>(function SocialTwitchFalseDefault(
+  { size = 32, color = "currentColor", title, "aria-label": ariaLabel, ...rest },
+  ref,
+) {
+  return (
+    <svg
+      ref={ref}
+      xmlns="http://www.w3.org/2000/svg"
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      color={color}
+      role={title || ariaLabel ? "img" : "presentation"}
+      aria-label={ariaLabel}
+      aria-hidden={title || ariaLabel ? undefined : true}
+      {...rest}
+    >
+      {title ? <title>{title}</title> : null}
+      <path fillRule="evenodd" clipRule="evenodd" d="M2.32219 0L1.33008 3.91853V21.5505H5.79573V24H8.27563L10.7571 21.5505H14.7255L22.6634 13.715V0H2.32219Z" fill="white"/>
+<path fillRule="evenodd" clipRule="evenodd" d="M20.68 12.734L17.2062 16.1632H11.7494L8.77257 19.1015V16.1632H4.30743V1.95914H20.68V12.734ZM2.32219 0L1.33008 3.91853V21.5505H5.79573V24H8.27563L10.7571 21.5505H14.7255L22.6634 13.715V0H2.32219Z" fill="#6441A5"/>
+<path fillRule="evenodd" clipRule="evenodd" d="M9.76469 11.7552H11.7492V5.87683H9.76469V11.7552ZM15.2217 11.7552H17.2062V5.87683H15.2217V11.7552Z" fill="#6441A5"/>
+    </svg>
+  );
+});
+SocialTwitchFalseDefault.displayName = "SocialTwitchFalseDefault";

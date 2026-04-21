@@ -1,0 +1,1138 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "Social icon",
+    "description": "Social platform badges (Facebook, X, Instagram, …) with Grayscale and interaction State variants.",
+    "pascalPrefix": "Social",
+    "orderedProps": [
+      "Platform",
+      "Grayscale",
+      "State"
+    ],
+    "count": 102
+  },
+  "icons": [
+    {
+      "componentName": "SocialAngelListFalseDefault",
+      "fileSlug": "social-angellist-false-default",
+      "displayName": "Platform=AngelList, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "AngelList",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialAngelListTrueDefault",
+      "fileSlug": "social-angellist-true-default",
+      "displayName": "Platform=AngelList, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "AngelList",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialAngelListTrueHover",
+      "fileSlug": "social-angellist-true-hover",
+      "displayName": "Platform=AngelList, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "AngelList",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialAppleFalseDefault",
+      "fileSlug": "social-apple-false-default",
+      "displayName": "Platform=Apple, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Apple",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialAppleTrueDefault",
+      "fileSlug": "social-apple-true-default",
+      "displayName": "Platform=Apple, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Apple",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialAppleTrueHover",
+      "fileSlug": "social-apple-true-hover",
+      "displayName": "Platform=Apple, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Apple",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialClubhouseFalseDefault",
+      "fileSlug": "social-clubhouse-false-default",
+      "displayName": "Platform=Clubhouse, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Clubhouse",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialClubhouseTrueDefault",
+      "fileSlug": "social-clubhouse-true-default",
+      "displayName": "Platform=Clubhouse, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Clubhouse",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialClubhouseTrueHover",
+      "fileSlug": "social-clubhouse-true-hover",
+      "displayName": "Platform=Clubhouse, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Clubhouse",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDiscord01FalseDefault",
+      "fileSlug": "social-discord-01-false-default",
+      "displayName": "Platform=Discord 01, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Discord 01",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDiscord01TrueDefault",
+      "fileSlug": "social-discord-01-true-default",
+      "displayName": "Platform=Discord 01, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Discord 01",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDiscord01TrueHover",
+      "fileSlug": "social-discord-01-true-hover",
+      "displayName": "Platform=Discord 01, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Discord 01",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDiscord02FalseDefault",
+      "fileSlug": "social-discord-02-false-default",
+      "displayName": "Platform=Discord 02, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Discord 02",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDiscord02TrueDefault",
+      "fileSlug": "social-discord-02-true-default",
+      "displayName": "Platform=Discord 02, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Discord 02",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDiscord02TrueHover",
+      "fileSlug": "social-discord-02-true-hover",
+      "displayName": "Platform=Discord 02, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Discord 02",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDribbbleFalseDefault",
+      "fileSlug": "social-dribbble-false-default",
+      "displayName": "Platform=Dribbble, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Dribbble",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDribbbleTrueDefault",
+      "fileSlug": "social-dribbble-true-default",
+      "displayName": "Platform=Dribbble, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Dribbble",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialDribbbleTrueHover",
+      "fileSlug": "social-dribbble-true-hover",
+      "displayName": "Platform=Dribbble, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Dribbble",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFacebookFalseDefault",
+      "fileSlug": "social-facebook-false-default",
+      "displayName": "Platform=Facebook, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Facebook",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFacebookTrueDefault",
+      "fileSlug": "social-facebook-true-default",
+      "displayName": "Platform=Facebook, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Facebook",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFacebookTrueHover",
+      "fileSlug": "social-facebook-true-hover",
+      "displayName": "Platform=Facebook, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Facebook",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFigmaFalseDefault",
+      "fileSlug": "social-figma-false-default",
+      "displayName": "Platform=Figma, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Figma",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFigmaTrueDefault",
+      "fileSlug": "social-figma-true-default",
+      "displayName": "Platform=Figma, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Figma",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFigmaTrueHover",
+      "fileSlug": "social-figma-true-hover",
+      "displayName": "Platform=Figma, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Figma",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFramer01FalseDefault",
+      "fileSlug": "social-framer-01-false-default",
+      "displayName": "Platform=Framer 01, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Framer 01",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFramer01TrueDefault",
+      "fileSlug": "social-framer-01-true-default",
+      "displayName": "Platform=Framer 01, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Framer 01",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFramer01TrueHover",
+      "fileSlug": "social-framer-01-true-hover",
+      "displayName": "Platform=Framer 01, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Framer 01",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFramer02FalseDefault",
+      "fileSlug": "social-framer-02-false-default",
+      "displayName": "Platform=Framer 02, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Framer 02",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFramer02TrueDefault",
+      "fileSlug": "social-framer-02-true-default",
+      "displayName": "Platform=Framer 02, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Framer 02",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialFramer02TrueHover",
+      "fileSlug": "social-framer-02-true-hover",
+      "displayName": "Platform=Framer 02, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Framer 02",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialGitHubFalseDefault",
+      "fileSlug": "social-github-false-default",
+      "displayName": "Platform=GitHub, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "GitHub",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialGitHubTrueDefault",
+      "fileSlug": "social-github-true-default",
+      "displayName": "Platform=GitHub, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "GitHub",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialGitHubTrueHover",
+      "fileSlug": "social-github-true-hover",
+      "displayName": "Platform=GitHub, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "GitHub",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialGoogleFalseDefault",
+      "fileSlug": "social-google-false-default",
+      "displayName": "Platform=Google, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Google",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialGoogleTrueDefault",
+      "fileSlug": "social-google-true-default",
+      "displayName": "Platform=Google, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Google",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialGoogleTrueHover",
+      "fileSlug": "social-google-true-hover",
+      "displayName": "Platform=Google, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Google",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialInstagramFalseDefault",
+      "fileSlug": "social-instagram-false-default",
+      "displayName": "Platform=Instagram, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Instagram",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialInstagramTrueDefault",
+      "fileSlug": "social-instagram-true-default",
+      "displayName": "Platform=Instagram, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Instagram",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialInstagramTrueHover",
+      "fileSlug": "social-instagram-true-hover",
+      "displayName": "Platform=Instagram, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Instagram",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialLayersFalseDefault",
+      "fileSlug": "social-layers-false-default",
+      "displayName": "Platform=Layers, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Layers",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialLayersTrueDefault",
+      "fileSlug": "social-layers-true-default",
+      "displayName": "Platform=Layers, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Layers",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialLayersTrueHover",
+      "fileSlug": "social-layers-true-hover",
+      "displayName": "Platform=Layers, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Layers",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialLinkedInFalseDefault",
+      "fileSlug": "social-linkedin-false-default",
+      "displayName": "Platform=LinkedIn, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "LinkedIn",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialLinkedInTrueDefault",
+      "fileSlug": "social-linkedin-true-default",
+      "displayName": "Platform=LinkedIn, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "LinkedIn",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialLinkedInTrueHover",
+      "fileSlug": "social-linkedin-true-hover",
+      "displayName": "Platform=LinkedIn, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "LinkedIn",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialNotionFalseDefault",
+      "fileSlug": "social-notion-false-default",
+      "displayName": "Platform=Notion, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Notion",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialNotionTrueDefault",
+      "fileSlug": "social-notion-true-default",
+      "displayName": "Platform=Notion, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Notion",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialNotionTrueHover",
+      "fileSlug": "social-notion-true-hover",
+      "displayName": "Platform=Notion, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Notion",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialPayPalFalseDefault",
+      "fileSlug": "social-paypal-false-default",
+      "displayName": "Platform=PayPal, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "PayPal",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialPayPalTrueDefault",
+      "fileSlug": "social-paypal-true-default",
+      "displayName": "Platform=PayPal, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "PayPal",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialPayPalTrueHover",
+      "fileSlug": "social-paypal-true-hover",
+      "displayName": "Platform=PayPal, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "PayPal",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialPinterestFalseDefault",
+      "fileSlug": "social-pinterest-false-default",
+      "displayName": "Platform=Pinterest, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Pinterest",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialPinterestTrueDefault",
+      "fileSlug": "social-pinterest-true-default",
+      "displayName": "Platform=Pinterest, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Pinterest",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialPinterestTrueHover",
+      "fileSlug": "social-pinterest-true-hover",
+      "displayName": "Platform=Pinterest, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Pinterest",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialRedditFalseDefault",
+      "fileSlug": "social-reddit-false-default",
+      "displayName": "Platform=Reddit, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Reddit",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialRedditTrueDefault",
+      "fileSlug": "social-reddit-true-default",
+      "displayName": "Platform=Reddit, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Reddit",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialRedditTrueHover",
+      "fileSlug": "social-reddit-true-hover",
+      "displayName": "Platform=Reddit, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Reddit",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSignalFalseDefault",
+      "fileSlug": "social-signal-false-default",
+      "displayName": "Platform=Signal, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Signal",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSignalTrueDefault",
+      "fileSlug": "social-signal-true-default",
+      "displayName": "Platform=Signal, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Signal",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSignalTrueHover",
+      "fileSlug": "social-signal-true-hover",
+      "displayName": "Platform=Signal, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Signal",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSlackFalseDefault",
+      "fileSlug": "social-slack-false-default",
+      "displayName": "Platform=Slack, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Slack",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSlackTrueDefault",
+      "fileSlug": "social-slack-true-default",
+      "displayName": "Platform=Slack, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Slack",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSlackTrueHover",
+      "fileSlug": "social-slack-true-hover",
+      "displayName": "Platform=Slack, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Slack",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSnapchatFalseDefault",
+      "fileSlug": "social-snapchat-false-default",
+      "displayName": "Platform=Snapchat, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Snapchat",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSnapchatTrueDefault",
+      "fileSlug": "social-snapchat-true-default",
+      "displayName": "Platform=Snapchat, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Snapchat",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSnapchatTrueHover",
+      "fileSlug": "social-snapchat-true-hover",
+      "displayName": "Platform=Snapchat, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Snapchat",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSpotifyFalseDefault",
+      "fileSlug": "social-spotify-false-default",
+      "displayName": "Platform=Spotify, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Spotify",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSpotifyTrueDefault",
+      "fileSlug": "social-spotify-true-default",
+      "displayName": "Platform=Spotify, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Spotify",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialSpotifyTrueHover",
+      "fileSlug": "social-spotify-true-hover",
+      "displayName": "Platform=Spotify, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Spotify",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialStripeFalseDefault",
+      "fileSlug": "social-stripe-false-default",
+      "displayName": "Platform=Stripe, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Stripe",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialStripeTrueDefault",
+      "fileSlug": "social-stripe-true-default",
+      "displayName": "Platform=Stripe, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Stripe",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialStripeTrueHover",
+      "fileSlug": "social-stripe-true-hover",
+      "displayName": "Platform=Stripe, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Stripe",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTelegramFalseDefault",
+      "fileSlug": "social-telegram-false-default",
+      "displayName": "Platform=Telegram, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Telegram",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTelegramTrueDefault",
+      "fileSlug": "social-telegram-true-default",
+      "displayName": "Platform=Telegram, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Telegram",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTelegramTrueHover",
+      "fileSlug": "social-telegram-true-hover",
+      "displayName": "Platform=Telegram, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Telegram",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTikTokFalseDefault",
+      "fileSlug": "social-tiktok-false-default",
+      "displayName": "Platform=TikTok, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "TikTok",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTikTokTrueDefault",
+      "fileSlug": "social-tiktok-true-default",
+      "displayName": "Platform=TikTok, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "TikTok",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTikTokTrueHover",
+      "fileSlug": "social-tiktok-true-hover",
+      "displayName": "Platform=TikTok, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "TikTok",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTumblrFalseDefault",
+      "fileSlug": "social-tumblr-false-default",
+      "displayName": "Platform=Tumblr, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Tumblr",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTumblrTrueDefault",
+      "fileSlug": "social-tumblr-true-default",
+      "displayName": "Platform=Tumblr, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Tumblr",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTumblrTrueHover",
+      "fileSlug": "social-tumblr-true-hover",
+      "displayName": "Platform=Tumblr, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Tumblr",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTwitchFalseDefault",
+      "fileSlug": "social-twitch-false-default",
+      "displayName": "Platform=Twitch, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Twitch",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTwitchTrueDefault",
+      "fileSlug": "social-twitch-true-default",
+      "displayName": "Platform=Twitch, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Twitch",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTwitchTrueHover",
+      "fileSlug": "social-twitch-true-hover",
+      "displayName": "Platform=Twitch, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Twitch",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTwitterFalseDefault",
+      "fileSlug": "social-twitter-false-default",
+      "displayName": "Platform=Twitter, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Twitter",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTwitterTrueDefault",
+      "fileSlug": "social-twitter-true-default",
+      "displayName": "Platform=Twitter, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Twitter",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialTwitterTrueHover",
+      "fileSlug": "social-twitter-true-hover",
+      "displayName": "Platform=Twitter, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Twitter",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWebflowFalseDefault",
+      "fileSlug": "social-webflow-false-default",
+      "displayName": "Platform=Webflow, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Webflow",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWebflowTrueDefault",
+      "fileSlug": "social-webflow-true-default",
+      "displayName": "Platform=Webflow, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Webflow",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWebflowTrueHover",
+      "fileSlug": "social-webflow-true-hover",
+      "displayName": "Platform=Webflow, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Webflow",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWhatsAppFalseDefault",
+      "fileSlug": "social-whatsapp-false-default",
+      "displayName": "Platform=WhatsApp, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "WhatsApp",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWhatsAppTrueDefault",
+      "fileSlug": "social-whatsapp-true-default",
+      "displayName": "Platform=WhatsApp, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "WhatsApp",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWhatsAppTrueHover",
+      "fileSlug": "social-whatsapp-true-hover",
+      "displayName": "Platform=WhatsApp, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "WhatsApp",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWiseFalseDefault",
+      "fileSlug": "social-wise-false-default",
+      "displayName": "Platform=Wise, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "Wise",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWiseTrueDefault",
+      "fileSlug": "social-wise-true-default",
+      "displayName": "Platform=Wise, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "Wise",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialWiseTrueHover",
+      "fileSlug": "social-wise-true-hover",
+      "displayName": "Platform=Wise, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "Wise",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialXTwitterFalseDefault",
+      "fileSlug": "social-x-twitter-false-default",
+      "displayName": "Platform=X (Twitter), Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "X (Twitter)",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialXTwitterTrueDefault",
+      "fileSlug": "social-x-twitter-true-default",
+      "displayName": "Platform=X (Twitter), Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "X (Twitter)",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialXTwitterTrueHover",
+      "fileSlug": "social-x-twitter-true-hover",
+      "displayName": "Platform=X (Twitter), Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "X (Twitter)",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialYouTubeFalseDefault",
+      "fileSlug": "social-youtube-false-default",
+      "displayName": "Platform=YouTube, Grayscale=False, State=Default",
+      "properties": {
+        "Platform": "YouTube",
+        "Grayscale": "False",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialYouTubeTrueDefault",
+      "fileSlug": "social-youtube-true-default",
+      "displayName": "Platform=YouTube, Grayscale=True, State=Default",
+      "properties": {
+        "Platform": "YouTube",
+        "Grayscale": "True",
+        "State": "Default"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "SocialYouTubeTrueHover",
+      "fileSlug": "social-youtube-true-hover",
+      "displayName": "Platform=YouTube, Grayscale=True, State=Hover",
+      "properties": {
+        "Platform": "YouTube",
+        "Grayscale": "True",
+        "State": "Hover"
+      },
+      "viewBox": "0 0 24 24"
+    }
+  ]
+}

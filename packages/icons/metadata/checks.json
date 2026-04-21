@@ -1,0 +1,412 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "Check icon",
+    "description": "Check badges — Default / Filled / Line, per size and semantic colour.",
+    "pascalPrefix": "Check",
+    "orderedProps": [
+      "Type",
+      "Size",
+      "Color"
+    ],
+    "count": 36
+  },
+  "icons": [
+    {
+      "componentName": "CheckDefaultLgBrand",
+      "fileSlug": "check-default-lg-brand",
+      "displayName": "Type=Default, Size=lg, Color=Brand",
+      "properties": {
+        "Type": "Default",
+        "Size": "lg",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckDefaultLgGray",
+      "fileSlug": "check-default-lg-gray",
+      "displayName": "Type=Default, Size=lg, Color=Gray",
+      "properties": {
+        "Type": "Default",
+        "Size": "lg",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckDefaultLgSuccess",
+      "fileSlug": "check-default-lg-success",
+      "displayName": "Type=Default, Size=lg, Color=Success",
+      "properties": {
+        "Type": "Default",
+        "Size": "lg",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckDefaultMdBrand",
+      "fileSlug": "check-default-md-brand",
+      "displayName": "Type=Default, Size=md, Color=Brand",
+      "properties": {
+        "Type": "Default",
+        "Size": "md",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckDefaultMdGray",
+      "fileSlug": "check-default-md-gray",
+      "displayName": "Type=Default, Size=md, Color=Gray",
+      "properties": {
+        "Type": "Default",
+        "Size": "md",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckDefaultMdSuccess",
+      "fileSlug": "check-default-md-success",
+      "displayName": "Type=Default, Size=md, Color=Success",
+      "properties": {
+        "Type": "Default",
+        "Size": "md",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckDefaultSmBrand",
+      "fileSlug": "check-default-sm-brand",
+      "displayName": "Type=Default, Size=sm, Color=Brand",
+      "properties": {
+        "Type": "Default",
+        "Size": "sm",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckDefaultSmGray",
+      "fileSlug": "check-default-sm-gray",
+      "displayName": "Type=Default, Size=sm, Color=Gray",
+      "properties": {
+        "Type": "Default",
+        "Size": "sm",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckDefaultSmSuccess",
+      "fileSlug": "check-default-sm-success",
+      "displayName": "Type=Default, Size=sm, Color=Success",
+      "properties": {
+        "Type": "Default",
+        "Size": "sm",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckDefaultXsBrand",
+      "fileSlug": "check-default-xs-brand",
+      "displayName": "Type=Default, Size=xs, Color=Brand",
+      "properties": {
+        "Type": "Default",
+        "Size": "xs",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "CheckDefaultXsGray",
+      "fileSlug": "check-default-xs-gray",
+      "displayName": "Type=Default, Size=xs, Color=Gray",
+      "properties": {
+        "Type": "Default",
+        "Size": "xs",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "CheckDefaultXsSuccess",
+      "fileSlug": "check-default-xs-success",
+      "displayName": "Type=Default, Size=xs, Color=Success",
+      "properties": {
+        "Type": "Default",
+        "Size": "xs",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "CheckFilledLgBrand",
+      "fileSlug": "check-filled-lg-brand",
+      "displayName": "Type=Filled, Size=lg, Color=Brand",
+      "properties": {
+        "Type": "Filled",
+        "Size": "lg",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckFilledLgGray",
+      "fileSlug": "check-filled-lg-gray",
+      "displayName": "Type=Filled, Size=lg, Color=Gray",
+      "properties": {
+        "Type": "Filled",
+        "Size": "lg",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckFilledLgSuccess",
+      "fileSlug": "check-filled-lg-success",
+      "displayName": "Type=Filled, Size=lg, Color=Success",
+      "properties": {
+        "Type": "Filled",
+        "Size": "lg",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckFilledMdBrand",
+      "fileSlug": "check-filled-md-brand",
+      "displayName": "Type=Filled, Size=md, Color=Brand",
+      "properties": {
+        "Type": "Filled",
+        "Size": "md",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckFilledMdGray",
+      "fileSlug": "check-filled-md-gray",
+      "displayName": "Type=Filled, Size=md, Color=Gray",
+      "properties": {
+        "Type": "Filled",
+        "Size": "md",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckFilledMdSuccess",
+      "fileSlug": "check-filled-md-success",
+      "displayName": "Type=Filled, Size=md, Color=Success",
+      "properties": {
+        "Type": "Filled",
+        "Size": "md",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckFilledSmBrand",
+      "fileSlug": "check-filled-sm-brand",
+      "displayName": "Type=Filled, Size=sm, Color=Brand",
+      "properties": {
+        "Type": "Filled",
+        "Size": "sm",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckFilledSmGray",
+      "fileSlug": "check-filled-sm-gray",
+      "displayName": "Type=Filled, Size=sm, Color=Gray",
+      "properties": {
+        "Type": "Filled",
+        "Size": "sm",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckFilledSmSuccess",
+      "fileSlug": "check-filled-sm-success",
+      "displayName": "Type=Filled, Size=sm, Color=Success",
+      "properties": {
+        "Type": "Filled",
+        "Size": "sm",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckFilledXsBrand",
+      "fileSlug": "check-filled-xs-brand",
+      "displayName": "Type=Filled, Size=xs, Color=Brand",
+      "properties": {
+        "Type": "Filled",
+        "Size": "xs",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "CheckFilledXsGray",
+      "fileSlug": "check-filled-xs-gray",
+      "displayName": "Type=Filled, Size=xs, Color=Gray",
+      "properties": {
+        "Type": "Filled",
+        "Size": "xs",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "CheckFilledXsSuccess",
+      "fileSlug": "check-filled-xs-success",
+      "displayName": "Type=Filled, Size=xs, Color=Success",
+      "properties": {
+        "Type": "Filled",
+        "Size": "xs",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "CheckLineLgBrand",
+      "fileSlug": "check-line-lg-brand",
+      "displayName": "Type=Line, Size=lg, Color=Brand",
+      "properties": {
+        "Type": "Line",
+        "Size": "lg",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckLineLgGray",
+      "fileSlug": "check-line-lg-gray",
+      "displayName": "Type=Line, Size=lg, Color=Gray",
+      "properties": {
+        "Type": "Line",
+        "Size": "lg",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckLineLgSuccess",
+      "fileSlug": "check-line-lg-success",
+      "displayName": "Type=Line, Size=lg, Color=Success",
+      "properties": {
+        "Type": "Line",
+        "Size": "lg",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 32 32"
+    },
+    {
+      "componentName": "CheckLineMdBrand",
+      "fileSlug": "check-line-md-brand",
+      "displayName": "Type=Line, Size=md, Color=Brand",
+      "properties": {
+        "Type": "Line",
+        "Size": "md",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckLineMdGray",
+      "fileSlug": "check-line-md-gray",
+      "displayName": "Type=Line, Size=md, Color=Gray",
+      "properties": {
+        "Type": "Line",
+        "Size": "md",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckLineMdSuccess",
+      "fileSlug": "check-line-md-success",
+      "displayName": "Type=Line, Size=md, Color=Success",
+      "properties": {
+        "Type": "Line",
+        "Size": "md",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 28 28"
+    },
+    {
+      "componentName": "CheckLineSmBrand",
+      "fileSlug": "check-line-sm-brand",
+      "displayName": "Type=Line, Size=sm, Color=Brand",
+      "properties": {
+        "Type": "Line",
+        "Size": "sm",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckLineSmGray",
+      "fileSlug": "check-line-sm-gray",
+      "displayName": "Type=Line, Size=sm, Color=Gray",
+      "properties": {
+        "Type": "Line",
+        "Size": "sm",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckLineSmSuccess",
+      "fileSlug": "check-line-sm-success",
+      "displayName": "Type=Line, Size=sm, Color=Success",
+      "properties": {
+        "Type": "Line",
+        "Size": "sm",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 24 24"
+    },
+    {
+      "componentName": "CheckLineXsBrand",
+      "fileSlug": "check-line-xs-brand",
+      "displayName": "Type=Line, Size=xs, Color=Brand",
+      "properties": {
+        "Type": "Line",
+        "Size": "xs",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "CheckLineXsGray",
+      "fileSlug": "check-line-xs-gray",
+      "displayName": "Type=Line, Size=xs, Color=Gray",
+      "properties": {
+        "Type": "Line",
+        "Size": "xs",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 20 20"
+    },
+    {
+      "componentName": "CheckLineXsSuccess",
+      "fileSlug": "check-line-xs-success",
+      "displayName": "Type=Line, Size=xs, Color=Success",
+      "properties": {
+        "Type": "Line",
+        "Size": "xs",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 20 20"
+    }
+  ]
+}

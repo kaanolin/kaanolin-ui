@@ -1,0 +1,813 @@
+{
+  "name": "@kaanolin/react-icons",
+  "version": "0.1.0",
+  "description": "React icon library for @kaanolin design system (Untitled UI + Netflix conventions)",
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./types": {
+      "types": "./dist/types.d.ts",
+      "import": "./dist/types.js",
+      "require": "./dist/types.cjs"
+    },
+    "./theme": {
+      "types": "./dist/theme.d.ts",
+      "import": "./dist/theme.js",
+      "require": "./dist/theme.cjs"
+    },
+    "./line": {
+      "types": "./dist/line/index.d.ts",
+      "import": "./dist/line.js",
+      "require": "./dist/line.cjs"
+    },
+    "./line/alerts-and-feedback": {
+      "types": "./dist/line/alerts-and-feedback/index.d.ts",
+      "import": "./dist/line/alerts-and-feedback.js",
+      "require": "./dist/line/alerts-and-feedback.cjs"
+    },
+    "./line/arrows": {
+      "types": "./dist/line/arrows/index.d.ts",
+      "import": "./dist/line/arrows.js",
+      "require": "./dist/line/arrows.cjs"
+    },
+    "./line/charts": {
+      "types": "./dist/line/charts/index.d.ts",
+      "import": "./dist/line/charts.js",
+      "require": "./dist/line/charts.cjs"
+    },
+    "./line/communication": {
+      "types": "./dist/line/communication/index.d.ts",
+      "import": "./dist/line/communication.js",
+      "require": "./dist/line/communication.cjs"
+    },
+    "./line/development": {
+      "types": "./dist/line/development/index.d.ts",
+      "import": "./dist/line/development.js",
+      "require": "./dist/line/development.cjs"
+    },
+    "./line/editor": {
+      "types": "./dist/line/editor/index.d.ts",
+      "import": "./dist/line/editor.js",
+      "require": "./dist/line/editor.cjs"
+    },
+    "./line/education": {
+      "types": "./dist/line/education/index.d.ts",
+      "import": "./dist/line/education.js",
+      "require": "./dist/line/education.cjs"
+    },
+    "./line/files": {
+      "types": "./dist/line/files/index.d.ts",
+      "import": "./dist/line/files.js",
+      "require": "./dist/line/files.cjs"
+    },
+    "./line/finance-and-ecommerce": {
+      "types": "./dist/line/finance-and-ecommerce/index.d.ts",
+      "import": "./dist/line/finance-and-ecommerce.js",
+      "require": "./dist/line/finance-and-ecommerce.cjs"
+    },
+    "./line/general": {
+      "types": "./dist/line/general/index.d.ts",
+      "import": "./dist/line/general.js",
+      "require": "./dist/line/general.cjs"
+    },
+    "./line/images": {
+      "types": "./dist/line/images/index.d.ts",
+      "import": "./dist/line/images.js",
+      "require": "./dist/line/images.cjs"
+    },
+    "./line/layout": {
+      "types": "./dist/line/layout/index.d.ts",
+      "import": "./dist/line/layout.js",
+      "require": "./dist/line/layout.cjs"
+    },
+    "./line/maps-and-travel": {
+      "types": "./dist/line/maps-and-travel/index.d.ts",
+      "import": "./dist/line/maps-and-travel.js",
+      "require": "./dist/line/maps-and-travel.cjs"
+    },
+    "./line/media-and-devices": {
+      "types": "./dist/line/media-and-devices/index.d.ts",
+      "import": "./dist/line/media-and-devices.js",
+      "require": "./dist/line/media-and-devices.cjs"
+    },
+    "./line/security": {
+      "types": "./dist/line/security/index.d.ts",
+      "import": "./dist/line/security.js",
+      "require": "./dist/line/security.cjs"
+    },
+    "./line/shapes": {
+      "types": "./dist/line/shapes/index.d.ts",
+      "import": "./dist/line/shapes.js",
+      "require": "./dist/line/shapes.cjs"
+    },
+    "./line/time": {
+      "types": "./dist/line/time/index.d.ts",
+      "import": "./dist/line/time.js",
+      "require": "./dist/line/time.cjs"
+    },
+    "./line/users": {
+      "types": "./dist/line/users/index.d.ts",
+      "import": "./dist/line/users.js",
+      "require": "./dist/line/users.cjs"
+    },
+    "./line/weather": {
+      "types": "./dist/line/weather/index.d.ts",
+      "import": "./dist/line/weather.js",
+      "require": "./dist/line/weather.cjs"
+    },
+    "./solid": {
+      "types": "./dist/solid/index.d.ts",
+      "import": "./dist/solid.js",
+      "require": "./dist/solid.cjs"
+    },
+    "./solid/alerts-and-feedback": {
+      "types": "./dist/solid/alerts-and-feedback/index.d.ts",
+      "import": "./dist/solid/alerts-and-feedback.js",
+      "require": "./dist/solid/alerts-and-feedback.cjs"
+    },
+    "./solid/arrows": {
+      "types": "./dist/solid/arrows/index.d.ts",
+      "import": "./dist/solid/arrows.js",
+      "require": "./dist/solid/arrows.cjs"
+    },
+    "./solid/charts": {
+      "types": "./dist/solid/charts/index.d.ts",
+      "import": "./dist/solid/charts.js",
+      "require": "./dist/solid/charts.cjs"
+    },
+    "./solid/communication": {
+      "types": "./dist/solid/communication/index.d.ts",
+      "import": "./dist/solid/communication.js",
+      "require": "./dist/solid/communication.cjs"
+    },
+    "./solid/development": {
+      "types": "./dist/solid/development/index.d.ts",
+      "import": "./dist/solid/development.js",
+      "require": "./dist/solid/development.cjs"
+    },
+    "./solid/editor": {
+      "types": "./dist/solid/editor/index.d.ts",
+      "import": "./dist/solid/editor.js",
+      "require": "./dist/solid/editor.cjs"
+    },
+    "./solid/education": {
+      "types": "./dist/solid/education/index.d.ts",
+      "import": "./dist/solid/education.js",
+      "require": "./dist/solid/education.cjs"
+    },
+    "./solid/files": {
+      "types": "./dist/solid/files/index.d.ts",
+      "import": "./dist/solid/files.js",
+      "require": "./dist/solid/files.cjs"
+    },
+    "./solid/finance-and-ecommerce": {
+      "types": "./dist/solid/finance-and-ecommerce/index.d.ts",
+      "import": "./dist/solid/finance-and-ecommerce.js",
+      "require": "./dist/solid/finance-and-ecommerce.cjs"
+    },
+    "./solid/general": {
+      "types": "./dist/solid/general/index.d.ts",
+      "import": "./dist/solid/general.js",
+      "require": "./dist/solid/general.cjs"
+    },
+    "./solid/images": {
+      "types": "./dist/solid/images/index.d.ts",
+      "import": "./dist/solid/images.js",
+      "require": "./dist/solid/images.cjs"
+    },
+    "./solid/layout": {
+      "types": "./dist/solid/layout/index.d.ts",
+      "import": "./dist/solid/layout.js",
+      "require": "./dist/solid/layout.cjs"
+    },
+    "./solid/maps-and-travel": {
+      "types": "./dist/solid/maps-and-travel/index.d.ts",
+      "import": "./dist/solid/maps-and-travel.js",
+      "require": "./dist/solid/maps-and-travel.cjs"
+    },
+    "./solid/media-and-devices": {
+      "types": "./dist/solid/media-and-devices/index.d.ts",
+      "import": "./dist/solid/media-and-devices.js",
+      "require": "./dist/solid/media-and-devices.cjs"
+    },
+    "./solid/security": {
+      "types": "./dist/solid/security/index.d.ts",
+      "import": "./dist/solid/security.js",
+      "require": "./dist/solid/security.cjs"
+    },
+    "./solid/shapes": {
+      "types": "./dist/solid/shapes/index.d.ts",
+      "import": "./dist/solid/shapes.js",
+      "require": "./dist/solid/shapes.cjs"
+    },
+    "./solid/time": {
+      "types": "./dist/solid/time/index.d.ts",
+      "import": "./dist/solid/time.js",
+      "require": "./dist/solid/time.cjs"
+    },
+    "./solid/users": {
+      "types": "./dist/solid/users/index.d.ts",
+      "import": "./dist/solid/users.js",
+      "require": "./dist/solid/users.cjs"
+    },
+    "./solid/weather": {
+      "types": "./dist/solid/weather/index.d.ts",
+      "import": "./dist/solid/weather.js",
+      "require": "./dist/solid/weather.cjs"
+    },
+    "./duotone": {
+      "types": "./dist/duotone/index.d.ts",
+      "import": "./dist/duotone.js",
+      "require": "./dist/duotone.cjs"
+    },
+    "./duotone/alerts-and-feedback": {
+      "types": "./dist/duotone/alerts-and-feedback/index.d.ts",
+      "import": "./dist/duotone/alerts-and-feedback.js",
+      "require": "./dist/duotone/alerts-and-feedback.cjs"
+    },
+    "./duotone/arrows": {
+      "types": "./dist/duotone/arrows/index.d.ts",
+      "import": "./dist/duotone/arrows.js",
+      "require": "./dist/duotone/arrows.cjs"
+    },
+    "./duotone/charts": {
+      "types": "./dist/duotone/charts/index.d.ts",
+      "import": "./dist/duotone/charts.js",
+      "require": "./dist/duotone/charts.cjs"
+    },
+    "./duotone/communication": {
+      "types": "./dist/duotone/communication/index.d.ts",
+      "import": "./dist/duotone/communication.js",
+      "require": "./dist/duotone/communication.cjs"
+    },
+    "./duotone/development": {
+      "types": "./dist/duotone/development/index.d.ts",
+      "import": "./dist/duotone/development.js",
+      "require": "./dist/duotone/development.cjs"
+    },
+    "./duotone/editor": {
+      "types": "./dist/duotone/editor/index.d.ts",
+      "import": "./dist/duotone/editor.js",
+      "require": "./dist/duotone/editor.cjs"
+    },
+    "./duotone/education": {
+      "types": "./dist/duotone/education/index.d.ts",
+      "import": "./dist/duotone/education.js",
+      "require": "./dist/duotone/education.cjs"
+    },
+    "./duotone/files": {
+      "types": "./dist/duotone/files/index.d.ts",
+      "import": "./dist/duotone/files.js",
+      "require": "./dist/duotone/files.cjs"
+    },
+    "./duotone/finance-and-ecommerce": {
+      "types": "./dist/duotone/finance-and-ecommerce/index.d.ts",
+      "import": "./dist/duotone/finance-and-ecommerce.js",
+      "require": "./dist/duotone/finance-and-ecommerce.cjs"
+    },
+    "./duotone/general": {
+      "types": "./dist/duotone/general/index.d.ts",
+      "import": "./dist/duotone/general.js",
+      "require": "./dist/duotone/general.cjs"
+    },
+    "./duotone/images": {
+      "types": "./dist/duotone/images/index.d.ts",
+      "import": "./dist/duotone/images.js",
+      "require": "./dist/duotone/images.cjs"
+    },
+    "./duotone/layout": {
+      "types": "./dist/duotone/layout/index.d.ts",
+      "import": "./dist/duotone/layout.js",
+      "require": "./dist/duotone/layout.cjs"
+    },
+    "./duotone/maps-and-travel": {
+      "types": "./dist/duotone/maps-and-travel/index.d.ts",
+      "import": "./dist/duotone/maps-and-travel.js",
+      "require": "./dist/duotone/maps-and-travel.cjs"
+    },
+    "./duotone/media-and-devices": {
+      "types": "./dist/duotone/media-and-devices/index.d.ts",
+      "import": "./dist/duotone/media-and-devices.js",
+      "require": "./dist/duotone/media-and-devices.cjs"
+    },
+    "./duotone/security": {
+      "types": "./dist/duotone/security/index.d.ts",
+      "import": "./dist/duotone/security.js",
+      "require": "./dist/duotone/security.cjs"
+    },
+    "./duotone/shapes": {
+      "types": "./dist/duotone/shapes/index.d.ts",
+      "import": "./dist/duotone/shapes.js",
+      "require": "./dist/duotone/shapes.cjs"
+    },
+    "./duotone/time": {
+      "types": "./dist/duotone/time/index.d.ts",
+      "import": "./dist/duotone/time.js",
+      "require": "./dist/duotone/time.cjs"
+    },
+    "./duotone/users": {
+      "types": "./dist/duotone/users/index.d.ts",
+      "import": "./dist/duotone/users.js",
+      "require": "./dist/duotone/users.cjs"
+    },
+    "./duotone/weather": {
+      "types": "./dist/duotone/weather/index.d.ts",
+      "import": "./dist/duotone/weather.js",
+      "require": "./dist/duotone/weather.cjs"
+    },
+    "./duocolor": {
+      "types": "./dist/duocolor/index.d.ts",
+      "import": "./dist/duocolor.js",
+      "require": "./dist/duocolor.cjs"
+    },
+    "./duocolor/alerts-and-feedback": {
+      "types": "./dist/duocolor/alerts-and-feedback/index.d.ts",
+      "import": "./dist/duocolor/alerts-and-feedback.js",
+      "require": "./dist/duocolor/alerts-and-feedback.cjs"
+    },
+    "./duocolor/arrows": {
+      "types": "./dist/duocolor/arrows/index.d.ts",
+      "import": "./dist/duocolor/arrows.js",
+      "require": "./dist/duocolor/arrows.cjs"
+    },
+    "./duocolor/charts": {
+      "types": "./dist/duocolor/charts/index.d.ts",
+      "import": "./dist/duocolor/charts.js",
+      "require": "./dist/duocolor/charts.cjs"
+    },
+    "./duocolor/communication": {
+      "types": "./dist/duocolor/communication/index.d.ts",
+      "import": "./dist/duocolor/communication.js",
+      "require": "./dist/duocolor/communication.cjs"
+    },
+    "./duocolor/development": {
+      "types": "./dist/duocolor/development/index.d.ts",
+      "import": "./dist/duocolor/development.js",
+      "require": "./dist/duocolor/development.cjs"
+    },
+    "./duocolor/editor": {
+      "types": "./dist/duocolor/editor/index.d.ts",
+      "import": "./dist/duocolor/editor.js",
+      "require": "./dist/duocolor/editor.cjs"
+    },
+    "./duocolor/education": {
+      "types": "./dist/duocolor/education/index.d.ts",
+      "import": "./dist/duocolor/education.js",
+      "require": "./dist/duocolor/education.cjs"
+    },
+    "./duocolor/files": {
+      "types": "./dist/duocolor/files/index.d.ts",
+      "import": "./dist/duocolor/files.js",
+      "require": "./dist/duocolor/files.cjs"
+    },
+    "./duocolor/finance-and-ecommerce": {
+      "types": "./dist/duocolor/finance-and-ecommerce/index.d.ts",
+      "import": "./dist/duocolor/finance-and-ecommerce.js",
+      "require": "./dist/duocolor/finance-and-ecommerce.cjs"
+    },
+    "./duocolor/general": {
+      "types": "./dist/duocolor/general/index.d.ts",
+      "import": "./dist/duocolor/general.js",
+      "require": "./dist/duocolor/general.cjs"
+    },
+    "./duocolor/images": {
+      "types": "./dist/duocolor/images/index.d.ts",
+      "import": "./dist/duocolor/images.js",
+      "require": "./dist/duocolor/images.cjs"
+    },
+    "./duocolor/layout": {
+      "types": "./dist/duocolor/layout/index.d.ts",
+      "import": "./dist/duocolor/layout.js",
+      "require": "./dist/duocolor/layout.cjs"
+    },
+    "./duocolor/maps-and-travel": {
+      "types": "./dist/duocolor/maps-and-travel/index.d.ts",
+      "import": "./dist/duocolor/maps-and-travel.js",
+      "require": "./dist/duocolor/maps-and-travel.cjs"
+    },
+    "./duocolor/media-and-devices": {
+      "types": "./dist/duocolor/media-and-devices/index.d.ts",
+      "import": "./dist/duocolor/media-and-devices.js",
+      "require": "./dist/duocolor/media-and-devices.cjs"
+    },
+    "./duocolor/security": {
+      "types": "./dist/duocolor/security/index.d.ts",
+      "import": "./dist/duocolor/security.js",
+      "require": "./dist/duocolor/security.cjs"
+    },
+    "./duocolor/shapes": {
+      "types": "./dist/duocolor/shapes/index.d.ts",
+      "import": "./dist/duocolor/shapes.js",
+      "require": "./dist/duocolor/shapes.cjs"
+    },
+    "./duocolor/time": {
+      "types": "./dist/duocolor/time/index.d.ts",
+      "import": "./dist/duocolor/time.js",
+      "require": "./dist/duocolor/time.cjs"
+    },
+    "./duocolor/users": {
+      "types": "./dist/duocolor/users/index.d.ts",
+      "import": "./dist/duocolor/users.js",
+      "require": "./dist/duocolor/users.cjs"
+    },
+    "./duocolor/weather": {
+      "types": "./dist/duocolor/weather/index.d.ts",
+      "import": "./dist/duocolor/weather.js",
+      "require": "./dist/duocolor/weather.cjs"
+    },
+    "./flags": {
+      "types": "./dist/flags/index.d.ts",
+      "import": "./dist/flags.js",
+      "require": "./dist/flags.cjs"
+    },
+    "./logos": {
+      "types": "./dist/logos/index.d.ts",
+      "import": "./dist/logos.js",
+      "require": "./dist/logos.cjs"
+    },
+    "./file-types": {
+      "types": "./dist/file-types/index.d.ts",
+      "import": "./dist/file-types.js",
+      "require": "./dist/file-types.cjs"
+    },
+    "./social": {
+      "types": "./dist/social/index.d.ts",
+      "import": "./dist/social.js",
+      "require": "./dist/social.cjs"
+    },
+    "./payments": {
+      "types": "./dist/payments/index.d.ts",
+      "import": "./dist/payments.js",
+      "require": "./dist/payments.cjs"
+    },
+    "./checks": {
+      "types": "./dist/checks/index.d.ts",
+      "import": "./dist/checks.js",
+      "require": "./dist/checks.cjs"
+    },
+    "./integrations": {
+      "types": "./dist/integrations/index.d.ts",
+      "import": "./dist/integrations.js",
+      "require": "./dist/integrations.cjs"
+    },
+    "./stars": {
+      "types": "./dist/stars/index.d.ts",
+      "import": "./dist/stars.js",
+      "require": "./dist/stars.cjs"
+    },
+    "./folders": {
+      "types": "./dist/folders/index.d.ts",
+      "import": "./dist/folders.js",
+      "require": "./dist/folders.cjs"
+    },
+    "./featured-shapes": {
+      "types": "./dist/featured-shapes/index.d.ts",
+      "import": "./dist/featured-shapes.js",
+      "require": "./dist/featured-shapes.cjs"
+    },
+    "./featured-shape-outlines": {
+      "types": "./dist/featured-shape-outlines/index.d.ts",
+      "import": "./dist/featured-shape-outlines.js",
+      "require": "./dist/featured-shape-outlines.cjs"
+    },
+    "./metadata/*": "./metadata/*.json"
+  },
+  "files": [
+    "dist",
+    "metadata"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaanolin/kaanolin-ui.git",
+    "directory": "packages/icons"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "react",
+    "icons",
+    "svg",
+    "design-system",
+    "kaanolin",
+    "untitled-ui"
+  ],
+  "scripts": {
+    "build": "nx vite:build",
+    "dev": "nx vite:build --watch",
+    "lint": "eslint \"src/**/*.{ts,tsx}\"",
+    "format": "prettier --write \"src/**/*.{ts,tsx}\"",
+    "format:check": "prettier --check \"src/**/*.{ts,tsx}\"",
+    "test": "nx jest:test",
+    "sync-exports": "node scripts/sync-icons-exports.mjs"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0"
+  },
+  "devDependencies": {
+    "@jest/globals": "29.7.0",
+    "@swc/core": "^1.15.21",
+    "@swc/jest": "^0.2.39",
+    "@testing-library/jest-dom": "6.6.3",
+    "@testing-library/react": "16.2.0",
+    "@types/jest": "30.0.0",
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.3",
+    "@vitejs/plugin-react": "4.3.4",
+    "identity-obj-proxy": "3.0.0",
+    "jest": "29.7.0",
+    "jest-environment-jsdom": "29.7.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "typescript": "5.7.3",
+    "vite": "6.0.11",
+    "vite-plugin-dts": "4.5.0"
+  },
+  "typesVersions": {
+    "*": {
+      "line": [
+        "./dist/line/index.d.ts"
+      ],
+      "line/alerts-and-feedback": [
+        "./dist/line/alerts-and-feedback/index.d.ts"
+      ],
+      "line/arrows": [
+        "./dist/line/arrows/index.d.ts"
+      ],
+      "line/charts": [
+        "./dist/line/charts/index.d.ts"
+      ],
+      "line/communication": [
+        "./dist/line/communication/index.d.ts"
+      ],
+      "line/development": [
+        "./dist/line/development/index.d.ts"
+      ],
+      "line/editor": [
+        "./dist/line/editor/index.d.ts"
+      ],
+      "line/education": [
+        "./dist/line/education/index.d.ts"
+      ],
+      "line/files": [
+        "./dist/line/files/index.d.ts"
+      ],
+      "line/finance-and-ecommerce": [
+        "./dist/line/finance-and-ecommerce/index.d.ts"
+      ],
+      "line/general": [
+        "./dist/line/general/index.d.ts"
+      ],
+      "line/images": [
+        "./dist/line/images/index.d.ts"
+      ],
+      "line/layout": [
+        "./dist/line/layout/index.d.ts"
+      ],
+      "line/maps-and-travel": [
+        "./dist/line/maps-and-travel/index.d.ts"
+      ],
+      "line/media-and-devices": [
+        "./dist/line/media-and-devices/index.d.ts"
+      ],
+      "line/security": [
+        "./dist/line/security/index.d.ts"
+      ],
+      "line/shapes": [
+        "./dist/line/shapes/index.d.ts"
+      ],
+      "line/time": [
+        "./dist/line/time/index.d.ts"
+      ],
+      "line/users": [
+        "./dist/line/users/index.d.ts"
+      ],
+      "line/weather": [
+        "./dist/line/weather/index.d.ts"
+      ],
+      "solid": [
+        "./dist/solid/index.d.ts"
+      ],
+      "solid/alerts-and-feedback": [
+        "./dist/solid/alerts-and-feedback/index.d.ts"
+      ],
+      "solid/arrows": [
+        "./dist/solid/arrows/index.d.ts"
+      ],
+      "solid/charts": [
+        "./dist/solid/charts/index.d.ts"
+      ],
+      "solid/communication": [
+        "./dist/solid/communication/index.d.ts"
+      ],
+      "solid/development": [
+        "./dist/solid/development/index.d.ts"
+      ],
+      "solid/editor": [
+        "./dist/solid/editor/index.d.ts"
+      ],
+      "solid/education": [
+        "./dist/solid/education/index.d.ts"
+      ],
+      "solid/files": [
+        "./dist/solid/files/index.d.ts"
+      ],
+      "solid/finance-and-ecommerce": [
+        "./dist/solid/finance-and-ecommerce/index.d.ts"
+      ],
+      "solid/general": [
+        "./dist/solid/general/index.d.ts"
+      ],
+      "solid/images": [
+        "./dist/solid/images/index.d.ts"
+      ],
+      "solid/layout": [
+        "./dist/solid/layout/index.d.ts"
+      ],
+      "solid/maps-and-travel": [
+        "./dist/solid/maps-and-travel/index.d.ts"
+      ],
+      "solid/media-and-devices": [
+        "./dist/solid/media-and-devices/index.d.ts"
+      ],
+      "solid/security": [
+        "./dist/solid/security/index.d.ts"
+      ],
+      "solid/shapes": [
+        "./dist/solid/shapes/index.d.ts"
+      ],
+      "solid/time": [
+        "./dist/solid/time/index.d.ts"
+      ],
+      "solid/users": [
+        "./dist/solid/users/index.d.ts"
+      ],
+      "solid/weather": [
+        "./dist/solid/weather/index.d.ts"
+      ],
+      "duotone": [
+        "./dist/duotone/index.d.ts"
+      ],
+      "duotone/alerts-and-feedback": [
+        "./dist/duotone/alerts-and-feedback/index.d.ts"
+      ],
+      "duotone/arrows": [
+        "./dist/duotone/arrows/index.d.ts"
+      ],
+      "duotone/charts": [
+        "./dist/duotone/charts/index.d.ts"
+      ],
+      "duotone/communication": [
+        "./dist/duotone/communication/index.d.ts"
+      ],
+      "duotone/development": [
+        "./dist/duotone/development/index.d.ts"
+      ],
+      "duotone/editor": [
+        "./dist/duotone/editor/index.d.ts"
+      ],
+      "duotone/education": [
+        "./dist/duotone/education/index.d.ts"
+      ],
+      "duotone/files": [
+        "./dist/duotone/files/index.d.ts"
+      ],
+      "duotone/finance-and-ecommerce": [
+        "./dist/duotone/finance-and-ecommerce/index.d.ts"
+      ],
+      "duotone/general": [
+        "./dist/duotone/general/index.d.ts"
+      ],
+      "duotone/images": [
+        "./dist/duotone/images/index.d.ts"
+      ],
+      "duotone/layout": [
+        "./dist/duotone/layout/index.d.ts"
+      ],
+      "duotone/maps-and-travel": [
+        "./dist/duotone/maps-and-travel/index.d.ts"
+      ],
+      "duotone/media-and-devices": [
+        "./dist/duotone/media-and-devices/index.d.ts"
+      ],
+      "duotone/security": [
+        "./dist/duotone/security/index.d.ts"
+      ],
+      "duotone/shapes": [
+        "./dist/duotone/shapes/index.d.ts"
+      ],
+      "duotone/time": [
+        "./dist/duotone/time/index.d.ts"
+      ],
+      "duotone/users": [
+        "./dist/duotone/users/index.d.ts"
+      ],
+      "duotone/weather": [
+        "./dist/duotone/weather/index.d.ts"
+      ],
+      "duocolor": [
+        "./dist/duocolor/index.d.ts"
+      ],
+      "duocolor/alerts-and-feedback": [
+        "./dist/duocolor/alerts-and-feedback/index.d.ts"
+      ],
+      "duocolor/arrows": [
+        "./dist/duocolor/arrows/index.d.ts"
+      ],
+      "duocolor/charts": [
+        "./dist/duocolor/charts/index.d.ts"
+      ],
+      "duocolor/communication": [
+        "./dist/duocolor/communication/index.d.ts"
+      ],
+      "duocolor/development": [
+        "./dist/duocolor/development/index.d.ts"
+      ],
+      "duocolor/editor": [
+        "./dist/duocolor/editor/index.d.ts"
+      ],
+      "duocolor/education": [
+        "./dist/duocolor/education/index.d.ts"
+      ],
+      "duocolor/files": [
+        "./dist/duocolor/files/index.d.ts"
+      ],
+      "duocolor/finance-and-ecommerce": [
+        "./dist/duocolor/finance-and-ecommerce/index.d.ts"
+      ],
+      "duocolor/general": [
+        "./dist/duocolor/general/index.d.ts"
+      ],
+      "duocolor/images": [
+        "./dist/duocolor/images/index.d.ts"
+      ],
+      "duocolor/layout": [
+        "./dist/duocolor/layout/index.d.ts"
+      ],
+      "duocolor/maps-and-travel": [
+        "./dist/duocolor/maps-and-travel/index.d.ts"
+      ],
+      "duocolor/media-and-devices": [
+        "./dist/duocolor/media-and-devices/index.d.ts"
+      ],
+      "duocolor/security": [
+        "./dist/duocolor/security/index.d.ts"
+      ],
+      "duocolor/shapes": [
+        "./dist/duocolor/shapes/index.d.ts"
+      ],
+      "duocolor/time": [
+        "./dist/duocolor/time/index.d.ts"
+      ],
+      "duocolor/users": [
+        "./dist/duocolor/users/index.d.ts"
+      ],
+      "duocolor/weather": [
+        "./dist/duocolor/weather/index.d.ts"
+      ],
+      "flags": [
+        "./dist/flags/index.d.ts"
+      ],
+      "logos": [
+        "./dist/logos/index.d.ts"
+      ],
+      "file-types": [
+        "./dist/file-types/index.d.ts"
+      ],
+      "social": [
+        "./dist/social/index.d.ts"
+      ],
+      "payments": [
+        "./dist/payments/index.d.ts"
+      ],
+      "checks": [
+        "./dist/checks/index.d.ts"
+      ],
+      "integrations": [
+        "./dist/integrations/index.d.ts"
+      ],
+      "stars": [
+        "./dist/stars/index.d.ts"
+      ],
+      "folders": [
+        "./dist/folders/index.d.ts"
+      ],
+      "featured-shapes": [
+        "./dist/featured-shapes/index.d.ts"
+      ],
+      "featured-shape-outlines": [
+        "./dist/featured-shape-outlines/index.d.ts"
+      ]
+    }
+  }
+}

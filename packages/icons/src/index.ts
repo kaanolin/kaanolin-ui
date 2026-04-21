@@ -1,0 +1,17 @@
+export * as line     from "./line";
+export * as solid    from "./solid";
+export * as duotone  from "./duotone";
+export * as duocolor from "./duocolor";
+export * as logos    from "./logos";
+export * as flags    from "./flags";
+export * as file_types from "./file-types";
+export * as social from "./social";
+export * as payments from "./payments";
+export * as checks from "./checks";
+export * as integrations from "./integrations";
+export * as stars from "./stars";
+export * as folders from "./folders";
+export * as featured_shapes from "./featured-shapes";
+export * as featured_shape_outlines from "./featured-shape-outlines";
+export * from "./types";
+export * as theme from "./theme";

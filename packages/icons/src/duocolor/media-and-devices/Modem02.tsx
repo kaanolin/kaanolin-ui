@@ -1,0 +1,29 @@
+// [duocolor] generated from source/icons/Duocolor icons/
+import { forwardRef } from "react";
+import type { DuocolorIconProps } from "../../types";
+
+export const Modem02 = forwardRef<SVGSVGElement, DuocolorIconProps>(function Modem02(
+  { size = 24, color = "currentColor", strokeWidth = 2, title, "aria-label": ariaLabel, ...rest },
+  ref,
+) {
+  return (
+    <svg
+      ref={ref}
+      xmlns="http://www.w3.org/2000/svg"
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      color={color}
+      role={title || ariaLabel ? "img" : "presentation"}
+      aria-label={ariaLabel}
+      aria-hidden={title || ariaLabel ? undefined : true}
+      {...rest}
+    >
+      {title ? <title>{title}</title> : null}
+      <path opacity="0.4" d="M6.20472 10.5578C5.72578 8.76952 6.08709 6.80306 7.28865 5.28366M17.7952 10.5577C18.2742 8.76947 17.9129 6.80301 16.7113 5.28361M2.34183 11.5996C1.50387 8.47481 2.20543 5.02318 4.44651 2.4458M21.6547 11.5996C22.4926 8.47485 21.7911 5.02322 19.55 2.44584" stroke="currentColor" strokeWidth={strokeWidth} strokeLinecap="round" strokeLinejoin="round"/>
+<path d="M12 15V9M5.5 18.5H9.5M5.2 22H18.8C19.9201 22 20.4802 22 20.908 21.782C21.2843 21.5903 21.5903 21.2843 21.782 20.908C22 20.4802 22 19.9201 22 18.8V18.2C22 17.0799 22 16.5198 21.782 16.092C21.5903 15.7157 21.2843 15.4097 20.908 15.218C20.4802 15 19.9201 15 18.8 15H5.2C4.07989 15 3.51984 15 3.09202 15.218C2.71569 15.4097 2.40973 15.7157 2.21799 16.092C2 16.5198 2 17.0799 2 18.2V18.8C2 19.9201 2 20.4802 2.21799 20.908C2.40973 21.2843 2.71569 21.5903 3.09202 21.782C3.51984 22 4.0799 22 5.2 22Z" stroke="currentColor" strokeWidth={strokeWidth} strokeLinecap="round" strokeLinejoin="round"/>
+    </svg>
+  );
+});
+Modem02.displayName = "Modem02";

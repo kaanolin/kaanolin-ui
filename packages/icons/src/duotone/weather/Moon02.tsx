@@ -1,0 +1,29 @@
+// [duotone] generated from source/icons/Duotone icons/
+import { forwardRef } from "react";
+import type { DuotoneIconProps } from "../../types";
+
+export const Moon02 = forwardRef<SVGSVGElement, DuotoneIconProps>(function Moon02(
+  { size = 24, color = "currentColor", strokeWidth = 2, title, "aria-label": ariaLabel, ...rest },
+  ref,
+) {
+  return (
+    <svg
+      ref={ref}
+      xmlns="http://www.w3.org/2000/svg"
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      color={color}
+      role={title || ariaLabel ? "img" : "presentation"}
+      aria-label={ariaLabel}
+      aria-hidden={title || ariaLabel ? undefined : true}
+      {...rest}
+    >
+      {title ? <title>{title}</title> : null}
+      <path opacity="0.12" d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z" fill="currentColor"/>
+<path d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z" stroke="currentColor" strokeWidth={strokeWidth} strokeLinecap="round" strokeLinejoin="round"/>
+    </svg>
+  );
+});
+Moon02.displayName = "Moon02";

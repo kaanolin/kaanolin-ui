@@ -1,0 +1,28 @@
+// [solid] generated from source/icons/Solid icons/
+import { forwardRef } from "react";
+import type { SolidIconProps } from "../../types";
+
+export const ArrowDownRight = forwardRef<SVGSVGElement, SolidIconProps>(function ArrowDownRight(
+  { size = 24, color = "currentColor", title, "aria-label": ariaLabel, ...rest },
+  ref,
+) {
+  return (
+    <svg
+      ref={ref}
+      xmlns="http://www.w3.org/2000/svg"
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      color={color}
+      role={title || ariaLabel ? "img" : "presentation"}
+      aria-label={ariaLabel}
+      aria-hidden={title || ariaLabel ? undefined : true}
+      {...rest}
+    >
+      {title ? <title>{title}</title> : null}
+      <path d="M7.70711 6.29289C7.31658 5.90237 6.68342 5.90237 6.29289 6.29289C5.90237 6.68342 5.90237 7.31658 6.29289 7.70711L14.5858 16H7C6.44772 16 6 16.4477 6 17C6 17.5523 6.44772 18 7 18H17C17.5523 18 18 17.5523 18 17V7C18 6.44772 17.5523 6 17 6C16.4477 6 16 6.44772 16 7V14.5858L7.70711 6.29289Z" fill="currentColor"/>
+    </svg>
+  );
+});
+ArrowDownRight.displayName = "ArrowDownRight";

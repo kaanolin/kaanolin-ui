@@ -1,0 +1,215 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "Featured icon outline",
+    "description": "Outline-style shape containers × Size × Color.",
+    "pascalPrefix": "FeaturedShapeOutline",
+    "orderedProps": [
+      "Size",
+      "Color"
+    ],
+    "count": 20
+  },
+  "icons": [
+    {
+      "componentName": "FeaturedShapeOutlineLgBrand",
+      "fileSlug": "featured-shape-outline-lg-brand",
+      "displayName": "Size=lg, Color=Brand",
+      "properties": {
+        "Size": "lg",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 42 42"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineLgError",
+      "fileSlug": "featured-shape-outline-lg-error",
+      "displayName": "Size=lg, Color=Error",
+      "properties": {
+        "Size": "lg",
+        "Color": "Error"
+      },
+      "viewBox": "0 0 42 42"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineLgGray",
+      "fileSlug": "featured-shape-outline-lg-gray",
+      "displayName": "Size=lg, Color=Gray",
+      "properties": {
+        "Size": "lg",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 42 42"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineLgSuccess",
+      "fileSlug": "featured-shape-outline-lg-success",
+      "displayName": "Size=lg, Color=Success",
+      "properties": {
+        "Size": "lg",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 42 42"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineLgWarning",
+      "fileSlug": "featured-shape-outline-lg-warning",
+      "displayName": "Size=lg, Color=Warning",
+      "properties": {
+        "Size": "lg",
+        "Color": "Warning"
+      },
+      "viewBox": "0 0 42 42"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineMdBrand",
+      "fileSlug": "featured-shape-outline-md-brand",
+      "displayName": "Size=md, Color=Brand",
+      "properties": {
+        "Size": "md",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 38 38"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineMdError",
+      "fileSlug": "featured-shape-outline-md-error",
+      "displayName": "Size=md, Color=Error",
+      "properties": {
+        "Size": "md",
+        "Color": "Error"
+      },
+      "viewBox": "0 0 38 38"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineMdGray",
+      "fileSlug": "featured-shape-outline-md-gray",
+      "displayName": "Size=md, Color=Gray",
+      "properties": {
+        "Size": "md",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 38 38"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineMdSuccess",
+      "fileSlug": "featured-shape-outline-md-success",
+      "displayName": "Size=md, Color=Success",
+      "properties": {
+        "Size": "md",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 38 38"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineMdWarning",
+      "fileSlug": "featured-shape-outline-md-warning",
+      "displayName": "Size=md, Color=Warning",
+      "properties": {
+        "Size": "md",
+        "Color": "Warning"
+      },
+      "viewBox": "0 0 38 38"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineSmBrand",
+      "fileSlug": "featured-shape-outline-sm-brand",
+      "displayName": "Size=sm, Color=Brand",
+      "properties": {
+        "Size": "sm",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 34 34"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineSmError",
+      "fileSlug": "featured-shape-outline-sm-error",
+      "displayName": "Size=sm, Color=Error",
+      "properties": {
+        "Size": "sm",
+        "Color": "Error"
+      },
+      "viewBox": "0 0 34 34"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineSmGray",
+      "fileSlug": "featured-shape-outline-sm-gray",
+      "displayName": "Size=sm, Color=Gray",
+      "properties": {
+        "Size": "sm",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 34 34"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineSmSuccess",
+      "fileSlug": "featured-shape-outline-sm-success",
+      "displayName": "Size=sm, Color=Success",
+      "properties": {
+        "Size": "sm",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 34 34"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineSmWarning",
+      "fileSlug": "featured-shape-outline-sm-warning",
+      "displayName": "Size=sm, Color=Warning",
+      "properties": {
+        "Size": "sm",
+        "Color": "Warning"
+      },
+      "viewBox": "0 0 34 34"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineXlBrand",
+      "fileSlug": "featured-shape-outline-xl-brand",
+      "displayName": "Size=xl, Color=Brand",
+      "properties": {
+        "Size": "xl",
+        "Color": "Brand"
+      },
+      "viewBox": "0 0 46 46"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineXlError",
+      "fileSlug": "featured-shape-outline-xl-error",
+      "displayName": "Size=xl, Color=Error",
+      "properties": {
+        "Size": "xl",
+        "Color": "Error"
+      },
+      "viewBox": "0 0 46 46"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineXlGray",
+      "fileSlug": "featured-shape-outline-xl-gray",
+      "displayName": "Size=xl, Color=Gray",
+      "properties": {
+        "Size": "xl",
+        "Color": "Gray"
+      },
+      "viewBox": "0 0 46 46"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineXlSuccess",
+      "fileSlug": "featured-shape-outline-xl-success",
+      "displayName": "Size=xl, Color=Success",
+      "properties": {
+        "Size": "xl",
+        "Color": "Success"
+      },
+      "viewBox": "0 0 46 46"
+    },
+    {
+      "componentName": "FeaturedShapeOutlineXlWarning",
+      "fileSlug": "featured-shape-outline-xl-warning",
+      "displayName": "Size=xl, Color=Warning",
+      "properties": {
+        "Size": "xl",
+        "Color": "Warning"
+      },
+      "viewBox": "0 0 46 46"
+    }
+  ]
+}

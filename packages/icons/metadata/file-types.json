@@ -1,0 +1,1545 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "File type icon",
+    "description": "Colourful file-type indicators (PDF, DOCX, XLS, ZIP, MP3, JS, JSON, etc.) in Default / Gray / Solid.",
+    "pascalPrefix": "FileType",
+    "orderedProps": [
+      "File type",
+      "Type"
+    ],
+    "count": 153
+  },
+  "icons": [
+    {
+      "componentName": "FileTypeArchiveRARDefault",
+      "fileSlug": "file-type-archive-rar-default",
+      "displayName": "File type=Archive / RAR, Type=Default",
+      "properties": {
+        "File type": "Archive / RAR",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeArchiveRARGray",
+      "fileSlug": "file-type-archive-rar-gray",
+      "displayName": "File type=Archive / RAR, Type=Gray",
+      "properties": {
+        "File type": "Archive / RAR",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeArchiveRARSolid",
+      "fileSlug": "file-type-archive-rar-solid",
+      "displayName": "File type=Archive / RAR, Type=Solid",
+      "properties": {
+        "File type": "Archive / RAR",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeArchiveZIPDefault",
+      "fileSlug": "file-type-archive-zip-default",
+      "displayName": "File type=Archive / ZIP, Type=Default",
+      "properties": {
+        "File type": "Archive / ZIP",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeArchiveZIPGray",
+      "fileSlug": "file-type-archive-zip-gray",
+      "displayName": "File type=Archive / ZIP, Type=Gray",
+      "properties": {
+        "File type": "Archive / ZIP",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeArchiveZIPSolid",
+      "fileSlug": "file-type-archive-zip-solid",
+      "displayName": "File type=Archive / ZIP, Type=Solid",
+      "properties": {
+        "File type": "Archive / ZIP",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultAudioGray",
+      "fileSlug": "file-type-default-audio-gray",
+      "displayName": "File type=Default / Audio, Type=Gray",
+      "properties": {
+        "File type": "Default / Audio",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultAudioSolid",
+      "fileSlug": "file-type-default-audio-solid",
+      "displayName": "File type=Default / Audio, Type=Solid",
+      "properties": {
+        "File type": "Default / Audio",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultCodeGray",
+      "fileSlug": "file-type-default-code-gray",
+      "displayName": "File type=Default / Code, Type=Gray",
+      "properties": {
+        "File type": "Default / Code",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultCodeSolid",
+      "fileSlug": "file-type-default-code-solid",
+      "displayName": "File type=Default / Code, Type=Solid",
+      "properties": {
+        "File type": "Default / Code",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultDocumentGray",
+      "fileSlug": "file-type-default-document-gray",
+      "displayName": "File type=Default / Document, Type=Gray",
+      "properties": {
+        "File type": "Default / Document",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultDocumentSolid",
+      "fileSlug": "file-type-default-document-solid",
+      "displayName": "File type=Default / Document, Type=Solid",
+      "properties": {
+        "File type": "Default / Document",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultImageGray",
+      "fileSlug": "file-type-default-image-gray",
+      "displayName": "File type=Default / Image, Type=Gray",
+      "properties": {
+        "File type": "Default / Image",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultImageSolid",
+      "fileSlug": "file-type-default-image-solid",
+      "displayName": "File type=Default / Image, Type=Solid",
+      "properties": {
+        "File type": "Default / Image",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultPDFGray",
+      "fileSlug": "file-type-default-pdf-gray",
+      "displayName": "File type=Default / PDF, Type=Gray",
+      "properties": {
+        "File type": "Default / PDF",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultPDFSolid",
+      "fileSlug": "file-type-default-pdf-solid",
+      "displayName": "File type=Default / PDF, Type=Solid",
+      "properties": {
+        "File type": "Default / PDF",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultSpreadsheetGray",
+      "fileSlug": "file-type-default-spreadsheet-gray",
+      "displayName": "File type=Default / Spreadsheet, Type=Gray",
+      "properties": {
+        "File type": "Default / Spreadsheet",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultSpreadsheetSolid",
+      "fileSlug": "file-type-default-spreadsheet-solid",
+      "displayName": "File type=Default / Spreadsheet, Type=Solid",
+      "properties": {
+        "File type": "Default / Spreadsheet",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultVideo01Gray",
+      "fileSlug": "file-type-default-video-01-gray",
+      "displayName": "File type=Default / Video 01, Type=Gray",
+      "properties": {
+        "File type": "Default / Video 01",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultVideo01Solid",
+      "fileSlug": "file-type-default-video-01-solid",
+      "displayName": "File type=Default / Video 01, Type=Solid",
+      "properties": {
+        "File type": "Default / Video 01",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultVideo02Gray",
+      "fileSlug": "file-type-default-video-02-gray",
+      "displayName": "File type=Default / Video 02, Type=Gray",
+      "properties": {
+        "File type": "Default / Video 02",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDefaultVideo02Solid",
+      "fileSlug": "file-type-default-video-02-solid",
+      "displayName": "File type=Default / Video 02, Type=Solid",
+      "properties": {
+        "File type": "Default / Video 02",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignAEPAfterEffectsDefault",
+      "fileSlug": "file-type-design-aep-after-effects-default",
+      "displayName": "File type=Design / AEP (After Effects), Type=Default",
+      "properties": {
+        "File type": "Design / AEP (After Effects)",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignAEPAfterEffectsGray",
+      "fileSlug": "file-type-design-aep-after-effects-gray",
+      "displayName": "File type=Design / AEP (After Effects), Type=Gray",
+      "properties": {
+        "File type": "Design / AEP (After Effects)",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignAEPAfterEffectsSolid",
+      "fileSlug": "file-type-design-aep-after-effects-solid",
+      "displayName": "File type=Design / AEP (After Effects), Type=Solid",
+      "properties": {
+        "File type": "Design / AEP (After Effects)",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignAIIllustratorDefault",
+      "fileSlug": "file-type-design-ai-illustrator-default",
+      "displayName": "File type=Design / AI (Illustrator), Type=Default",
+      "properties": {
+        "File type": "Design / AI (Illustrator)",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignAIIllustratorGray",
+      "fileSlug": "file-type-design-ai-illustrator-gray",
+      "displayName": "File type=Design / AI (Illustrator), Type=Gray",
+      "properties": {
+        "File type": "Design / AI (Illustrator)",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignAIIllustratorSolid",
+      "fileSlug": "file-type-design-ai-illustrator-solid",
+      "displayName": "File type=Design / AI (Illustrator), Type=Solid",
+      "properties": {
+        "File type": "Design / AI (Illustrator)",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignFIGFigmaDefault",
+      "fileSlug": "file-type-design-fig-figma-default",
+      "displayName": "File type=Design / FIG (Figma), Type=Default",
+      "properties": {
+        "File type": "Design / FIG (Figma)",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignFIGFigmaGray",
+      "fileSlug": "file-type-design-fig-figma-gray",
+      "displayName": "File type=Design / FIG (Figma), Type=Gray",
+      "properties": {
+        "File type": "Design / FIG (Figma)",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignFIGFigmaSolid",
+      "fileSlug": "file-type-design-fig-figma-solid",
+      "displayName": "File type=Design / FIG (Figma), Type=Solid",
+      "properties": {
+        "File type": "Design / FIG (Figma)",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignINDDInDesignDefault",
+      "fileSlug": "file-type-design-indd-indesign-default",
+      "displayName": "File type=Design / INDD (InDesign), Type=Default",
+      "properties": {
+        "File type": "Design / INDD (InDesign)",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignINDDInDesignGray",
+      "fileSlug": "file-type-design-indd-indesign-gray",
+      "displayName": "File type=Design / INDD (InDesign), Type=Gray",
+      "properties": {
+        "File type": "Design / INDD (InDesign)",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignINDDInDesignSolid",
+      "fileSlug": "file-type-design-indd-indesign-solid",
+      "displayName": "File type=Design / INDD (InDesign), Type=Solid",
+      "properties": {
+        "File type": "Design / INDD (InDesign)",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignPSDPhotoshopDefault",
+      "fileSlug": "file-type-design-psd-photoshop-default",
+      "displayName": "File type=Design / PSD (Photoshop), Type=Default",
+      "properties": {
+        "File type": "Design / PSD (Photoshop)",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignPSDPhotoshopGray",
+      "fileSlug": "file-type-design-psd-photoshop-gray",
+      "displayName": "File type=Design / PSD (Photoshop), Type=Gray",
+      "properties": {
+        "File type": "Design / PSD (Photoshop)",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDesignPSDPhotoshopSolid",
+      "fileSlug": "file-type-design-psd-photoshop-solid",
+      "displayName": "File type=Design / PSD (Photoshop), Type=Solid",
+      "properties": {
+        "File type": "Design / PSD (Photoshop)",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentCSSDefault",
+      "fileSlug": "file-type-development-css-default",
+      "displayName": "File type=Development / CSS, Type=Default",
+      "properties": {
+        "File type": "Development / CSS",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentCSSGray",
+      "fileSlug": "file-type-development-css-gray",
+      "displayName": "File type=Development / CSS, Type=Gray",
+      "properties": {
+        "File type": "Development / CSS",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentCSSSolid",
+      "fileSlug": "file-type-development-css-solid",
+      "displayName": "File type=Development / CSS, Type=Solid",
+      "properties": {
+        "File type": "Development / CSS",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentDMGDefault",
+      "fileSlug": "file-type-development-dmg-default",
+      "displayName": "File type=Development / DMG, Type=Default",
+      "properties": {
+        "File type": "Development / DMG",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentDMGGray",
+      "fileSlug": "file-type-development-dmg-gray",
+      "displayName": "File type=Development / DMG, Type=Gray",
+      "properties": {
+        "File type": "Development / DMG",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentDMGSolid",
+      "fileSlug": "file-type-development-dmg-solid",
+      "displayName": "File type=Development / DMG, Type=Solid",
+      "properties": {
+        "File type": "Development / DMG",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentEXEDefault",
+      "fileSlug": "file-type-development-exe-default",
+      "displayName": "File type=Development / EXE, Type=Default",
+      "properties": {
+        "File type": "Development / EXE",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentEXEGray",
+      "fileSlug": "file-type-development-exe-gray",
+      "displayName": "File type=Development / EXE, Type=Gray",
+      "properties": {
+        "File type": "Development / EXE",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentEXESolid",
+      "fileSlug": "file-type-development-exe-solid",
+      "displayName": "File type=Development / EXE, Type=Solid",
+      "properties": {
+        "File type": "Development / EXE",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentHTMLDefault",
+      "fileSlug": "file-type-development-html-default",
+      "displayName": "File type=Development / HTML, Type=Default",
+      "properties": {
+        "File type": "Development / HTML",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentHTMLGray",
+      "fileSlug": "file-type-development-html-gray",
+      "displayName": "File type=Development / HTML, Type=Gray",
+      "properties": {
+        "File type": "Development / HTML",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentHTMLSolid",
+      "fileSlug": "file-type-development-html-solid",
+      "displayName": "File type=Development / HTML, Type=Solid",
+      "properties": {
+        "File type": "Development / HTML",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJAVADefault",
+      "fileSlug": "file-type-development-java-default",
+      "displayName": "File type=Development / JAVA, Type=Default",
+      "properties": {
+        "File type": "Development / JAVA",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJAVAGray",
+      "fileSlug": "file-type-development-java-gray",
+      "displayName": "File type=Development / JAVA, Type=Gray",
+      "properties": {
+        "File type": "Development / JAVA",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJAVASolid",
+      "fileSlug": "file-type-development-java-solid",
+      "displayName": "File type=Development / JAVA, Type=Solid",
+      "properties": {
+        "File type": "Development / JAVA",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJSDefault",
+      "fileSlug": "file-type-development-js-default",
+      "displayName": "File type=Development / JS, Type=Default",
+      "properties": {
+        "File type": "Development / JS",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJSGray",
+      "fileSlug": "file-type-development-js-gray",
+      "displayName": "File type=Development / JS, Type=Gray",
+      "properties": {
+        "File type": "Development / JS",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJSONDefault",
+      "fileSlug": "file-type-development-json-default",
+      "displayName": "File type=Development / JSON, Type=Default",
+      "properties": {
+        "File type": "Development / JSON",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJSONGray",
+      "fileSlug": "file-type-development-json-gray",
+      "displayName": "File type=Development / JSON, Type=Gray",
+      "properties": {
+        "File type": "Development / JSON",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJSONSolid",
+      "fileSlug": "file-type-development-json-solid",
+      "displayName": "File type=Development / JSON, Type=Solid",
+      "properties": {
+        "File type": "Development / JSON",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentJSSolid",
+      "fileSlug": "file-type-development-js-solid",
+      "displayName": "File type=Development / JS, Type=Solid",
+      "properties": {
+        "File type": "Development / JS",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentRSSDefault",
+      "fileSlug": "file-type-development-rss-default",
+      "displayName": "File type=Development / RSS, Type=Default",
+      "properties": {
+        "File type": "Development / RSS",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentRSSGray",
+      "fileSlug": "file-type-development-rss-gray",
+      "displayName": "File type=Development / RSS, Type=Gray",
+      "properties": {
+        "File type": "Development / RSS",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentRSSSolid",
+      "fileSlug": "file-type-development-rss-solid",
+      "displayName": "File type=Development / RSS, Type=Solid",
+      "properties": {
+        "File type": "Development / RSS",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentSQLDefault",
+      "fileSlug": "file-type-development-sql-default",
+      "displayName": "File type=Development / SQL, Type=Default",
+      "properties": {
+        "File type": "Development / SQL",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentSQLGray",
+      "fileSlug": "file-type-development-sql-gray",
+      "displayName": "File type=Development / SQL, Type=Gray",
+      "properties": {
+        "File type": "Development / SQL",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentSQLSolid",
+      "fileSlug": "file-type-development-sql-solid",
+      "displayName": "File type=Development / SQL, Type=Solid",
+      "properties": {
+        "File type": "Development / SQL",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentXMLDefault",
+      "fileSlug": "file-type-development-xml-default",
+      "displayName": "File type=Development / XML, Type=Default",
+      "properties": {
+        "File type": "Development / XML",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentXMLGray",
+      "fileSlug": "file-type-development-xml-gray",
+      "displayName": "File type=Development / XML, Type=Gray",
+      "properties": {
+        "File type": "Development / XML",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDevelopmentXMLSolid",
+      "fileSlug": "file-type-development-xml-solid",
+      "displayName": "File type=Development / XML, Type=Solid",
+      "properties": {
+        "File type": "Development / XML",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentCSVDefault",
+      "fileSlug": "file-type-document-csv-default",
+      "displayName": "File type=Document / CSV, Type=Default",
+      "properties": {
+        "File type": "Document / CSV",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentCSVGray",
+      "fileSlug": "file-type-document-csv-gray",
+      "displayName": "File type=Document / CSV, Type=Gray",
+      "properties": {
+        "File type": "Document / CSV",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentCSVSolid",
+      "fileSlug": "file-type-document-csv-solid",
+      "displayName": "File type=Document / CSV, Type=Solid",
+      "properties": {
+        "File type": "Document / CSV",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentDOCDefault",
+      "fileSlug": "file-type-document-doc-default",
+      "displayName": "File type=Document / DOC, Type=Default",
+      "properties": {
+        "File type": "Document / DOC",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentDOCGray",
+      "fileSlug": "file-type-document-doc-gray",
+      "displayName": "File type=Document / DOC, Type=Gray",
+      "properties": {
+        "File type": "Document / DOC",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentDOCSolid",
+      "fileSlug": "file-type-document-doc-solid",
+      "displayName": "File type=Document / DOC, Type=Solid",
+      "properties": {
+        "File type": "Document / DOC",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentDOCXDefault",
+      "fileSlug": "file-type-document-docx-default",
+      "displayName": "File type=Document / DOCX, Type=Default",
+      "properties": {
+        "File type": "Document / DOCX",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentDOCXGray",
+      "fileSlug": "file-type-document-docx-gray",
+      "displayName": "File type=Document / DOCX, Type=Gray",
+      "properties": {
+        "File type": "Document / DOCX",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentDOCXSolid",
+      "fileSlug": "file-type-document-docx-solid",
+      "displayName": "File type=Document / DOCX, Type=Solid",
+      "properties": {
+        "File type": "Document / DOCX",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPDFDefault",
+      "fileSlug": "file-type-document-pdf-default",
+      "displayName": "File type=Document / PDF, Type=Default",
+      "properties": {
+        "File type": "Document / PDF",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPDFGray",
+      "fileSlug": "file-type-document-pdf-gray",
+      "displayName": "File type=Document / PDF, Type=Gray",
+      "properties": {
+        "File type": "Document / PDF",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPDFSolid",
+      "fileSlug": "file-type-document-pdf-solid",
+      "displayName": "File type=Document / PDF, Type=Solid",
+      "properties": {
+        "File type": "Document / PDF",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPPTDefault",
+      "fileSlug": "file-type-document-ppt-default",
+      "displayName": "File type=Document / PPT, Type=Default",
+      "properties": {
+        "File type": "Document / PPT",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPPTGray",
+      "fileSlug": "file-type-document-ppt-gray",
+      "displayName": "File type=Document / PPT, Type=Gray",
+      "properties": {
+        "File type": "Document / PPT",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPPTSolid",
+      "fileSlug": "file-type-document-ppt-solid",
+      "displayName": "File type=Document / PPT, Type=Solid",
+      "properties": {
+        "File type": "Document / PPT",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPPTXDefault",
+      "fileSlug": "file-type-document-pptx-default",
+      "displayName": "File type=Document / PPTX, Type=Default",
+      "properties": {
+        "File type": "Document / PPTX",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPPTXGray",
+      "fileSlug": "file-type-document-pptx-gray",
+      "displayName": "File type=Document / PPTX, Type=Gray",
+      "properties": {
+        "File type": "Document / PPTX",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentPPTXSolid",
+      "fileSlug": "file-type-document-pptx-solid",
+      "displayName": "File type=Document / PPTX, Type=Solid",
+      "properties": {
+        "File type": "Document / PPTX",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentTXTDefault",
+      "fileSlug": "file-type-document-txt-default",
+      "displayName": "File type=Document / TXT, Type=Default",
+      "properties": {
+        "File type": "Document / TXT",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentTXTGray",
+      "fileSlug": "file-type-document-txt-gray",
+      "displayName": "File type=Document / TXT, Type=Gray",
+      "properties": {
+        "File type": "Document / TXT",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentTXTSolid",
+      "fileSlug": "file-type-document-txt-solid",
+      "displayName": "File type=Document / TXT, Type=Solid",
+      "properties": {
+        "File type": "Document / TXT",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentXLSDefault",
+      "fileSlug": "file-type-document-xls-default",
+      "displayName": "File type=Document / XLS, Type=Default",
+      "properties": {
+        "File type": "Document / XLS",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentXLSGray",
+      "fileSlug": "file-type-document-xls-gray",
+      "displayName": "File type=Document / XLS, Type=Gray",
+      "properties": {
+        "File type": "Document / XLS",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentXLSSolid",
+      "fileSlug": "file-type-document-xls-solid",
+      "displayName": "File type=Document / XLS, Type=Solid",
+      "properties": {
+        "File type": "Document / XLS",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentXLSXDefault",
+      "fileSlug": "file-type-document-xlsx-default",
+      "displayName": "File type=Document / XLSX, Type=Default",
+      "properties": {
+        "File type": "Document / XLSX",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentXLSXGray",
+      "fileSlug": "file-type-document-xlsx-gray",
+      "displayName": "File type=Document / XLSX, Type=Gray",
+      "properties": {
+        "File type": "Document / XLSX",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeDocumentXLSXSolid",
+      "fileSlug": "file-type-document-xlsx-solid",
+      "displayName": "File type=Document / XLSX, Type=Solid",
+      "properties": {
+        "File type": "Document / XLSX",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageEPSDefault",
+      "fileSlug": "file-type-image-eps-default",
+      "displayName": "File type=Image / EPS, Type=Default",
+      "properties": {
+        "File type": "Image / EPS",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageEPSGray",
+      "fileSlug": "file-type-image-eps-gray",
+      "displayName": "File type=Image / EPS, Type=Gray",
+      "properties": {
+        "File type": "Image / EPS",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageEPSSolid",
+      "fileSlug": "file-type-image-eps-solid",
+      "displayName": "File type=Image / EPS, Type=Solid",
+      "properties": {
+        "File type": "Image / EPS",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageGIFDefault",
+      "fileSlug": "file-type-image-gif-default",
+      "displayName": "File type=Image / GIF, Type=Default",
+      "properties": {
+        "File type": "Image / GIF",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageGIFGray",
+      "fileSlug": "file-type-image-gif-gray",
+      "displayName": "File type=Image / GIF, Type=Gray",
+      "properties": {
+        "File type": "Image / GIF",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageGIFSolid",
+      "fileSlug": "file-type-image-gif-solid",
+      "displayName": "File type=Image / GIF, Type=Solid",
+      "properties": {
+        "File type": "Image / GIF",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageIMGDefault",
+      "fileSlug": "file-type-image-img-default",
+      "displayName": "File type=Image / IMG, Type=Default",
+      "properties": {
+        "File type": "Image / IMG",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageIMGGray",
+      "fileSlug": "file-type-image-img-gray",
+      "displayName": "File type=Image / IMG, Type=Gray",
+      "properties": {
+        "File type": "Image / IMG",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageIMGSolid",
+      "fileSlug": "file-type-image-img-solid",
+      "displayName": "File type=Image / IMG, Type=Solid",
+      "properties": {
+        "File type": "Image / IMG",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageJPEGDefault",
+      "fileSlug": "file-type-image-jpeg-default",
+      "displayName": "File type=Image / JPEG, Type=Default",
+      "properties": {
+        "File type": "Image / JPEG",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageJPEGGray",
+      "fileSlug": "file-type-image-jpeg-gray",
+      "displayName": "File type=Image / JPEG, Type=Gray",
+      "properties": {
+        "File type": "Image / JPEG",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageJPEGSolid",
+      "fileSlug": "file-type-image-jpeg-solid",
+      "displayName": "File type=Image / JPEG, Type=Solid",
+      "properties": {
+        "File type": "Image / JPEG",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageJPGDefault",
+      "fileSlug": "file-type-image-jpg-default",
+      "displayName": "File type=Image / JPG, Type=Default",
+      "properties": {
+        "File type": "Image / JPG",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageJPGGray",
+      "fileSlug": "file-type-image-jpg-gray",
+      "displayName": "File type=Image / JPG, Type=Gray",
+      "properties": {
+        "File type": "Image / JPG",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageJPGSolid",
+      "fileSlug": "file-type-image-jpg-solid",
+      "displayName": "File type=Image / JPG, Type=Solid",
+      "properties": {
+        "File type": "Image / JPG",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImagePNGDefault",
+      "fileSlug": "file-type-image-png-default",
+      "displayName": "File type=Image / PNG, Type=Default",
+      "properties": {
+        "File type": "Image / PNG",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImagePNGGray",
+      "fileSlug": "file-type-image-png-gray",
+      "displayName": "File type=Image / PNG, Type=Gray",
+      "properties": {
+        "File type": "Image / PNG",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImagePNGSolid",
+      "fileSlug": "file-type-image-png-solid",
+      "displayName": "File type=Image / PNG, Type=Solid",
+      "properties": {
+        "File type": "Image / PNG",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageSVGDefault",
+      "fileSlug": "file-type-image-svg-default",
+      "displayName": "File type=Image / SVG, Type=Default",
+      "properties": {
+        "File type": "Image / SVG",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageSVGGray",
+      "fileSlug": "file-type-image-svg-gray",
+      "displayName": "File type=Image / SVG, Type=Gray",
+      "properties": {
+        "File type": "Image / SVG",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageSVGSolid",
+      "fileSlug": "file-type-image-svg-solid",
+      "displayName": "File type=Image / SVG, Type=Solid",
+      "properties": {
+        "File type": "Image / SVG",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageTIFFDefault",
+      "fileSlug": "file-type-image-tiff-default",
+      "displayName": "File type=Image / TIFF, Type=Default",
+      "properties": {
+        "File type": "Image / TIFF",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageTIFFGray",
+      "fileSlug": "file-type-image-tiff-gray",
+      "displayName": "File type=Image / TIFF, Type=Gray",
+      "properties": {
+        "File type": "Image / TIFF",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageTIFFSolid",
+      "fileSlug": "file-type-image-tiff-solid",
+      "displayName": "File type=Image / TIFF, Type=Solid",
+      "properties": {
+        "File type": "Image / TIFF",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageWebPDefault",
+      "fileSlug": "file-type-image-webp-default",
+      "displayName": "File type=Image / WebP, Type=Default",
+      "properties": {
+        "File type": "Image / WebP",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageWebPGray",
+      "fileSlug": "file-type-image-webp-gray",
+      "displayName": "File type=Image / WebP, Type=Gray",
+      "properties": {
+        "File type": "Image / WebP",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeImageWebPSolid",
+      "fileSlug": "file-type-image-webp-solid",
+      "displayName": "File type=Image / WebP, Type=Solid",
+      "properties": {
+        "File type": "Image / WebP",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaAVIDefault",
+      "fileSlug": "file-type-media-avi-default",
+      "displayName": "File type=Media / AVI, Type=Default",
+      "properties": {
+        "File type": "Media / AVI",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaAVIGray",
+      "fileSlug": "file-type-media-avi-gray",
+      "displayName": "File type=Media / AVI, Type=Gray",
+      "properties": {
+        "File type": "Media / AVI",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaAVISolid",
+      "fileSlug": "file-type-media-avi-solid",
+      "displayName": "File type=Media / AVI, Type=Solid",
+      "properties": {
+        "File type": "Media / AVI",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMKVDefault",
+      "fileSlug": "file-type-media-mkv-default",
+      "displayName": "File type=Media / MKV, Type=Default",
+      "properties": {
+        "File type": "Media / MKV",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMKVGray",
+      "fileSlug": "file-type-media-mkv-gray",
+      "displayName": "File type=Media / MKV, Type=Gray",
+      "properties": {
+        "File type": "Media / MKV",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMKVSolid",
+      "fileSlug": "file-type-media-mkv-solid",
+      "displayName": "File type=Media / MKV, Type=Solid",
+      "properties": {
+        "File type": "Media / MKV",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMP3Default",
+      "fileSlug": "file-type-media-mp3-default",
+      "displayName": "File type=Media / MP3, Type=Default",
+      "properties": {
+        "File type": "Media / MP3",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMP3Gray",
+      "fileSlug": "file-type-media-mp3-gray",
+      "displayName": "File type=Media / MP3, Type=Gray",
+      "properties": {
+        "File type": "Media / MP3",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMP3Solid",
+      "fileSlug": "file-type-media-mp3-solid",
+      "displayName": "File type=Media / MP3, Type=Solid",
+      "properties": {
+        "File type": "Media / MP3",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMP4Default",
+      "fileSlug": "file-type-media-mp4-default",
+      "displayName": "File type=Media / MP4, Type=Default",
+      "properties": {
+        "File type": "Media / MP4",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMP4Gray",
+      "fileSlug": "file-type-media-mp4-gray",
+      "displayName": "File type=Media / MP4, Type=Gray",
+      "properties": {
+        "File type": "Media / MP4",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMP4Solid",
+      "fileSlug": "file-type-media-mp4-solid",
+      "displayName": "File type=Media / MP4, Type=Solid",
+      "properties": {
+        "File type": "Media / MP4",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMPEGDefault",
+      "fileSlug": "file-type-media-mpeg-default",
+      "displayName": "File type=Media / MPEG, Type=Default",
+      "properties": {
+        "File type": "Media / MPEG",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMPEGGray",
+      "fileSlug": "file-type-media-mpeg-gray",
+      "displayName": "File type=Media / MPEG, Type=Gray",
+      "properties": {
+        "File type": "Media / MPEG",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaMPEGSolid",
+      "fileSlug": "file-type-media-mpeg-solid",
+      "displayName": "File type=Media / MPEG, Type=Solid",
+      "properties": {
+        "File type": "Media / MPEG",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaWAVDefault",
+      "fileSlug": "file-type-media-wav-default",
+      "displayName": "File type=Media / WAV, Type=Default",
+      "properties": {
+        "File type": "Media / WAV",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaWAVGray",
+      "fileSlug": "file-type-media-wav-gray",
+      "displayName": "File type=Media / WAV, Type=Gray",
+      "properties": {
+        "File type": "Media / WAV",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeMediaWAVSolid",
+      "fileSlug": "file-type-media-wav-solid",
+      "displayName": "File type=Media / WAV, Type=Solid",
+      "properties": {
+        "File type": "Media / WAV",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleAudioDefault",
+      "fileSlug": "file-type-simple-audio-default",
+      "displayName": "File type=Simple / Audio, Type=Default",
+      "properties": {
+        "File type": "Simple / Audio",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleCodeDefault",
+      "fileSlug": "file-type-simple-code-default",
+      "displayName": "File type=Simple / Code, Type=Default",
+      "properties": {
+        "File type": "Simple / Code",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleDocumentDefault",
+      "fileSlug": "file-type-simple-document-default",
+      "displayName": "File type=Simple / Document, Type=Default",
+      "properties": {
+        "File type": "Simple / Document",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleEmptyDefault",
+      "fileSlug": "file-type-simple-empty-default",
+      "displayName": "File type=Simple / Empty, Type=Default",
+      "properties": {
+        "File type": "Simple / Empty",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleEmptyGray",
+      "fileSlug": "file-type-simple-empty-gray",
+      "displayName": "File type=Simple / Empty, Type=Gray",
+      "properties": {
+        "File type": "Simple / Empty",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleEmptySolid",
+      "fileSlug": "file-type-simple-empty-solid",
+      "displayName": "File type=Simple / Empty, Type=Solid",
+      "properties": {
+        "File type": "Simple / Empty",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleFolderDefault",
+      "fileSlug": "file-type-simple-folder-default",
+      "displayName": "File type=Simple / Folder, Type=Default",
+      "properties": {
+        "File type": "Simple / Folder",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleFolderGray",
+      "fileSlug": "file-type-simple-folder-gray",
+      "displayName": "File type=Simple / Folder, Type=Gray",
+      "properties": {
+        "File type": "Simple / Folder",
+        "Type": "Gray"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleFolderSolid",
+      "fileSlug": "file-type-simple-folder-solid",
+      "displayName": "File type=Simple / Folder, Type=Solid",
+      "properties": {
+        "File type": "Simple / Folder",
+        "Type": "Solid"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleImageDefault",
+      "fileSlug": "file-type-simple-image-default",
+      "displayName": "File type=Simple / Image, Type=Default",
+      "properties": {
+        "File type": "Simple / Image",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimplePDFDefault",
+      "fileSlug": "file-type-simple-pdf-default",
+      "displayName": "File type=Simple / PDF, Type=Default",
+      "properties": {
+        "File type": "Simple / PDF",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleSpreadsheetDefault",
+      "fileSlug": "file-type-simple-spreadsheet-default",
+      "displayName": "File type=Simple / Spreadsheet, Type=Default",
+      "properties": {
+        "File type": "Simple / Spreadsheet",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleVideo01Default",
+      "fileSlug": "file-type-simple-video-01-default",
+      "displayName": "File type=Simple / Video 01, Type=Default",
+      "properties": {
+        "File type": "Simple / Video 01",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    },
+    {
+      "componentName": "FileTypeSimpleVideo02Default",
+      "fileSlug": "file-type-simple-video-02-default",
+      "displayName": "File type=Simple / Video 02, Type=Default",
+      "properties": {
+        "File type": "Simple / Video 02",
+        "Type": "Default"
+      },
+      "viewBox": "0 0 40 40"
+    }
+  ]
+}

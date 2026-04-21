@@ -1,0 +1,1135 @@
+{
+  "$metadata": {
+    "source": "plugin-misc-icons.json",
+    "sourceEntry": "Payment method icon",
+    "description": "Payment-method brand chips (Visa, MC, PayPal, JCB, Giropay, …) in sm / md.",
+    "pascalPrefix": "Payment",
+    "orderedProps": [
+      "Payment method",
+      "Size"
+    ],
+    "count": 112
+  },
+  "icons": [
+    {
+      "componentName": "PaymentAffirmMd",
+      "fileSlug": "payment-affirm-md",
+      "displayName": "Size=md, Payment method=Affirm",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Affirm"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentAffirmSm",
+      "fileSlug": "payment-affirm-sm",
+      "displayName": "Size=sm, Payment method=Affirm",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Affirm"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentAfterpayMd",
+      "fileSlug": "payment-afterpay-md",
+      "displayName": "Size=md, Payment method=Afterpay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Afterpay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentAfterpaySm",
+      "fileSlug": "payment-afterpay-sm",
+      "displayName": "Size=sm, Payment method=Afterpay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Afterpay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentAlipayMd",
+      "fileSlug": "payment-alipay-md",
+      "displayName": "Size=md, Payment method=Alipay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Alipay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentAlipaySm",
+      "fileSlug": "payment-alipay-sm",
+      "displayName": "Size=sm, Payment method=Alipay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Alipay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentAmazonMd",
+      "fileSlug": "payment-amazon-md",
+      "displayName": "Size=md, Payment method=Amazon",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Amazon"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentAmazonSm",
+      "fileSlug": "payment-amazon-sm",
+      "displayName": "Size=sm, Payment method=Amazon",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Amazon"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentAMEXMd",
+      "fileSlug": "payment-amex-md",
+      "displayName": "Size=md, Payment method=AMEX",
+      "properties": {
+        "Size": "md",
+        "Payment method": "AMEX"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentAMEXSm",
+      "fileSlug": "payment-amex-sm",
+      "displayName": "Size=sm, Payment method=AMEX",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "AMEX"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentApplePayMd",
+      "fileSlug": "payment-applepay-md",
+      "displayName": "Size=md, Payment method=ApplePay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "ApplePay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentApplePaySm",
+      "fileSlug": "payment-applepay-sm",
+      "displayName": "Size=sm, Payment method=ApplePay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "ApplePay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentAydenMd",
+      "fileSlug": "payment-ayden-md",
+      "displayName": "Size=md, Payment method=Ayden",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Ayden"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentAydenSm",
+      "fileSlug": "payment-ayden-sm",
+      "displayName": "Size=sm, Payment method=Ayden",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Ayden"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentBancontactMd",
+      "fileSlug": "payment-bancontact-md",
+      "displayName": "Size=md, Payment method=Bancontact",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Bancontact"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentBancontactSm",
+      "fileSlug": "payment-bancontact-sm",
+      "displayName": "Size=sm, Payment method=Bancontact",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Bancontact"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentBinancePayMd",
+      "fileSlug": "payment-binance-pay-md",
+      "displayName": "Size=md, Payment method=Binance Pay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Binance Pay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentBinancePaySm",
+      "fileSlug": "payment-binance-pay-sm",
+      "displayName": "Size=sm, Payment method=Binance Pay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Binance Pay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentBitcoinCashMd",
+      "fileSlug": "payment-bitcoincash-md",
+      "displayName": "Size=md, Payment method=BitcoinCash",
+      "properties": {
+        "Size": "md",
+        "Payment method": "BitcoinCash"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentBitcoinCashSm",
+      "fileSlug": "payment-bitcoincash-sm",
+      "displayName": "Size=sm, Payment method=BitcoinCash",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "BitcoinCash"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentBitcoinMd",
+      "fileSlug": "payment-bitcoin-md",
+      "displayName": "Size=md, Payment method=Bitcoin",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Bitcoin"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentBitcoinSm",
+      "fileSlug": "payment-bitcoin-sm",
+      "displayName": "Size=sm, Payment method=Bitcoin",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Bitcoin"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentBitpayMd",
+      "fileSlug": "payment-bitpay-md",
+      "displayName": "Size=md, Payment method=Bitpay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Bitpay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentBitpaySm",
+      "fileSlug": "payment-bitpay-sm",
+      "displayName": "Size=sm, Payment method=Bitpay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Bitpay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentBraintreeMd",
+      "fileSlug": "payment-braintree-md",
+      "displayName": "Size=md, Payment method=Braintree",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Braintree"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentBraintreeSm",
+      "fileSlug": "payment-braintree-sm",
+      "displayName": "Size=sm, Payment method=Braintree",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Braintree"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentCashAppPayMd",
+      "fileSlug": "payment-cash-app-pay-md",
+      "displayName": "Size=md, Payment method=Cash App Pay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Cash App Pay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentCashAppPaySm",
+      "fileSlug": "payment-cash-app-pay-sm",
+      "displayName": "Size=sm, Payment method=Cash App Pay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Cash App Pay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentCitadeleMd",
+      "fileSlug": "payment-citadele-md",
+      "displayName": "Size=md, Payment method=Citadele",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Citadele"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentCitadeleSm",
+      "fileSlug": "payment-citadele-sm",
+      "displayName": "Size=sm, Payment method=Citadele",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Citadele"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentCoinbaseMd",
+      "fileSlug": "payment-coinbase-md",
+      "displayName": "Size=md, Payment method=Coinbase",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Coinbase"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentCoinbaseSm",
+      "fileSlug": "payment-coinbase-sm",
+      "displayName": "Size=sm, Payment method=Coinbase",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Coinbase"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentDinersClubMd",
+      "fileSlug": "payment-dinersclub-md",
+      "displayName": "Size=md, Payment method=DinersClub",
+      "properties": {
+        "Size": "md",
+        "Payment method": "DinersClub"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentDinersClubSm",
+      "fileSlug": "payment-dinersclub-sm",
+      "displayName": "Size=sm, Payment method=DinersClub",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "DinersClub"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentDiscoverMd",
+      "fileSlug": "payment-discover-md",
+      "displayName": "Size=md, Payment method=Discover",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Discover"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentDiscoverSm",
+      "fileSlug": "payment-discover-sm",
+      "displayName": "Size=sm, Payment method=Discover",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Discover"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentEloMd",
+      "fileSlug": "payment-elo-md",
+      "displayName": "Size=md, Payment method=Elo",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Elo"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentEloSm",
+      "fileSlug": "payment-elo-sm",
+      "displayName": "Size=sm, Payment method=Elo",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Elo"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentEtheriumMd",
+      "fileSlug": "payment-etherium-md",
+      "displayName": "Size=md, Payment method=Etherium",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Etherium"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentEtheriumSm",
+      "fileSlug": "payment-etherium-sm",
+      "displayName": "Size=sm, Payment method=Etherium",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Etherium"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentForbrugsforeningenMd",
+      "fileSlug": "payment-forbrugsforeningen-md",
+      "displayName": "Size=md, Payment method=Forbrugsforeningen",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Forbrugsforeningen"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentForbrugsforeningenSm",
+      "fileSlug": "payment-forbrugsforeningen-sm",
+      "displayName": "Size=sm, Payment method=Forbrugsforeningen",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Forbrugsforeningen"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentGiropayMd",
+      "fileSlug": "payment-giropay-md",
+      "displayName": "Size=md, Payment method=Giropay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Giropay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentGiropaySm",
+      "fileSlug": "payment-giropay-sm",
+      "displayName": "Size=sm, Payment method=Giropay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Giropay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentGooglePayMd",
+      "fileSlug": "payment-googlepay-md",
+      "displayName": "Size=md, Payment method=GooglePay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "GooglePay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentGooglePaySm",
+      "fileSlug": "payment-googlepay-sm",
+      "displayName": "Size=sm, Payment method=GooglePay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "GooglePay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentIdealMd",
+      "fileSlug": "payment-ideal-md",
+      "displayName": "Size=md, Payment method=Ideal",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Ideal"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentIdealSm",
+      "fileSlug": "payment-ideal-sm",
+      "displayName": "Size=sm, Payment method=Ideal",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Ideal"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentInteracMd",
+      "fileSlug": "payment-interac-md",
+      "displayName": "Size=md, Payment method=Interac",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Interac"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentInteracSm",
+      "fileSlug": "payment-interac-sm",
+      "displayName": "Size=sm, Payment method=Interac",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Interac"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentJCBMd",
+      "fileSlug": "payment-jcb-md",
+      "displayName": "Size=md, Payment method=JCB",
+      "properties": {
+        "Size": "md",
+        "Payment method": "JCB"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentJCBSm",
+      "fileSlug": "payment-jcb-sm",
+      "displayName": "Size=sm, Payment method=JCB",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "JCB"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentKlarnaMd",
+      "fileSlug": "payment-klarna-md",
+      "displayName": "Size=md, Payment method=Klarna",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Klarna"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentKlarnaSm",
+      "fileSlug": "payment-klarna-sm",
+      "displayName": "Size=sm, Payment method=Klarna",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Klarna"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentLightcoinMd",
+      "fileSlug": "payment-lightcoin-md",
+      "displayName": "Size=md, Payment method=Lightcoin",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Lightcoin"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentLightcoinSm",
+      "fileSlug": "payment-lightcoin-sm",
+      "displayName": "Size=sm, Payment method=Lightcoin",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Lightcoin"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentMaestroMd",
+      "fileSlug": "payment-maestro-md",
+      "displayName": "Size=md, Payment method=Maestro",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Maestro"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentMaestroSm",
+      "fileSlug": "payment-maestro-sm",
+      "displayName": "Size=sm, Payment method=Maestro",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Maestro"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentMastercardMd",
+      "fileSlug": "payment-mastercard-md",
+      "displayName": "Size=md, Payment method=Mastercard",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Mastercard"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentMastercardSm",
+      "fileSlug": "payment-mastercard-sm",
+      "displayName": "Size=sm, Payment method=Mastercard",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Mastercard"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentPayoneerMd",
+      "fileSlug": "payment-payoneer-md",
+      "displayName": "Size=md, Payment method=Payoneer",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Payoneer"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentPayoneerSm",
+      "fileSlug": "payment-payoneer-sm",
+      "displayName": "Size=sm, Payment method=Payoneer",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Payoneer"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentPayPalMd",
+      "fileSlug": "payment-paypal-md",
+      "displayName": "Size=md, Payment method=PayPal",
+      "properties": {
+        "Size": "md",
+        "Payment method": "PayPal"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentPayPalSm",
+      "fileSlug": "payment-paypal-sm",
+      "displayName": "Size=sm, Payment method=PayPal",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "PayPal"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentPaysafeMd",
+      "fileSlug": "payment-paysafe-md",
+      "displayName": "Size=md, Payment method=Paysafe",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Paysafe"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentPaysafeSm",
+      "fileSlug": "payment-paysafe-sm",
+      "displayName": "Size=sm, Payment method=Paysafe",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Paysafe"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentQiwiMd",
+      "fileSlug": "payment-qiwi-md",
+      "displayName": "Size=md, Payment method=Qiwi",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Qiwi"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentQiwiSm",
+      "fileSlug": "payment-qiwi-sm",
+      "displayName": "Size=sm, Payment method=Qiwi",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Qiwi"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentRazorpayMd",
+      "fileSlug": "payment-razorpay-md",
+      "displayName": "Size=md, Payment method=Razorpay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Razorpay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentRazorpaySm",
+      "fileSlug": "payment-razorpay-sm",
+      "displayName": "Size=sm, Payment method=Razorpay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Razorpay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentRevolutMd",
+      "fileSlug": "payment-revolut-md",
+      "displayName": "Size=md, Payment method=Revolut",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Revolut"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentRevolutSm",
+      "fileSlug": "payment-revolut-sm",
+      "displayName": "Size=sm, Payment method=Revolut",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Revolut"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentRuPayMd",
+      "fileSlug": "payment-rupay-md",
+      "displayName": "Size=md, Payment method=RuPay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "RuPay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentRuPaySm",
+      "fileSlug": "payment-rupay-sm",
+      "displayName": "Size=sm, Payment method=RuPay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "RuPay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentSamsungPayMd",
+      "fileSlug": "payment-samsung-pay-md",
+      "displayName": "Size=md, Payment method=Samsung Pay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Samsung Pay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentSamsungPaySm",
+      "fileSlug": "payment-samsung-pay-sm",
+      "displayName": "Size=sm, Payment method=Samsung Pay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Samsung Pay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentSEPAMd",
+      "fileSlug": "payment-sepa-md",
+      "displayName": "Size=md, Payment method=SEPA",
+      "properties": {
+        "Size": "md",
+        "Payment method": "SEPA"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentSEPASm",
+      "fileSlug": "payment-sepa-sm",
+      "displayName": "Size=sm, Payment method=SEPA",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "SEPA"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentShopeePayMd",
+      "fileSlug": "payment-shopee-pay-md",
+      "displayName": "Size=md, Payment method=Shopee Pay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Shopee Pay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentShopeePaySm",
+      "fileSlug": "payment-shopee-pay-sm",
+      "displayName": "Size=sm, Payment method=Shopee Pay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Shopee Pay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentShopPayMd",
+      "fileSlug": "payment-shop-pay-md",
+      "displayName": "Size=md, Payment method=Shop Pay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Shop Pay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentShopPaySm",
+      "fileSlug": "payment-shop-pay-sm",
+      "displayName": "Size=sm, Payment method=Shop Pay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Shop Pay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentSkrillMd",
+      "fileSlug": "payment-skrill-md",
+      "displayName": "Size=md, Payment method=Skrill",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Skrill"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentSkrillSm",
+      "fileSlug": "payment-skrill-sm",
+      "displayName": "Size=sm, Payment method=Skrill",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Skrill"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentSofortMd",
+      "fileSlug": "payment-sofort-md",
+      "displayName": "Size=md, Payment method=Sofort",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Sofort"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentSofortSm",
+      "fileSlug": "payment-sofort-sm",
+      "displayName": "Size=sm, Payment method=Sofort",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Sofort"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentStripeMd",
+      "fileSlug": "payment-stripe-md",
+      "displayName": "Size=md, Payment method=Stripe",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Stripe"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentStripeSm",
+      "fileSlug": "payment-stripe-sm",
+      "displayName": "Size=sm, Payment method=Stripe",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Stripe"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentUnionPayMd",
+      "fileSlug": "payment-unionpay-md",
+      "displayName": "Size=md, Payment method=UnionPay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "UnionPay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentUnionPaySm",
+      "fileSlug": "payment-unionpay-sm",
+      "displayName": "Size=sm, Payment method=UnionPay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "UnionPay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentUPIMd",
+      "fileSlug": "payment-upi-md",
+      "displayName": "Size=md, Payment method=UPI",
+      "properties": {
+        "Size": "md",
+        "Payment method": "UPI"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentUPISm",
+      "fileSlug": "payment-upi-sm",
+      "displayName": "Size=sm, Payment method=UPI",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "UPI"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentVenmoMd",
+      "fileSlug": "payment-venmo-md",
+      "displayName": "Size=md, Payment method=Venmo",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Venmo"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentVenmoSm",
+      "fileSlug": "payment-venmo-sm",
+      "displayName": "Size=sm, Payment method=Venmo",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Venmo"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentVerifoneMd",
+      "fileSlug": "payment-verifone-md",
+      "displayName": "Size=md, Payment method=Verifone",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Verifone"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentVerifoneSm",
+      "fileSlug": "payment-verifone-sm",
+      "displayName": "Size=sm, Payment method=Verifone",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Verifone"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentVisaMd",
+      "fileSlug": "payment-visa-md",
+      "displayName": "Size=md, Payment method=Visa",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Visa"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentVisaSm",
+      "fileSlug": "payment-visa-sm",
+      "displayName": "Size=sm, Payment method=Visa",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Visa"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentWebmoneyMd",
+      "fileSlug": "payment-webmoney-md",
+      "displayName": "Size=md, Payment method=Webmoney",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Webmoney"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentWebmoneySm",
+      "fileSlug": "payment-webmoney-sm",
+      "displayName": "Size=sm, Payment method=Webmoney",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Webmoney"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentWeChatMd",
+      "fileSlug": "payment-wechat-md",
+      "displayName": "Size=md, Payment method=WeChat",
+      "properties": {
+        "Size": "md",
+        "Payment method": "WeChat"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentWeChatPayMd",
+      "fileSlug": "payment-wechat-pay-md",
+      "displayName": "Size=md, Payment method=WeChat Pay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "WeChat Pay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentWeChatPaySm",
+      "fileSlug": "payment-wechat-pay-sm",
+      "displayName": "Size=sm, Payment method=WeChat Pay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "WeChat Pay"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentWeChatSm",
+      "fileSlug": "payment-wechat-sm",
+      "displayName": "Size=sm, Payment method=WeChat",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "WeChat"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentWiseMd",
+      "fileSlug": "payment-wise-md",
+      "displayName": "Size=md, Payment method=Wise",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Wise"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentWiseSm",
+      "fileSlug": "payment-wise-sm",
+      "displayName": "Size=sm, Payment method=Wise",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Wise"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentYandexMd",
+      "fileSlug": "payment-yandex-md",
+      "displayName": "Size=md, Payment method=Yandex",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Yandex"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentYandexSm",
+      "fileSlug": "payment-yandex-sm",
+      "displayName": "Size=sm, Payment method=Yandex",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Yandex"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentZelleMd",
+      "fileSlug": "payment-zelle-md",
+      "displayName": "Size=md, Payment method=Zelle",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Zelle"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentZelleSm",
+      "fileSlug": "payment-zelle-sm",
+      "displayName": "Size=sm, Payment method=Zelle",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Zelle"
+      },
+      "viewBox": "0 0 34 24"
+    },
+    {
+      "componentName": "PaymentZipPayMd",
+      "fileSlug": "payment-zip-pay-md",
+      "displayName": "Size=md, Payment method=Zip Pay",
+      "properties": {
+        "Size": "md",
+        "Payment method": "Zip Pay"
+      },
+      "viewBox": "0 0 46 32"
+    },
+    {
+      "componentName": "PaymentZipPaySm",
+      "fileSlug": "payment-zip-pay-sm",
+      "displayName": "Size=sm, Payment method=Zip Pay",
+      "properties": {
+        "Size": "sm",
+        "Payment method": "Zip Pay"
+      },
+      "viewBox": "0 0 34 24"
+    }
+  ]
+}

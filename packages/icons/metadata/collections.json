@@ -1,0 +1,109 @@
+{
+  "$metadata": {
+    "description": "Index of variant-expanded collections extracted from Figma Misc-icons frames."
+  },
+  "collections": [
+    {
+      "slug": "file-types",
+      "displayName": "File types",
+      "pascalPrefix": "FileType",
+      "orderedProps": [
+        "File type",
+        "Type"
+      ],
+      "count": 153,
+      "description": "Colourful file-type indicators (PDF, DOCX, XLS, ZIP, MP3, JS, JSON, etc.) in Default / Gray / Solid."
+    },
+    {
+      "slug": "social",
+      "displayName": "Social platforms",
+      "pascalPrefix": "Social",
+      "orderedProps": [
+        "Platform",
+        "Grayscale",
+        "State"
+      ],
+      "count": 102,
+      "description": "Social platform badges (Facebook, X, Instagram, …) with Grayscale and interaction State variants."
+    },
+    {
+      "slug": "payments",
+      "displayName": "Payment methods",
+      "pascalPrefix": "Payment",
+      "orderedProps": [
+        "Payment method",
+        "Size"
+      ],
+      "count": 112,
+      "description": "Payment-method brand chips (Visa, MC, PayPal, JCB, Giropay, …) in sm / md."
+    },
+    {
+      "slug": "checks",
+      "displayName": "Check marks",
+      "pascalPrefix": "Check",
+      "orderedProps": [
+        "Type",
+        "Size",
+        "Color"
+      ],
+      "count": 36,
+      "description": "Check badges — Default / Filled / Line, per size and semantic colour."
+    },
+    {
+      "slug": "integrations",
+      "displayName": "Integrations",
+      "pascalPrefix": "Integration",
+      "orderedProps": [
+        "Integration",
+        "Grayscale"
+      ],
+      "count": 32,
+      "description": "Integration / tool brand tiles (Next.js, Vite, …) with Grayscale variant."
+    },
+    {
+      "slug": "stars",
+      "displayName": "Stars",
+      "pascalPrefix": "Star",
+      "orderedProps": [
+        "Fill",
+        "Color"
+      ],
+      "count": 22,
+      "description": "Star rating glyphs with fill percentage and colour."
+    },
+    {
+      "slug": "folders",
+      "displayName": "Folders",
+      "pascalPrefix": "Folder",
+      "orderedProps": [
+        "Type",
+        "Open"
+      ],
+      "count": 8,
+      "description": "Folder badges — Brand / Gray × Open / Closed."
+    },
+    {
+      "slug": "featured-shapes",
+      "displayName": "Featured shapes",
+      "pascalPrefix": "FeaturedShape",
+      "orderedProps": [
+        "Size",
+        "Color",
+        "Type"
+      ],
+      "count": 68,
+      "description": "Shape CONTAINERS to host 24px icons at larger display sizes (Size × Color × Type)."
+    },
+    {
+      "slug": "featured-shape-outlines",
+      "displayName": "Featured shape outlines",
+      "pascalPrefix": "FeaturedShapeOutline",
+      "orderedProps": [
+        "Size",
+        "Color"
+      ],
+      "count": 20,
+      "description": "Outline-style shape containers × Size × Color."
+    }
+  ]
+}
