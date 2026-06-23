@@ -213,7 +213,12 @@
     "./styles/colors": "./dist/styles/colors.css",
     "./styles/typography": "./dist/styles/typography.css",
     "./styles/shadows": "./dist/styles/shadows.css",
-    "./styles/spacing": "./dist/styles/spacing.css"
+    "./styles/spacing": "./dist/styles/spacing.css",
+    "./icon": {
+      "types": "./dist/icon/index.d.ts",
+      "import": "./dist/icon.js",
+      "require": "./dist/icon.cjs"
+    }
   },
   "typesVersions": {
     "*": {

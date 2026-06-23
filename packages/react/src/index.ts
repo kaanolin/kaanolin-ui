@@ -566,6 +566,9 @@ export { kbdStyles } from "./kbd";
 export { FeaturedIcon, type FeaturedIconProps } from "./featured-icon";
 export { featuredIconStyles, featuredIconSlotStyles } from "./featured-icon";
 
+// Icon (Untitled UI line set)
+export { Icon, type IconProps, type IconName } from "./icon";
+
 // CodeBlock
 export { CodeBlock, type CodeBlockProps } from "./code-block";
 export {
