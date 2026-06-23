@@ -14,9 +14,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@kaanolin/react": "*",
-    "@kaanolin/react-icons": "*",
-    "@kaanolin/utils": "*",
+    "@kaanolin/react": "^1.5.1",
+    "@kaanolin/react-icons": "^0.1.1",
     "@tanstack/react-router": "^1.87.0",
     "@tanstack/router-devtools": "^1.87.0",
     "@tanstack/router-plugin": "^1.87.0",

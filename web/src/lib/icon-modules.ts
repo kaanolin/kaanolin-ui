@@ -1,8 +1,8 @@
 import type { ComponentType, SVGProps } from "react";
-import lineJson from "../../../packages/icons/metadata/icons-line.json";
-import solidJson from "../../../packages/icons/metadata/icons-solid.json";
-import duotoneJson from "../../../packages/icons/metadata/icons-duotone.json";
-import duocolorJson from "../../../packages/icons/metadata/icons-duocolor.json";
+import lineJson from "@kaanolin/react-icons/metadata/icons-line";
+import solidJson from "@kaanolin/react-icons/metadata/icons-solid";
+import duotoneJson from "@kaanolin/react-icons/metadata/icons-duotone";
+import duocolorJson from "@kaanolin/react-icons/metadata/icons-duocolor";
 
 export type Variant = "line" | "solid" | "duotone" | "duocolor";
 
@@ -64,26 +64,32 @@ export function getIconsBy(filter: {
 }
 
 /**
- * Lazy module loader — returns a function that resolves to the React component.
- * Only fetches the file when invoked, so browsing thousands of icons at once
- * doesn't load thousands of modules in dev.
+ * Lazy category loaders targeting the published @kaanolin/react-icons dist.
+ * Each category ships as a single bundle (one file per variant/category),
+ * so we code-split per-category via `import.meta.glob` over node_modules.
  */
-const modules = import.meta.glob<{
+const categoryModules = import.meta.glob<{
   [key: string]: ComponentType<SVGProps<SVGSVGElement>>;
 }>([
-  "../../../packages/icons/src/line/**/*.tsx",
-  "../../../packages/icons/src/solid/**/*.tsx",
-  "../../../packages/icons/src/duotone/**/*.tsx",
-  "../../../packages/icons/src/duocolor/**/*.tsx",
+  "../../../node_modules/@kaanolin/react-icons/dist/line/*.js",
+  "../../../node_modules/@kaanolin/react-icons/dist/solid/*.js",
+  "../../../node_modules/@kaanolin/react-icons/dist/duotone/*.js",
+  "../../../node_modules/@kaanolin/react-icons/dist/duocolor/*.js",
 ]);
 
-export async function loadIcon(entry: IconEntry): Promise<ComponentType<SVGProps<SVGSVGElement>>> {
-  const path = Object.keys(modules).find((k) =>
-    k.endsWith(`/${entry.variant}/${entry.category}/${entry.name}.tsx`),
+export async function loadIcon(
+  entry: IconEntry,
+): Promise<ComponentType<SVGProps<SVGSVGElement>>> {
+  const path = Object.keys(categoryModules).find((k) =>
+    k.endsWith(`/${entry.variant}/${entry.category}.js`),
   );
-  if (!path) throw new Error(`Icon module not found: ${entry.variant}/${entry.category}/${entry.name}`);
-  const mod = await modules[path]();
+  if (!path) {
+    throw new Error(
+      `No bundle for ${entry.variant}/${entry.category} — check that @kaanolin/react-icons is installed.`,
+    );
+  }
+  const mod = await categoryModules[path]();
   const Component = (mod as Record<string, ComponentType<SVGProps<SVGSVGElement>>>)[entry.name];
-  if (!Component) throw new Error(`Icon export ${entry.name} missing in module ${path}`);
+  if (!Component) throw new Error(`Icon export ${entry.name} not found in bundle ${path}`);
   return Component;
 }

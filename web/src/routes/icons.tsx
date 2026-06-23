@@ -26,7 +26,7 @@ import {
   type IconEntry,
   type Variant,
 } from "../lib/icon-modules";
-import categoriesJson from "../../../packages/icons/metadata/categories.json";
+import categoriesJson from "@kaanolin/react-icons/metadata/categories";
 import { H2 } from "../components/Heading";
 import { DocsPagination } from "../layout/DocsPagination";
 

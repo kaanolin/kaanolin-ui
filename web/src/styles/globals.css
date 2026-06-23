@@ -2,15 +2,12 @@
 
 @source "../../src/**/*.ts";
 @source "../../src/**/*.tsx";
-@source "../../../packages/react/src/**/*.ts";
-@source "../../../packages/react/src/**/*.tsx";
-@source "../../../packages/icons/src/**/*.tsx";
+@source "../../../node_modules/@kaanolin/react/dist/**/*.js";
+@source "../../../node_modules/@kaanolin/react/dist/**/*.cjs";
+@source "../../../node_modules/@kaanolin/react-icons/dist/**/*.js";
+@source "../../../node_modules/@kaanolin/react-icons/dist/**/*.cjs";
 
-@import "../../../packages/styles/src/colors.css";
-@import "../../../packages/styles/src/typography.css";
-@import "../../../packages/styles/src/shadows.css";
-@import "../../../packages/styles/src/spacing.css";
-@import "../../../packages/styles/src/components.css";
+@import "@kaanolin/react/styles";
 
 html,
 body {
