@@ -1,7 +1,8 @@
 @theme {
   /* typography */
-  --font-display: Inter;
-  --font-body: Inter;
+  --font-display: "InterDisplay", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Roboto Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   --font-weight-regular: 400;
   --font-weight-regular-italic: 400;
   --font-weight-medium: 500;
@@ -32,4 +33,6 @@
   --leading-display-lg: 3.75rem;
   --leading-display-xl: 4.5rem;
   --leading-display-2xl: 5.625rem;
+  /* Untitled UI display headings use -0.02em tracking (canonical --uui-display-tracking) */
+  --tracking-display: -0.02em;
 }
