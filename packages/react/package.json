@@ -1,6 +1,6 @@
 {
   "name": "@kaanolin/react",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "React components for @kaanolin design system",
   "license": "SEE LICENSE IN LICENSE",
   "type": "module",
